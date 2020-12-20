@@ -1,0 +1,1005 @@
+,Unnamed: 0,location,state,checking_amt,duration,credit_history,purpose,credit_amount,savings,employment,installment_commitment,personal_status,other_parties,residence_since,property_magnitude,age,other_payment_plans,housing,existing_credits,job,num_dependents,foreign_worker,class,application_date,works_outside_US,kmeans_labels
+0,0,"Lehigh, PA",Pennsylvania,-2589.19,6.0,'critical/other existing credit',radio/tv,3234,0.0,>=7,0,'male single',none,4,'real estate',67,none,own,2,skilled,1,no,Bad,May-07-1994,no,2
+1,1,"Mifflin, PA",Pennsylvania,53.51,48.0,'existing paid',radio/tv,5951,2.52,1<=X<4,2,'female div/dep/mar',none,2,Other,22,none,own,1,skilled,1,no,Bad,May-08-1994,no,2
+2,2,"Northampton, PA",Pennsylvania,0.0,12.0,'critical/other existing credit',education,2096,0.0,4<=X<7,2,'male single',Unknown,0,'real estate',49,none,Other,1,'unskilled resident',2,no,Bad,5/9/1994,no,0
+3,3,"Northampton, PA",Pennsylvania,-4695.81,42.0,'existing paid',furniture/equipment,7882,92.15,4<=X<7,2,'male single',guarantor,4,'life insurance',45,none,'for free',1,skilled,2,no,Bad,5/10/1994,no,1
+4,4,"Westmoreland, PA",Pennsylvania,-9540.2,24.0,'delayed previously',Unknown,4870,39.81,1<=X<4,3,'male single',none,4,'no known property',53,none,'for free',2,skilled,2,no,Good,5/11/1994,no,2
+5,5,"Westmoreland, PA",Pennsylvania,0.0,36.0,'existing paid',education,9055,0.0,1<=X<4,0,'male single',none,4,'no known property',35,none,'for free',1,'unskilled resident',2,yes,Bad,5/12/1994,yes,1
+6,6,"Philadelphia, PA",Pennsylvania,0.0,24.0,'existing paid',Unknown,2835,0.0,>=7,3,'male single',none,4,'life insurance',31,none,Other,1,skilled,1,no,Good,5/13/1994,no,2
+7,7,"Allegheny, PA",Pennsylvania,38.12,36.0,no credit history,'used car',6948,20.69,1<=X<4,2,'male single',none,2,car,35,none,Other,1,'high qualif/self emp/mgmt',Unknown,yes,Bad,5/14/1994,yes,1
+8,8,"Allegheny, PA",Pennsylvania,0.0,12.0,'existing paid',radio/tv,3059,0.0,Unknown,2,'male div/sep',none,4,'real estate',61,none,own,0,'unskilled resident',1,yes,Good,5/15/1994,yes,2
+9,9,"Providence, RI",Rhodes Island,101.81,30.0,'critical/other existing credit','new car',5234,85.64,unemployed,4,'male mar/wid',none,2,car,28,none,own,2,'high qualif/self emp/mgmt',1,no,Bad,5/16/1994,no,2
+10,10,"Aiken, SC",South Carolina,130.75,12.0,'existing paid','new car',1295,99.76,<1,3,'female div/dep/mar',none,0,car,31,Other,rent,1,skilled,1,yes,Bad,5/17/1994,yes,0
+11,11,"Anderson, SC",South Carolina,-1950.83,48.0,'existing paid',business,4308,69.51,<1,3,'female div/dep/mar',none,4,'life insurance',24,none,rent,0,skilled,Unknown,Unknown,Good,5/18/1994,Unknown,2
+12,12,"Anderson, SC",South Carolina,15.12,12.0,'existing paid',radio/tv,1567,89.2,Unknown,1,'female div/dep/mar',none,1,car,22,none,own,1,skilled,1,Unknown,Bad,5/19/1994,Unknown,0
+13,13,"Charleston, SC",South Carolina,0.0,24.0,'critical/other existing credit','new car',1199,0.0,>=7,4,'male single',none,0,car,60,none,own,2,'unskilled resident',1,no,Good,5/20/1994,no,0
+14,14,"Charleston, SC",South Carolina,-6002.72,15.0,'existing paid','new car',1403,42.11,1<=X<4,2,Unknown,none,4,car,31,none,rent,0,skilled,1,yes,Good,5/21/1994,yes,0
+15,15,"Chester, SC",South Carolina,-787.62,24.0,'existing paid',radio/tv,1282,247.0,Unknown,4,'female div/dep/mar',none,0,car,32,none,own,1,'unskilled resident',1,Unknown,Good,5/22/1994,Unknown,0
+16,16,"Chester, SC",South Carolina,0.0,20.0,'critical/other existing credit',radio/tv,2424,0.0,Unknown,4,'male single',none,4,'life insurance',31,none,own,2,skilled,1,yes,Good,5/23/1994,yes,0
+17,17,"Dillon, SC",South Carolina,-9440.86,30.0,'no credits/all paid',business,8072,0.0,<1,0,'male single',none,3,car,25,bank,own,3,skilled,1,yes,Bad,5/24/1994,yes,1
+18,18,"Dillon, SC",South Carolina,64.89,24.0,'existing paid','used car',3234,2.66,>=7,4,'female div/dep/mar',none,2,'no known property',31,none,'for free',0,'high qualif/self emp/mgmt',Unknown,Unknown,Bad,5/25/1994,Unknown,2
+19,19,"Florence, SC",South Carolina,0.0,24.0,no credit history,radio/tv,3430,0.0,>=7,3,'male single',Unknown,2,car,31,none,own,1,skilled,Unknown,yes,Bad,5/26/1994,yes,2
+20,20,"Greenville, SC",South Carolina,0.0,20.0,'critical/other existing credit','new car',2134,0.0,1<=X<4,4,'male single',none,4,car,48,none,own,3,skilled,1,yes,Good,5/27/1994,yes,0
+21,21,"Greenwood, SC",South Carolina,-864.51,6.0,'existing paid',radio/tv,2647,742.31,1<=X<4,2,'male single',none,3,'real estate',44,none,rent,1,skilled,2,yes,Good,5/28/1994,yes,0
+22,22,"Horry, SC",South Carolina,-5730.5,10.0,'critical/other existing credit','new car',2241,41.19,Unknown,1,'male single',Unknown,3,'real estate',48,none,rent,2,Other,2,Unknown,Bad,5/29/1994,Unknown,0
+23,23,"Jasper, SC",South Carolina,104.66,12.0,'critical/other existing credit','used car',1804,438.95,<1,3,'male single',none,4,Other,44,none,own,1,skilled,1,Unknown,Good,5/30/1994,Unknown,0
+24,24,"Lexington, SC",South Carolina,0.0,10.0,'critical/other existing credit',Unknown,2069,0.0,1<=X<4,2,'male mar/wid',none,1,car,26,none,own,2,skilled,1,yes,Bad,May-31-1994,yes,0
+25,25,"Orangeburg, SC",South Carolina,0.0,6.0,'existing paid',furniture/equipment,3234,0.0,1<=X<4,1,'male single',none,0,'real estate',36,bank,own,1,'unskilled resident',1,no,Good,6/1/1994,no,2
+26,26,"Richland, SC",South Carolina,0.0,6.0,'no credits/all paid',radio/tv,426,0.0,Unknown,0,'male mar/wid',none,4,car,39,none,own,1,'unskilled resident',1,no,Good,6/2/1994,no,0
+27,27,"Richland, SC",South Carolina,2577.11,12.0,'all paid',radio/tv,409,2599.63,1<=X<4,3,'female div/dep/mar',none,0,'real estate',42,none,rent,2,Other,Unknown,no,Good,6/3/1994,no,0
+28,28,"Spartanburg, SC",South Carolina,184.53,7.0,'existing paid',radio/tv,2415,67.24,1<=X<4,0,'male single',guarantor,2,'real estate',34,none,own,0,Other,1,no,Good,6/4/1994,no,0
+29,29,"Spartanburg, SC",South Carolina,-3479.0,60.0,'delayed previously',business,6836,26.85,>=7,0,'male single',none,4,'no known property',63,Other,own,2,skilled,1,yes,Good,6/5/1994,yes,1
+30,30,"Union, SC",South Carolina,0.0,18.0,'existing paid',business,1913,0.0,Unknown,3,'male mar/wid',Unknown,3,'real estate',36,bank,own,1,skilled,1,no,Good,6/6/1994,no,0
+31,31,"Williamsburg, SC",South Carolina,-5072.05,24.0,'existing paid',furniture/equipment,4020,12.54,Unknown,2,'male single',none,2,car,27,stores,own,1,skilled,1,Unknown,Good,6/7/1994,Unknown,2
+32,32,"York, SC",South Carolina,65.97,18.0,'existing paid','new car',5866,265.12,1<=X<4,2,'male single',none,2,car,31,none,own,2,skilled,1,no,Bad,6/8/1994,no,2
+33,33,"Minnehaha, SD",South Dakota,0.0,12.0,'critical/other existing credit',business,1264,0.0,Unknown,4,'male single',none,4,Other,57,none,rent,1,'unskilled resident',1,yes,Bad,6/9/1994,yes,0
+34,34,"Hughes, SD",South Dakota,978.69,12.0,'existing paid',furniture/equipment,3234,41.34,<1,4,'female div/dep/mar',none,1,'life insurance',33,bank,Other,1,'high qualif/self emp/mgmt',1,yes,Good,6/10/1994,yes,2
+35,35,"Bradley, TN",Tennessee,163.0,45.0,'critical/other existing credit',radio/tv,4746,0.0,<1,4,'male single',none,2,'life insurance',25,none,own,2,Other,1,no,Good,6/11/1994,no,2
+36,36,"Bradley, TN",Tennessee,0.0,48.0,'critical/other existing credit',education,6110,0.0,1<=X<4,1,'male single',none,3,'no known property',31,bank,'for free',1,skilled,1,yes,Good,6/12/1994,yes,2
+37,37,"Davidson, TN",Tennessee,6976.08,18.0,'existing paid',radio/tv,2100,4.69,Unknown,4,'male single','co applicant',2,'real estate',37,stores,own,1,skilled,1,yes,Bad,6/13/1994,yes,0
+38,38,"Fentress, TN",Tennessee,5588.7,10.0,'existing paid','domestic appliance',1225,0.0,1<=X<4,2,'male single',none,0,car,37,none,own,1,skilled,1,yes,Good,6/14/1994,yes,0
+39,39,"Hamilton, TN",Tennessee,47.76,9.0,'existing paid',radio/tv,458,0.0,1<=X<4,4,'male single',none,3,'real estate',24,none,own,0,skilled,1,no,Good,6/15/1994,no,0
+40,40,"Haywood, TN",Tennessee,0.0,30.0,'existing paid',radio/tv,2333,0.0,Unknown,4,'male single',none,2,car,30,bank,own,0,'high qualif/self emp/mgmt',Unknown,no,Good,6/16/1994,no,0
+41,41,"Knox, TN",Tennessee,150.32,20.0,'existing paid',radio/tv,1158,0.0,1<=X<4,3,'male div/sep',none,1,car,26,none,own,0,skilled,1,no,Bad,6/17/1994,no,0
+42,42,"McNairy, TN",Tennessee,158.94,18.0,'delayed previously',repairs,6204,24.41,1<=X<4,2,'male single',none,4,'real estate',44,none,own,1,'unskilled resident',2,yes,Good,6/18/1994,yes,2
+43,43,"Madison, TN",Tennessee,-913.07,30.0,no credit history,'used car',6187,224.1,4<=X<7,1,'male mar/wid',none,0,car,24,none,rent,2,skilled,1,yes,Bad,6/19/1994,yes,2
+44,44,"Robertson, TN",Tennessee,-8599.14,48.0,'critical/other existing credit','used car',6143,14.18,>=7,4,'female div/dep/mar',none,4,'no known property',58,stores,'for free',2,'unskilled resident',1,yes,Bad,6/20/1994,yes,2
+45,45,"Sevier, TN",Tennessee,0.0,11.0,no credit history,'new car',1393,0.0,<1,4,'female div/dep/mar',none,4,car,35,none,own,2,'high qualif/self emp/mgmt',1,no,Good,6/21/1994,no,0
+46,46,"Shelby, TN",Tennessee,0.0,36.0,no credit history,radio/tv,3234,0.0,>=7,4,'male single',none,4,car,39,none,own,1,skilled,1,Unknown,Good,6/22/1994,Unknown,2
+47,47,"Shelby, TN",Tennessee,-1631.58,6.0,'existing paid','used car',3234,0.0,unemployed,1,'female div/dep/mar',none,2,Other,23,none,rent,1,'unemp/unskilled non res',1,yes,Bad,6/23/1994,yes,2
+48,48,"Bastrop, TX",Texas,0.0,11.0,'critical/other existing credit','new car',7228,0.0,1<=X<4,1,'male single',none,4,'life insurance',39,none,Other,2,'unskilled resident',1,no,Good,6/24/1994,no,1
+49,49,"Bell, TX",Texas,0.0,12.0,no credit history,radio/tv,2073,0.0,Unknown,4,'female div/dep/mar','co applicant',2,'real estate',28,none,own,1,skilled,Unknown,no,Good,6/25/1994,no,0
+50,50,"Bexar, TX",Texas,166.03,24.0,'delayed previously',furniture/equipment,2333,0.0,<1,4,'male single',none,2,Other,29,bank,own,1,'unskilled resident',1,yes,Good,6/26/1994,yes,0
+51,51,"Bexar, TX",Texas,180.59,27.0,no credit history,'used car',5965,42.7,>=7,1,'male single',none,2,car,30,none,own,0,'high qualif/self emp/mgmt',1,no,Bad,6/27/1994,no,2
+52,52,"Brown, TX",Texas,0.0,12.0,'existing paid',radio/tv,1262,0.0,1<=X<4,3,'male single',none,2,car,25,none,own,1,skilled,1,no,Good,6/28/1994,no,0
+53,53,"Cass, TX",Texas,0.0,20.0,'existing paid','used car',3378,0.0,1<=X<4,2,'male single',none,1,Other,31,none,own,1,skilled,Unknown,no,Good,6/29/1994,no,2
+54,54,"Collin, TX",Texas,127.36,36.0,'delayed previously','new car',2225,41.6,>=7,4,'male single',none,4,'no known property',57,bank,'for free',2,skilled,1,yes,Good,6/30/1994,yes,0
+55,55,"Dallas, TX",Texas,0.0,6.0,'all paid','new car',783,0.0,Unknown,1,'male single',guarantor,2,'real estate',26,Other,own,1,'unskilled resident',2,Unknown,Good,Jul-01-1994,Unknown,0
+56,56,"Dallas, TX",Texas,114.16,12.0,'existing paid',radio/tv,6468,0.0,unemployed,2,Unknown,none,1,'no known property',52,none,own,1,'high qualif/self emp/mgmt',1,no,Good,7/2/1994,no,2
+57,57,"Fort Worth, TX",Texas,0.0,36.0,'critical/other existing credit',radio/tv,9566,0.0,1<=X<4,2,'female div/dep/mar',Unknown,2,car,31,Other,own,2,Other,1,no,Bad,7/3/1994,no,1
+58,58,"Dallas, TX",Texas,3235.45,18.0,no credit history,'new car',1961,65.36,Unknown,3,'female div/dep/mar',none,2,car,23,none,own,1,'high qualif/self emp/mgmt',1,yes,Good,7/4/1994,yes,0
+59,59,"Houston, TX",Texas,-9972.01,36.0,'critical/other existing credit',furniture/equipment,6229,35.8,<1,0,'female div/dep/mar','co applicant',4,'no known property',23,none,rent,2,'unskilled resident',1,yes,Good,7/5/1994,yes,2
+60,60,"Denton, TX",Texas,75.44,9.0,'existing paid',business,1391,65.13,1<=X<4,2,'male mar/wid',Unknown,1,'real estate',31,bank,own,1,skilled,1,Unknown,Good,7/6/1994,Unknown,0
+61,61,"El Paso, TX",Texas,158.6,15.0,'critical/other existing credit',radio/tv,1537,0.0,>=7,4,'male single',guarantor,4,'real estate',50,none,own,2,skilled,1,yes,Bad,7/7/1994,yes,0
+62,62,"El Paso, TX",Texas,163.79,36.0,'no credits/all paid',business,1953,78.33,>=7,4,'male single',none,4,'no known property',61,none,'for free',1,'high qualif/self emp/mgmt',1,no,Good,7/8/1994,no,0
+63,63,"Galveston, TX",Texas,139.83,48.0,'no credits/all paid',business,14421,25.59,1<=X<4,2,'male single',none,2,car,25,none,own,1,skilled,Unknown,no,Good,7/9/1994,no,1
+64,64,"Gregg, TX",Texas,0.0,20.0,'existing paid',radio/tv,3181,0.0,<1,0,'female div/dep/mar',none,0,'life insurance',26,none,own,1,skilled,Unknown,no,Good,7/10/1994,no,2
+65,65,"Harris, TX",Texas,0.0,27.0,'existing paid',repairs,5190,0.0,>=7,4,'male single',none,4,'life insurance',48,none,own,4,skilled,2,yes,Bad,7/11/1994,yes,2
+66,66,"Harrison, TX",Texas,0.0,12.0,'existing paid',radio/tv,2171,0.0,Unknown,2,'female div/dep/mar',Unknown,2,car,29,bank,own,1,skilled,1,no,Bad,7/12/1994,no,0
+67,67,"Hidalgo, TX",Texas,59.47,12.0,'existing paid','new car',1007,0.0,1<=X<4,4,'male mar/wid',Unknown,1,'real estate',31,none,own,1,skilled,1,yes,Bad,7/13/1994,yes,0
+68,68,"Hidalgo, TX",Texas,0.0,36.0,'existing paid',Unknown,1819,0.0,1<=X<4,4,'male single',none,4,'no known property',31,stores,'for free',0,Other,1,yes,Good,7/14/1994,yes,0
+69,69,"Hopkins, TX",Texas,0.0,36.0,'existing paid',radio/tv,2394,0.0,1<=X<4,4,'female div/dep/mar',none,4,car,25,none,own,1,skilled,1,yes,Bad,7/15/1994,yes,0
+70,70,"Hunt, TX",Texas,0.0,20.0,'existing paid','used car',8133,0.0,Unknown,0,'female div/dep/mar',none,2,'life insurance',30,Other,own,1,skilled,1,no,Bad,7/16/1994,no,1
+71,71,"Hunt, TX",Texas,0.0,7.0,'critical/other existing credit',radio/tv,730,0.0,>=7,4,'male single',none,2,'life insurance',31,none,rent,2,'unskilled resident',1,no,Good,7/17/1994,no,0
+72,72,"Jasper, TX",Texas,0.0,8.0,'critical/other existing credit',other,1164,0.0,>=7,3,'male single',none,0,'no known property',51,bank,'for free',2,'high qualif/self emp/mgmt',2,yes,Good,7/18/1994,yes,0
+73,73,"Jefferson, TX",Texas,0.0,42.0,no credit history,business,5954,0.0,4<=X<7,2,'female div/dep/mar',none,1,'real estate',41,bank,own,2,'unskilled resident',1,yes,Bad,7/19/1994,yes,2
+74,74,"McLennan, TX",Texas,-220.84,36.0,'existing paid',education,1977,0.0,>=7,4,'male single',none,4,'no known property',40,none,Other,0,'high qualif/self emp/mgmt',1,yes,Bad,7/20/1994,yes,0
+75,75,"Medina, TX",Texas,-6131.59,12.0,'critical/other existing credit','used car',1526,53.54,>=7,4,'male single',none,4,'no known property',66,none,'for free',2,'high qualif/self emp/mgmt',1,no,Good,7/21/1994,no,0
+76,76,"Midland, TX",Texas,0.0,42.0,'existing paid',Unknown,3234,0.0,<1,0,'male single',none,0,car,34,none,Other,1,skilled,1,yes,Bad,7/22/1994,yes,2
+77,77,"Montague, TX",Texas,160.21,11.0,'delayed previously',radio/tv,4771,0.0,4<=X<7,2,'male single',none,4,'life insurance',51,none,own,1,skilled,1,yes,Bad,7/23/1994,yes,2
+78,78,"Nueces, TX",Texas,0.0,54.0,'no credits/all paid',Unknown,9436,0.0,1<=X<4,2,'male single',none,2,'life insurance',39,none,own,1,'unskilled resident',Unknown,yes,Good,7/24/1994,yes,1
+79,79,"Potter, TX",Texas,161.2,30.0,'existing paid',furniture/equipment,3832,8.69,<1,0,'male mar/wid',Unknown,1,'life insurance',22,none,own,1,Other,1,yes,Good,7/25/1994,yes,2
+80,80,"Sabine, TX",Texas,0.0,24.0,'existing paid',radio/tv,3234,0.0,<1,1,'female div/dep/mar',none,0,car,44,Other,own,2,skilled,1,no,Good,7/26/1994,no,2
+81,81,"Tarrant, TX",Texas,0.0,15.0,'existing paid',radio/tv,1213,0.0,Unknown,4,'male single',none,3,'life insurance',47,stores,Other,1,skilled,1,yes,Good,7/27/1994,yes,0
+82,82,"Tarrant, TX",Texas,0.0,18.0,'existing paid',business,3234,0.0,1<=X<4,3,'female div/dep/mar',none,4,'life insurance',24,none,rent,1,'unskilled resident',1,no,Bad,7/28/1994,no,2
+83,83,"Taylor, TX",Texas,-5878.49,24.0,'existing paid',other,1755,98.16,>=7,0,'female div/dep/mar',guarantor,4,'real estate',58,none,own,1,Other,1,yes,Good,7/29/1994,yes,0
+84,84,"Travis, TX",Texas,-1789.61,10.0,'existing paid',radio/tv,2315,32.77,>=7,3,'male single',Unknown,4,'real estate',52,none,own,1,'unskilled resident',1,no,Good,7/30/1994,no,0
+85,85,"Wharton, TX",Texas,0.0,12.0,'critical/other existing credit',business,1412,0.0,1<=X<4,0,'female div/dep/mar',guarantor,2,'real estate',29,none,own,2,'high qualif/self emp/mgmt',1,yes,Good,7/31/1994,yes,0
+86,86,"Williamson, TX",Texas,85.74,18.0,'critical/other existing credit',Unknown,1295,0.0,Unknown,4,'female div/dep/mar',none,1,Other,27,none,own,2,skilled,1,yes,Good,8/1/1994,yes,0
+87,87,"Williamson, TX",Texas,138.23,36.0,'existing paid',education,12612,438.24,Unknown,0,'male single',none,4,'no known property',47,none,'for free',1,skilled,2,no,Good,8/2/1994,no,1
+88,88,"Wood, TX",Texas,0.0,18.0,'existing paid','new car',2249,0.0,4<=X<7,4,'male single',none,3,Other,30,none,own,1,'high qualif/self emp/mgmt',2,no,Good,8/3/1994,no,0
+89,89,"Dallas, TX",Texas,-9244.18,12.0,'no credits/all paid',repairs,1108,5.74,4<=X<7,4,'male single',none,3,'real estate',28,none,own,2,skilled,1,no,Good,8/4/1994,no,0
+90,90,"Harris, TX",Texas,0.0,12.0,'critical/other existing credit',radio/tv,618,0.0,>=7,4,'male single',none,4,Other,56,none,own,1,skilled,1,no,Bad,8/5/1994,no,0
+91,91,"Bexar, TX",Texas,-677.41,12.0,no credit history,'used car',1409,1.66,>=7,4,'male single',none,3,'real estate',31,none,own,1,skilled,1,no,Good,8/6/1994,no,0
+92,92,"Salt Lake, UT",Utah,0.0,12.0,'critical/other existing credit',radio/tv,797,0.0,>=7,4,'female div/dep/mar',none,3,'life insurance',33,bank,own,1,'unskilled resident',2,yes,Good,8/7/1994,yes,0
+93,93,"Salt Lake, UT",Utah,0.0,24.0,'critical/other existing credit',furniture/equipment,3617,0.0,>=7,4,'male single',Unknown,4,'no known property',20,none,rent,2,skilled,1,yes,Bad,8/8/1994,yes,2
+94,94,"Accomack, VA",Virginia,45.54,12.0,'existing paid','new car',1318,5987.51,>=7,4,'male single',none,4,'real estate',54,none,own,1,skilled,1,no,Bad,8/9/1994,no,0
+95,95,"Buckingham, VA",Virginia,163.33,54.0,'no credits/all paid',business,3234,89.6,<1,3,'male single',none,4,'no known property',58,none,Other,1,skilled,1,yes,Good,8/10/1994,yes,2
+96,96,"Buckingham, VA",Virginia,0.0,12.0,'critical/other existing credit',education,2012,0.0,4<=X<7,4,'female div/dep/mar',none,2,car,61,none,own,1,skilled,1,no,Good,8/11/1994,no,0
+97,97,"Culpeper, VA",Virginia,4.36,18.0,'existing paid',business,2622,167.17,1<=X<4,4,'male single',none,4,car,34,none,own,1,skilled,1,yes,Good,8/12/1994,yes,0
+98,98,"Essex, VA",Virginia,0.83,36.0,'critical/other existing credit',radio/tv,3234,36.75,>=7,4,'male single',none,4,'real estate',36,none,own,1,skilled,Unknown,no,Good,8/13/1994,no,2
+99,99,"Frederick, VA",Virginia,62.41,20.0,'delayed previously','used car',7057,0.0,4<=X<7,0,'male single',none,4,'life insurance',31,bank,rent,2,'high qualif/self emp/mgmt',2,Unknown,Good,8/14/1994,Unknown,1
+100,100,"James City, VA",Virginia,0.0,24.0,'existing paid','new car',1469,0.0,>=7,4,'male mar/wid',none,0,'real estate',41,none,rent,1,'unskilled resident',1,Unknown,Bad,8/15/1994,Unknown,0
+101,101,"Middlesex, VA",Virginia,194.24,36.0,'existing paid',radio/tv,2323,0.0,4<=X<7,4,'male single',none,4,car,24,none,rent,1,skilled,1,yes,Bad,8/16/1994,yes,0
+102,102,"Middlesex, VA",Virginia,0.0,6.0,no credit history,radio/tv,932,0.0,1<=X<4,3,'female div/dep/mar',none,0,Other,24,none,Other,1,skilled,1,yes,Good,8/17/1994,yes,0
+103,103,"Patrick, VA",Virginia,72.61,9.0,'critical/other existing credit',furniture/equipment,1919,0.0,4<=X<7,4,'male single',Unknown,3,car,35,none,Other,1,Other,1,yes,Good,8/18/1994,yes,0
+104,104,"Pittsylvania, VA",Virginia,0.0,12.0,'existing paid','used car',2445,0.0,<1,2,'male mar/wid',none,4,car,26,none,rent,1,skilled,1,no,Good,8/19/1994,no,0
+105,105,"Prince William, VA",Virginia,150.24,20.0,'critical/other existing credit',other,11938,20.15,1<=X<4,2,'male single','co applicant',3,car,39,Other,own,2,'high qualif/self emp/mgmt',2,yes,Bad,8/20/1994,yes,1
+106,106,"Russell, VA",Virginia,0.0,18.0,'all paid','new car',6458,0.0,>=7,2,'male single',none,4,'no known property',39,bank,own,2,'high qualif/self emp/mgmt',Unknown,no,Good,8/21/1994,no,2
+107,107,"Tazewell, VA",Virginia,129.98,12.0,'existing paid','new car',6078,50.34,4<=X<7,2,'male single',none,2,car,31,none,Other,1,skilled,1,no,Good,8/22/1994,no,2
+108,108,"Los Angeles, CA",Virginia,0.0,20.0,no credit history,Unknown,3234,0.0,Unknown,0,Unknown,Unknown,0,Other,31,Other,Other,0,Other,Unknown,Unknown,Good,8/23/1994,Unknown,2
+109,109,"Danville, VA",Virginia,-757.72,20.0,'existing paid',furniture/equipment,7721,0.0,<1,1,'female div/dep/mar',none,2,'life insurance',30,none,own,1,skilled,1,no,Good,8/24/1994,no,1
+110,110,"Lynchburg, VA",Virginia,55.89,20.0,'existing paid',business,1410,549.75,>=7,1,'male mar/wid',Unknown,2,'real estate',35,none,own,1,skilled,1,yes,Good,8/25/1994,yes,0
+111,111,"Newport News, VA",Virginia,80.35,6.0,'delayed previously',Unknown,1449,265.76,>=7,1,Unknown,none,2,car,31,bank,own,2,skilled,Unknown,no,Good,8/26/1994,no,0
+112,112,"Norfolk, VA",Virginia,0.0,20.0,'existing paid',education,392,0.0,<1,0,'female div/dep/mar',none,0,'life insurance',23,none,Other,1,skilled,1,yes,Good,8/27/1994,yes,0
+113,113,"Norfolk, VA",Virginia,80.71,18.0,'existing paid','new car',6260,68.22,4<=X<7,0,'male single',none,3,Other,28,none,rent,1,'unskilled resident',1,no,Bad,8/28/1994,no,2
+114,114,"Portsmouth, VA",Virginia,0.0,36.0,'critical/other existing credit','new car',7855,0.0,1<=X<4,4,'female div/dep/mar',none,2,'real estate',25,stores,own,0,skilled,1,yes,Good,8/29/1994,yes,1
+115,115,"Richmond, VA",Virginia,0.0,12.0,'existing paid',radio/tv,3234,0.0,>=7,3,'male mar/wid',none,1,'real estate',35,none,own,1,skilled,1,no,Bad,8/30/1994,no,2
+116,116,"Virginia Beach, VA",Virginia,0.0,48.0,no credit history,radio/tv,3234,0.0,>=7,4,'male single',none,1,'real estate',47,none,own,1,skilled,1,no,Good,8/31/1994,no,2
+117,117,"Orleans, VT",Vermont,-7890.14,20.0,'existing paid',radio/tv,7174,0.0,4<=X<7,4,'female div/dep/mar',none,3,car,30,none,own,1,'high qualif/self emp/mgmt',1,no,Good,9/1/1994,no,1
+118,118,"Orleans, VT",Vermont,-308.12,10.0,'critical/other existing credit',furniture/equipment,2132,0.0,Unknown,2,'female div/dep/mar','co applicant',3,'real estate',31,none,rent,2,skilled,1,no,Good,9/2/1994,no,0
+119,119,"Asotin, WA",Washington,-6207.62,33.0,'critical/other existing credit',furniture/equipment,4281,777.08,Unknown,1,'female div/dep/mar',none,4,car,23,none,own,2,skilled,1,no,Good,9/3/1994,no,2
+120,120,"Benton, WA",Washington,180.83,12.0,no credit history,'new car',2366,804.96,4<=X<7,3,'male div/sep',none,3,car,36,none,own,1,'high qualif/self emp/mgmt',1,Unknown,Good,9/4/1994,Unknown,0
+121,121,"Clark, WA",Washington,-4317.01,21.0,'existing paid',radio/tv,1835,6.23,1<=X<4,3,'female div/dep/mar',none,2,'real estate',25,none,own,2,skilled,1,yes,Good,9/5/1994,yes,0
+122,122,"Franklin, WA",Washington,0.0,24.0,'critical/other existing credit','used car',3234,0.0,Unknown,4,Unknown,none,0,car,41,none,rent,2,'high qualif/self emp/mgmt',Unknown,no,Good,9/6/1994,no,2
+123,123,"King, WA",Washington,0.0,20.0,no credit history,furniture/equipment,1768,0.0,1<=X<4,0,'male single',none,2,'real estate',24,none,rent,0,'unskilled resident',Unknown,yes,Bad,9/7/1994,yes,0
+124,124,"King, WA",Washington,4115.41,10.0,'critical/other existing credit','new car',781,68.49,Unknown,0,'male single',Unknown,4,'no known property',63,none,'for free',2,skilled,1,yes,Good,9/8/1994,yes,0
+125,125,"King, WA",Washington,69.75,18.0,'existing paid',furniture/equipment,1924,0.0,Unknown,4,'female div/dep/mar',none,3,'real estate',31,Other,rent,1,Other,1,no,Good,9/9/1994,no,0
+126,126,"Kitsap, WA",Washington,-8633.29,12.0,'critical/other existing credit','new car',2121,28.28,1<=X<4,4,'male single',Unknown,2,'life insurance',30,none,own,2,skilled,1,Unknown,Bad,9/10/1994,Unknown,0
+127,127,"Pierce, WA",Washington,-7111.18,12.0,no credit history,radio/tv,3234,1.11,1<=X<4,4,'male mar/wid',none,2,'real estate',40,none,own,1,'unskilled resident',1,yes,Good,9/11/1994,yes,2
+128,128,"Skagit, WA",Washington,150.56,12.0,'existing paid',repairs,3234,33.47,1<=X<4,0,'male single',none,2,car,30,none,own,1,skilled,1,no,Bad,9/12/1994,no,2
+129,129,"Snohomish, WA",Washington,163.65,12.0,'critical/other existing credit','used car',1860,21.86,unemployed,4,'male single',Unknown,2,car,34,none,own,2,'high qualif/self emp/mgmt',1,yes,Bad,9/13/1994,yes,0
+130,130,"Spokane, WA",Washington,-9688.11,12.0,'critical/other existing credit','new car',3234,0.0,1<=X<4,3,'female div/dep/mar','co applicant',2,'real estate',29,none,own,2,Other,1,yes,Good,9/14/1994,yes,2
+131,131,"Spokane, WA",Washington,161.19,48.0,'existing paid','new car',8487,0.0,4<=X<7,1,'female div/dep/mar',none,2,car,24,none,own,1,skilled,1,no,Bad,9/15/1994,no,1
+132,132,"Spokane, WA",Washington,-4083.0,36.0,'delayed previously',education,6887,11.36,1<=X<4,4,'male single',none,3,'life insurance',29,stores,own,1,skilled,1,Unknown,Bad,9/16/1994,Unknown,1
+133,133,"Stevens, WA",Washington,0.0,15.0,'existing paid',furniture/equipment,3234,0.0,<1,2,'male single',none,3,'life insurance',27,bank,own,2,'unskilled resident',1,no,Good,9/17/1994,no,2
+134,134,"Whatcom, WA",Washington,0.0,20.0,'existing paid',furniture/equipment,1984,0.0,1<=X<4,4,'male single',none,4,'no known property',47,bank,'for free',2,skilled,1,yes,Bad,9/18/1994,yes,0
+135,135,"Yakima, WA",Washington,0.0,20.0,'existing paid',radio/tv,3234,0.0,4<=X<7,2,'female div/dep/mar',none,0,'real estate',21,none,own,1,skilled,1,yes,Bad,9/19/1994,yes,2
+136,136,"Chippewa, WI",Wisconsin,0.0,12.0,'critical/other existing credit',Unknown,1240,0.0,>=7,4,'female div/dep/mar',none,2,Other,38,none,own,2,skilled,1,yes,Bad,9/20/1994,yes,0
+137,137,"Dunn, WI",Wisconsin,0.0,27.0,'delayed previously','used car',8613,0.0,1<=X<4,2,'male single',none,2,car,27,none,own,2,skilled,1,no,Bad,9/21/1994,no,1
+138,138,"Kenosha, WI",Wisconsin,0.0,20.0,no credit history,radio/tv,766,0.0,1<=X<4,4,'male single',Unknown,3,'real estate',31,none,own,1,'unskilled resident',1,no,Good,9/22/1994,no,0
+139,139,"Racine, WI",Wisconsin,51.64,15.0,'critical/other existing credit',radio/tv,2728,0.0,4<=X<7,4,'male single',guarantor,2,'real estate',35,bank,own,3,skilled,1,yes,Good,9/23/1994,yes,2
+140,140,"Rock, WI",Wisconsin,0.0,12.0,'existing paid',radio/tv,1881,0.0,Unknown,2,'female div/dep/mar',none,2,car,44,none,rent,1,'unskilled resident',1,no,Bad,9/24/1994,no,0
+141,141,"Milwaukee, WI",Wisconsin,8525.7,6.0,'existing paid','new car',709,7265.64,<1,2,'male mar/wid',none,2,'real estate',27,none,own,1,'unemp/unskilled non res',1,yes,Good,9/25/1994,yes,0
+142,142,"Fayette, WV",West Virginia,3.49,36.0,'existing paid',radio/tv,3234,57.17,<1,4,'female div/dep/mar',none,1,'no known property',31,none,own,1,'high qualif/self emp/mgmt',1,no,Bad,9/26/1994,no,2
+143,143,"Kanawha, WV",West Virginia,-4570.85,20.0,'existing paid',Unknown,3416,15.64,1<=X<4,0,'male single',Unknown,2,car,27,none,own,1,'high qualif/self emp/mgmt',1,yes,Bad,9/27/1994,yes,2
+144,144,"Kanawha, WV",West Virginia,-6400.81,20.0,'existing paid',furniture/equipment,2462,74.69,1<=X<4,2,'male single',none,2,Other,31,none,own,1,Other,1,no,Good,9/28/1994,no,0
+145,145,"Raleigh, WV",West Virginia,0.0,21.0,'critical/other existing credit',furniture/equipment,2288,0.0,<1,4,'female div/dep/mar',none,4,'life insurance',23,none,own,1,skilled,1,no,Good,9/29/1994,no,0
+146,146,"Wayne, WV",West Virginia,46.06,48.0,'all paid',Unknown,3566,240.61,4<=X<7,0,'male single',none,2,car,30,none,Other,1,skilled,1,yes,Bad,9/30/1994,yes,2
+147,147,"Albany, WY",Wyoming,-9858.79,6.0,'critical/other existing credit','new car',860,6.1,>=7,1,'female div/dep/mar',Unknown,4,'no known property',39,none,own,2,Other,1,yes,Good,10/1/1994,yes,0
+148,148,"Anchorage, AK",Alaska,0.0,12.0,'critical/other existing credit','new car',682,0.0,4<=X<7,4,'female div/dep/mar',none,3,car,51,none,own,2,skilled,1,no,Good,10/2/1994,no,0
+149,149,"Pulaski, AR",Arkansas,0.0,36.0,'critical/other existing credit',furniture/equipment,5371,0.0,1<=X<4,3,'male single',Unknown,2,'life insurance',28,none,own,2,skilled,1,no,Good,10/3/1994,no,2
+150,150,"Maricopa, AZ",Arizona,0.0,18.0,no credit history,radio/tv,1582,0.0,>=7,4,Unknown,none,4,car,46,none,own,0,skilled,1,yes,Bad,10/4/1994,yes,0
+151,151,"Maricopa, AZ",Arizona,0.0,6.0,'existing paid',Unknown,1346,0.0,>=7,2,'male single',Unknown,4,'no known property',42,bank,Other,1,skilled,2,no,Good,10/5/1994,no,0
+152,152,"Pima, AZ",Arizona,0.0,20.0,'existing paid',radio/tv,1924,0.0,1<=X<4,1,'male single',none,4,'life insurance',38,none,own,1,skilled,1,no,Bad,10/6/1994,no,0
+153,153,"Alameda, CA",California,0.0,36.0,'existing paid',radio/tv,5848,0.0,1<=X<4,4,'male single',none,1,car,24,none,own,1,skilled,1,no,Bad,10/7/1994,no,2
+154,154,"Contra Costa, CA",California,139.47,24.0,'critical/other existing credit','used car',7758,7369.04,>=7,2,'female div/dep/mar',Unknown,4,'no known property',29,none,rent,1,skilled,1,yes,Bad,10/8/1994,yes,1
+155,155,"Contra Costa, CA",California,190.98,24.0,'delayed previously',business,6967,438.53,4<=X<7,4,'male single',none,4,car,36,none,rent,1,'high qualif/self emp/mgmt',1,yes,Bad,10/9/1994,yes,1
+156,156,"Fresno, CA",California,-5781.67,12.0,'existing paid',furniture/equipment,1282,59.7,1<=X<4,2,'female div/dep/mar',none,4,Other,20,none,rent,1,skilled,1,no,Good,10/10/1994,no,0
+157,157,"Kern, CA",California,-2884.07,9.0,'critical/other existing credit',repairs,3234,100.46,>=7,3,'male single',guarantor,4,'real estate',48,none,own,2,skilled,2,yes,Bad,10/11/1994,yes,2
+158,158,"Kern, CA",California,-7930.96,12.0,'all paid',retraining,339,22.56,Unknown,4,'male mar/wid',none,1,car,45,bank,own,1,'unskilled resident',1,no,Good,10/12/1994,no,0
+159,159,"Los Angeles, CA",California,144.52,20.0,'existing paid','new car',3512,345.1,4<=X<7,2,Unknown,none,3,car,38,bank,own,2,skilled,1,no,Good,10/13/1994,no,2
+160,160,"Los Angeles, CA",California,0.0,6.0,'critical/other existing credit',radio/tv,1898,0.0,1<=X<4,1,'male single',none,2,'real estate',34,none,own,2,'unskilled resident',Unknown,no,Good,10/14/1994,no,0
+161,161,"San Jose, CA",California,0.0,24.0,no credit history,radio/tv,2872,0.0,>=7,0,Unknown,Unknown,0,'real estate',31,none,own,1,skilled,2,no,Good,10/15/1994,no,2
+162,162,"Los Angeles, CA",California,0.0,18.0,'critical/other existing credit','new car',1055,0.0,<1,4,'female div/dep/mar',none,1,'life insurance',30,none,own,2,skilled,1,no,Good,10/16/1994,no,0
+163,163,"Los Angeles, CA",California,0.0,20.0,'existing paid','domestic appliance',1262,0.0,4<=X<7,4,'male single',none,3,'life insurance',31,none,own,2,skilled,1,no,Good,10/17/1994,no,0
+164,164,"Los Angeles, CA",California,31.09,10.0,'existing paid','new car',7308,52.29,unemployed,2,'male single',none,4,'no known property',70,bank,'for free',1,'high qualif/self emp/mgmt',1,no,Bad,10/18/1994,no,1
+165,165,"San Francisco, CA",California,0.0,36.0,'existing paid','new car',909,0.0,>=7,4,Unknown,none,4,'life insurance',36,none,own,1,skilled,1,no,Good,10/19/1994,no,0
+166,166,"Los Angeles, CA",California,0.0,6.0,'existing paid',furniture/equipment,2978,0.0,1<=X<4,1,'male single',none,2,car,32,none,own,1,skilled,Unknown,no,Bad,10/20/1994,no,2
+167,167,"Monterey, CA",California,-3326.98,18.0,'existing paid',furniture/equipment,1131,33.43,unemployed,4,'female div/dep/mar',none,0,car,33,none,own,1,skilled,1,no,Good,10/21/1994,no,0
+168,168,"Orange, CA",California,47.93,11.0,'existing paid',furniture/equipment,1577,7895.35,<1,4,'female div/dep/mar',none,1,'real estate',20,none,own,1,skilled,1,Unknown,Bad,10/22/1994,Unknown,0
+169,169,"Riverside, CA",California,0.0,24.0,'existing paid',furniture/equipment,3972,0.0,4<=X<7,2,Unknown,none,4,'life insurance',25,none,rent,0,skilled,1,no,Good,10/23/1994,no,2
+170,170,"Sacramento, CA",California,58.87,24.0,'critical/other existing credit',business,1935,60.0,>=7,4,'male div/sep',none,4,'real estate',31,none,Other,2,skilled,1,yes,Good,10/24/1994,yes,0
+171,171,"Sacramento, CA",California,-5652.0,15.0,'no credits/all paid','new car',950,62.41,>=7,4,'male single',none,0,car,33,none,rent,2,skilled,2,yes,Bad,10/25/1994,yes,0
+172,172,"San Bernardino, CA",California,0.0,12.0,'existing paid',furniture/equipment,763,0.0,1<=X<4,4,'female div/dep/mar',none,1,'real estate',31,Other,own,1,skilled,1,Unknown,Bad,10/26/1994,Unknown,0
+173,173,"San Bernardino, CA",California,64.0,24.0,'delayed previously',furniture/equipment,2064,54.99,unemployed,3,'female div/dep/mar',none,0,'life insurance',34,none,own,1,'high qualif/self emp/mgmt',1,yes,Good,10/27/1994,yes,0
+174,174,"San Bernardino, CA",California,84.67,8.0,'existing paid',radio/tv,1414,58.58,1<=X<4,4,'male single',guarantor,2,'real estate',33,none,own,1,skilled,1,yes,Good,10/28/1994,yes,0
+175,175,"San Diego, CA",California,-4199.42,21.0,'delayed previously',education,3414,56.73,<1,2,'male single',none,0,'life insurance',26,none,own,2,skilled,1,Unknown,Good,10/29/1994,Unknown,2
+176,176,"San Francisco, CA",California,0.0,30.0,'all paid','used car',3234,0.0,Unknown,4,'female div/dep/mar',none,1,'real estate',53,bank,own,1,Other,1,yes,Bad,10/30/1994,yes,2
+177,177,"San Joaquin, CA",California,-7153.11,12.0,'existing paid',furniture/equipment,2577,26.63,1<=X<4,2,Unknown,none,1,car,31,none,own,1,skilled,Unknown,yes,Good,10/31/1994,yes,0
+178,178,"Solano, CA",California,-3587.09,6.0,'critical/other existing credit',radio/tv,338,840.74,>=7,4,'male single',none,4,Other,52,none,own,2,skilled,1,yes,Bad,11/1/1994,yes,0
+179,179,"Ventura, CA",California,0.0,12.0,'existing paid',radio/tv,1963,0.0,4<=X<7,4,'male single',Unknown,2,Other,31,none,Other,2,'high qualif/self emp/mgmt',2,yes,Bad,11/2/1994,yes,0
+180,180,"El Paso, CO",Colorado,0.0,21.0,'critical/other existing credit',Unknown,571,0.0,>=7,0,'male single',none,4,'real estate',65,none,own,0,skilled,1,yes,Good,11/3/1994,yes,0
+181,181,"Denver, CO",Colorado,0.0,36.0,'delayed previously',Unknown,9572,0.0,<1,1,'male div/sep',none,1,car,28,none,own,2,skilled,1,no,Good,11/4/1994,no,1
+182,182,"Hartford, CT",Connecticut,55.91,36.0,'delayed previously',Unknown,4455,21.64,1<=X<4,0,'male div/sep',Unknown,2,'real estate',30,stores,own,2,'high qualif/self emp/mgmt',1,yes,Good,11/5/1994,yes,2
+183,183,District of Columbia,District of Columbia,-4718.69,21.0,'all paid',Unknown,1647,0.0,1<=X<4,4,'male single',none,2,'life insurance',40,none,Other,2,'unskilled resident',2,no,Bad,11/6/1994,no,0
+184,184,"New Castle, DE",Delaware,0.0,24.0,'critical/other existing credit',furniture/equipment,3777,0.0,1<=X<4,4,'male single',none,4,'real estate',50,none,own,1,skilled,1,yes,Bad,11/7/1994,yes,2
+185,185,"Chatham, GA",Georgia,190.69,18.0,'critical/other existing credit','new car',884,90.53,>=7,4,'male single',none,4,car,36,bank,own,1,skilled,2,yes,Good,11/8/1994,yes,0
+186,186,"Clayton, GA",Georgia,0.0,15.0,no credit history,radio/tv,1360,0.0,1<=X<4,4,Unknown,none,2,'life insurance',31,none,own,2,skilled,1,yes,Bad,11/9/1994,yes,0
+187,187,"De Kalb, GA",Georgia,0.0,9.0,'all paid',Unknown,5129,0.0,>=7,2,'female div/dep/mar',none,0,Other,31,bank,'for free',1,'high qualif/self emp/mgmt',Unknown,no,Good,11/10/1994,no,2
+188,188,"Dougherty, GA",Georgia,18.61,16.0,'critical/other existing credit','new car',1175,95.88,unemployed,2,'male single',Unknown,3,car,68,none,'for free',3,'unemp/unskilled non res',1,no,Bad,11/11/1994,no,0
+189,189,"Dougherty, GA",Georgia,-8569.38,12.0,'existing paid',radio/tv,674,319.57,4<=X<7,4,'male mar/wid',none,0,Other,20,none,own,1,skilled,1,yes,Good,11/12/1994,yes,0
+190,190,"Fulton, GA",Georgia,122.36,18.0,'no credits/all paid',furniture/equipment,3244,86.38,1<=X<4,1,'female div/dep/mar',none,0,car,33,bank,own,2,skilled,1,Unknown,Bad,11/13/1994,Unknown,2
+191,191,"Fulton, GA",Georgia,0.0,24.0,'existing paid',business,4591,0.0,1<=X<4,2,'male single',none,3,Other,54,none,own,3,Other,Unknown,yes,Bad,11/14/1994,yes,2
+192,192,"Gwinnett, GA",Georgia,5.06,48.0,'no credits/all paid',business,3844,0.0,4<=X<7,4,'male single',none,4,'no known property',34,none,Other,1,'unskilled resident',2,Unknown,Good,11/15/1994,Unknown,2
+193,193,"Muscogee, GA",Georgia,2.66,27.0,'existing paid',business,3915,90.63,1<=X<4,4,'male single',none,2,Other,36,none,own,1,skilled,2,yes,Good,11/16/1994,yes,2
+194,194,"Fulton, GA",Georgia,0.0,6.0,'existing paid',radio/tv,2108,0.0,4<=X<7,2,'male mar/wid',none,2,'real estate',29,none,Other,1,skilled,1,Unknown,Bad,11/17/1994,Unknown,0
+195,195,"Honolulu, HI",Hawaii,0.0,45.0,'existing paid',radio/tv,3031,0.0,1<=X<4,0,'male single',guarantor,4,'life insurance',21,none,rent,1,skilled,1,yes,Bad,11/18/1994,yes,2
+196,196,"Cook, IL",Illinois,0.0,20.0,'critical/other existing credit',education,1501,0.0,>=7,2,'female div/dep/mar',none,3,car,34,none,own,2,'high qualif/self emp/mgmt',1,yes,Good,11/19/1994,yes,0
+197,197,"Vanderburgh, IN",Indiana,0.0,6.0,'critical/other existing credit',radio/tv,1382,0.0,1<=X<4,1,'female div/dep/mar',none,1,car,28,none,own,2,skilled,1,yes,Bad,11/20/1994,yes,0
+198,198,"Marion, IN",Indiana,41.55,20.0,'existing paid',furniture/equipment,951,145.16,<1,4,'female div/dep/mar',none,4,car,27,bank,rent,4,skilled,1,yes,Good,11/21/1994,yes,0
+199,199,"Fayette, KY",Kentucky,73.46,24.0,'existing paid','used car',2760,0.0,>=7,4,'male single',none,4,'no known property',36,bank,'for free',1,skilled,1,no,Bad,11/22/1994,no,2
+200,200,"Jefferson, KY",Kentucky,5.45,18.0,'delayed previously',Unknown,4297,38.61,>=7,4,'male div/sep',none,3,Other,40,none,own,1,'high qualif/self emp/mgmt',1,no,Good,11/23/1994,no,2
+201,201,"Madison, KY",Kentucky,0.0,9.0,'critical/other existing credit',Unknown,936,0.0,>=7,0,'male single',none,2,car,31,none,own,2,skilled,1,yes,Bad,11/24/1994,yes,0
+202,202,"Caddo, LA",Louisiana,-1525.5,12.0,'existing paid',Unknown,1168,72.61,1<=X<4,4,'male mar/wid',none,3,Other,27,none,own,1,'unskilled resident',1,yes,Bad,11/25/1994,yes,0
+203,203,"East Baton Rouge, LA",Louisiana,0.0,27.0,'delayed previously',business,5117,0.0,4<=X<7,3,'male single',none,4,car,31,none,own,2,skilled,Unknown,Unknown,Bad,11/26/1994,Unknown,2
+204,204,"Jefferson, LA",Louisiana,-4203.08,12.0,'existing paid',retraining,902,72.58,4<=X<7,4,'male mar/wid',Unknown,4,'life insurance',21,none,rent,1,skilled,1,no,Bad,11/27/1994,no,0
+205,205,"Orleans, LA",Louisiana,0.0,12.0,'critical/other existing credit','new car',1495,0.0,>=7,0,'male single',none,1,Other,38,none,own,0,'unskilled resident',2,no,Bad,11/28/1994,no,0
+206,206,"Middlesex, MA",Massachusetts,-497.79,30.0,'critical/other existing credit',Unknown,10623,10.76,>=7,3,'male single',none,4,'no known property',38,none,'for free',3,Other,2,no,Good,11/29/1994,no,1
+207,207,"Suffolk, MA",Massachusetts,0.0,12.0,'critical/other existing credit',furniture/equipment,1935,0.0,>=7,4,'male single',none,4,'real estate',43,none,Other,3,Other,1,no,Bad,11/30/1994,no,0
+208,208,"Anne Arundel, MD",Maryland,93.51,12.0,'critical/other existing credit','domestic appliance',1424,69.55,4<=X<7,0,'male single',none,3,'life insurance',26,none,own,1,Other,1,no,Bad,12/1/1994,no,0
+209,209,"Prince George's, MD",Maryland,-1515.21,24.0,'existing paid',business,6568,9.01,1<=X<4,2,Unknown,none,2,car,21,stores,own,1,'unskilled resident',1,Unknown,Good,12/2/1994,Unknown,2
+210,210,"Baltimore city, MD",Maryland,0.0,12.0,'existing paid','used car',1413,0.0,4<=X<7,3,'male single',Unknown,2,'life insurance',55,none,own,0,skilled,Unknown,no,Good,12/3/1994,no,0
+211,211,"Kalamazoo, MI",Michigan,0.0,9.0,'critical/other existing credit',radio/tv,3074,0.0,Unknown,1,Unknown,none,2,'real estate',33,none,Other,2,skilled,2,no,Bad,12/4/1994,no,2
+212,212,"Saginaw, MI",Michigan,0.0,36.0,'existing paid',radio/tv,3835,0.0,>=7,2,'female div/dep/mar',none,4,'real estate',45,none,own,1,'unskilled resident',1,yes,Bad,12/5/1994,yes,2
+213,213,"Wayne, MI",Michigan,-2297.6,27.0,'no credits/all paid',business,5293,25.73,unemployed,2,'male single',none,0,Other,31,stores,Other,2,skilled,1,no,Good,12/6/1994,no,2
+214,214,"Wayne, MI",Michigan,7044.86,30.0,'delayed previously',business,1908,57.07,>=7,4,'male single',none,4,'real estate',66,none,own,1,'high qualif/self emp/mgmt',1,no,Bad,12/7/1994,no,0
+215,215,"Greene, MO",Missouri,0.0,36.0,no credit history,radio/tv,3342,0.0,>=7,4,Unknown,none,0,car,31,none,own,0,skilled,1,yes,Good,12/8/1994,yes,2
+216,216,"Greene, MO",Missouri,119.36,6.0,'critical/other existing credit',Unknown,932,0.0,Unknown,1,'female div/dep/mar',none,3,'life insurance',39,none,own,2,'unskilled resident',1,no,Good,12/9/1994,no,0
+217,217,"Rolla, MO",Missouri,0.0,18.0,'no credits/all paid',business,3104,0.0,4<=X<7,0,'male single',none,1,'life insurance',31,bank,own,1,skilled,1,no,Good,12/10/1994,no,2
+218,218,"Greene, MO",Missouri,8427.47,36.0,'existing paid',radio/tv,3913,94.68,1<=X<4,2,'male single',Unknown,0,'real estate',23,none,own,1,skilled,1,no,Bad,12/11/1994,no,2
+219,219,"Jefferson City, MO",Missouri,-5135.08,24.0,'existing paid',furniture/equipment,3021,0.0,1<=X<4,2,'male div/sep',none,2,'real estate',24,none,rent,1,'unskilled resident',1,no,Good,12/12/1994,no,2
+220,220,"Jackson, MO",Missouri,0.0,10.0,'existing paid','new car',1364,0.0,1<=X<4,2,'female div/dep/mar',none,4,Other,64,Other,own,1,skilled,1,yes,Bad,12/13/1994,yes,0
+221,221,"Jefferson City, MO",Missouri,41.29,12.0,'existing paid',Unknown,625,27.59,<1,4,'male mar/wid',guarantor,1,'real estate',26,bank,own,1,'unskilled resident',1,yes,Bad,12/14/1994,yes,0
+222,222,"Forrest, MS",Mississippi,-2287.81,12.0,no credit history,education,1200,0.0,1<=X<4,4,'female div/dep/mar',none,4,Other,23,bank,rent,0,skilled,1,yes,Good,12/15/1994,yes,0
+223,223,"Hinds, MS",Mississippi,0.0,12.0,'existing paid',Unknown,707,0.0,1<=X<4,4,'male single',none,2,'real estate',30,bank,own,2,skilled,1,yes,Good,12/16/1994,yes,0
+224,224,"Cumberland, NC",North Carolina,0.0,24.0,'delayed previously',Unknown,2978,0.0,1<=X<4,4,'male single',none,4,'real estate',32,none,own,2,Other,2,yes,Good,12/17/1994,yes,2
+225,225,"Nash, NC",North Carolina,0.0,15.0,'existing paid','used car',4657,0.0,1<=X<4,3,'male single',none,2,car,30,Other,own,1,skilled,1,yes,Good,12/18/1994,yes,2
+226,226,"Guilford, NC",North Carolina,0.0,36.0,'no credits/all paid',repairs,2613,0.0,1<=X<4,4,'male single',Unknown,2,car,27,none,own,0,skilled,1,no,Bad,12/19/1994,no,0
+227,227,"Mecklenburg, NC",North Carolina,149.22,20.0,'existing paid',radio/tv,10961,2648.91,4<=X<7,1,'male single','co applicant',2,'no known property',27,bank,own,2,skilled,1,no,Bad,12/20/1994,no,1
+228,228,"Pitt, NC",North Carolina,-4808.4,12.0,'existing paid',furniture/equipment,7865,0.0,>=7,0,'male single',none,0,'no known property',53,none,Other,1,'high qualif/self emp/mgmt',1,no,Good,12/21/1994,no,1
+229,229,"Hillsborough, NH",New Hampshire,0.0,9.0,'existing paid',radio/tv,1478,0.0,4<=X<7,4,'male single',none,2,car,22,none,own,1,skilled,Unknown,no,Bad,12/22/1994,no,0
+230,230,"Atlantic, NJ",New Jersey,0.0,24.0,'existing paid',furniture/equipment,3149,0.0,<1,4,'male single',none,1,'no known property',22,bank,'for free',1,skilled,1,no,Bad,12/23/1994,no,2
+231,231,"Burlington, NJ",New Jersey,7308.81,36.0,'existing paid',Unknown,4210,7.28,1<=X<4,4,'male single',none,2,car,26,Other,own,1,skilled,1,no,Good,12/24/1994,no,2
+232,232,"Camden, NJ",New Jersey,0.0,9.0,'existing paid','new car',2507,0.0,Unknown,2,'male single',Unknown,4,'no known property',51,none,'for free',0,'unskilled resident',1,no,Good,12/25/1994,no,0
+233,233,"Essex, NJ",New Jersey,0.0,12.0,no credit history,radio/tv,2141,0.0,4<=X<7,3,'male single',none,1,'no known property',35,none,own,1,skilled,1,no,Bad,12/26/1994,no,0
+234,234,"Essex, NJ",New Jersey,154.16,18.0,no credit history,radio/tv,866,86.28,1<=X<4,4,'male mar/wid',guarantor,2,'real estate',25,none,own,1,'unskilled resident',Unknown,no,Good,12/27/1994,no,0
+235,235,"Mercer, NJ",New Jersey,0.0,4.0,'critical/other existing credit',radio/tv,1544,0.0,4<=X<7,2,'male single',none,1,'real estate',42,none,own,3,'unskilled resident',2,yes,Bad,12/28/1994,yes,0
+236,236,"Passaic, NJ",New Jersey,-9256.59,24.0,'existing paid',radio/tv,1823,53.53,unemployed,4,'male single',none,2,car,30,stores,Other,1,'high qualif/self emp/mgmt',2,yes,Good,12/29/1994,yes,0
+237,237,"Essex, NJ",New Jersey,69.73,6.0,'existing paid','new car',14555,0.0,unemployed,1,'male single',none,2,'life insurance',23,none,own,1,'unemp/unskilled non res',1,no,Bad,12/30/1994,no,1
+238,238,"Bernalillo, NM",New Mexico,57.58,21.0,'existing paid',business,2767,0.0,>=7,4,Unknown,none,2,car,61,bank,rent,0,'unskilled resident',1,no,Bad,Dec-31-1994,no,2
+239,239,"Otero, NM",New Mexico,0.0,12.0,'critical/other existing credit',Unknown,1291,0.0,1<=X<4,4,'female div/dep/mar',none,2,'life insurance',31,none,own,2,Other,1,yes,Good,1/1/1995,yes,0
+240,240,"Otero, NM",New Mexico,-4641.13,30.0,'existing paid',Unknown,2522,71.17,>=7,1,'male single',Unknown,3,'life insurance',39,none,own,1,skilled,2,no,Good,1/2/1995,no,0
+241,241,"Clark, NV",Nevada,-4772.2,24.0,'existing paid','new car',915,0.0,>=7,4,Unknown,none,2,car,31,bank,own,0,skilled,1,no,Good,1/3/1995,no,0
+242,242,"Los Angeles, CA",California,0.0,20.0,no credit history,Unknown,3234,0.0,Unknown,0,Unknown,Unknown,0,Other,31,Other,Other,0,Other,Unknown,Unknown,Good,1/4/1995,Unknown,2
+243,243,"Erie, NY",New York,0.0,6.0,'existing paid',radio/tv,1595,0.0,4<=X<7,3,Unknown,none,2,Other,51,none,own,1,skilled,2,no,Bad,1/5/1995,no,0
+244,244,"Monroe, NY",New York,-6913.58,48.0,'no credits/all paid','used car',4605,82.93,>=7,3,'male single',none,4,Other,24,none,'for free',2,skilled,Unknown,yes,Good,1/6/1995,yes,2
+245,245,"New York, NY",New York,0.0,12.0,'critical/other existing credit',business,1185,0.0,1<=X<4,3,'female div/dep/mar',none,2,Other,27,none,own,2,skilled,1,Unknown,Good,1/7/1995,Unknown,0
+246,246,"Onondaga, NY",New York,0.0,12.0,'all paid',retraining,3447,0.0,1<=X<4,4,'female div/dep/mar',none,3,'real estate',35,none,own,1,'unskilled resident',2,no,Bad,1/8/1995,no,2
+247,247,"Suffolk, NY",New York,0.0,24.0,'existing paid',business,1258,0.0,4<=X<7,4,'male single',none,1,'real estate',25,none,own,1,skilled,1,no,Bad,1/9/1995,no,0
+248,248,"Mahoning, OH",Ohio,0.0,12.0,'critical/other existing credit',radio/tv,717,0.0,>=7,4,'male single',none,4,'real estate',52,none,Other,3,Other,1,Unknown,Bad,1/10/1995,Unknown,0
+249,249,"Stark, OH",Ohio,0.0,6.0,'no credits/all paid','new car',1204,0.0,1<=X<4,0,'male single',none,1,'no known property',35,bank,rent,1,skilled,1,no,Good,1/11/1995,no,0
+250,250,"Summit, OH",Ohio,4844.17,24.0,'existing paid',Unknown,1925,84.16,1<=X<4,2,'male single',none,2,'real estate',26,none,own,1,skilled,1,yes,Good,1/12/1995,yes,0
+251,251,"Hamilton, OH",Ohio,0.0,18.0,'existing paid',radio/tv,433,0.0,unemployed,3,'female div/dep/mar','co applicant',4,'real estate',22,none,rent,1,skilled,1,yes,Good,1/13/1995,yes,0
+252,252,"Cuyahoga, OH",Ohio,-350.28,6.0,'critical/other existing credit','new car',666,2438.92,4<=X<7,3,'female div/dep/mar',none,0,'real estate',39,none,own,2,'unskilled resident',1,Unknown,Good,1/14/1995,Unknown,0
+253,253,"Cuyahoga, OH",Ohio,2323.65,12.0,'existing paid',furniture/equipment,2251,9.33,1<=X<4,1,'female div/dep/mar',none,2,car,46,none,own,0,'unskilled resident',1,no,Good,1/15/1995,no,0
+254,254,"Cuyahoga, OH",Ohio,84.68,30.0,'existing paid','new car',2150,47.59,1<=X<4,4,'female div/dep/mar',guarantor,2,'no known property',24,bank,own,0,Other,1,yes,Bad,1/16/1995,yes,0
+255,255,"Cuyahoga, OH",Ohio,0.0,24.0,'delayed previously',furniture/equipment,4151,0.0,1<=X<4,2,'male single',none,3,'life insurance',35,none,own,0,skilled,1,yes,Bad,1/17/1995,yes,2
+256,256,"Cuyahoga, OH",Ohio,39.8,9.0,'existing paid',furniture/equipment,2030,0.0,4<=X<7,2,'male single',Unknown,1,car,24,none,Other,1,skilled,1,no,Good,1/18/1995,no,0
+257,257,"Franklin, OH",Ohio,49.03,20.0,'delayed previously',radio/tv,7418,0.0,1<=X<4,1,'male single',none,1,'real estate',27,none,own,1,'unskilled resident',1,yes,Bad,1/19/1995,yes,1
+258,258,"Multnomah, OR",Oregon,0.0,24.0,'critical/other existing credit',Unknown,2684,0.0,1<=X<4,0,'male single',none,2,'real estate',35,none,own,2,'unskilled resident',1,no,Good,1/20/1995,no,2
+259,259,"Dauphin, PA",Pennsylvania,-255.77,12.0,'all paid',radio/tv,2149,14.98,1<=X<4,4,Unknown,none,1,'no known property',29,none,'for free',1,Other,1,yes,Bad,1/21/1995,yes,0
+260,260,"Delaware, PA",Pennsylvania,0.0,15.0,'existing paid','used car',3812,0.0,<1,1,'female div/dep/mar',Unknown,4,car,23,none,own,0,skilled,1,no,Good,1/22/1995,no,2
+261,261,"Lancaster, PA",Pennsylvania,0.0,11.0,'critical/other existing credit',radio/tv,1154,0.0,unemployed,0,'female div/dep/mar',none,4,'real estate',57,Other,own,3,'unskilled resident',1,no,Good,1/23/1995,no,0
+262,262,"Philadelphia, PA",Pennsylvania,-5536.22,12.0,no credit history,furniture/equipment,1657,45.58,1<=X<4,2,'male single',none,2,'real estate',31,none,own,1,skilled,1,yes,Good,1/24/1995,yes,0
+263,263,"Providence, RI",Rhodes Island,-1579.52,24.0,'existing paid',radio/tv,1603,74.65,Unknown,4,Unknown,none,0,car,55,none,own,1,skilled,1,yes,Bad,1/25/1995,yes,0
+264,264,"Anderson, SC",South Carolina,-1502.18,18.0,'critical/other existing credit','new car',5302,83.75,>=7,2,'male single',none,4,'no known property',36,none,'for free',3,'high qualif/self emp/mgmt',Unknown,no,Good,1/26/1995,no,2
+265,265,"Charleston, SC",South Carolina,0.0,12.0,'critical/other existing credit',education,3234,0.0,Unknown,2,'female div/dep/mar',none,4,'no known property',57,bank,'for free',3,'unskilled resident',1,yes,Good,1/27/1995,yes,2
+266,266,"Greenville, SC",South Carolina,0.0,10.0,'critical/other existing credit','new car',1231,0.0,>=7,3,'male single',none,0,'real estate',32,none,own,2,'unskilled resident',2,no,Bad,1/28/1995,no,0
+267,267,"Horry, SC",South Carolina,135.62,15.0,'existing paid',radio/tv,802,73.76,Unknown,4,Unknown,none,3,Other,37,none,own,1,skilled,2,no,Good,1/29/1995,no,0
+268,268,"Jasper, SC",South Carolina,0.0,36.0,'critical/other existing credit',business,6304,0.0,>=7,4,Unknown,none,4,'real estate',36,none,own,2,skilled,Unknown,no,Good,1/30/1995,no,2
+269,269,"Lexington, SC",South Carolina,0.0,24.0,'existing paid',radio/tv,1533,0.0,<1,4,'female div/dep/mar',none,3,car,38,stores,own,1,skilled,1,yes,Good,1/31/1995,yes,0
+270,270,"Spartanburg, SC",South Carolina,-517.47,14.0,'existing paid','new car',8978,85.21,>=7,1,'male div/sep',none,4,'life insurance',45,none,own,1,'high qualif/self emp/mgmt',1,no,Bad,2/1/1995,no,1
+271,271,"Hughes, SD",South Dakota,0.0,24.0,'existing paid',radio/tv,999,0.0,>=7,0,'male single',none,2,car,31,none,own,2,skilled,1,yes,Good,2/2/1995,yes,0
+272,272,"Hughes, SD",South Dakota,0.0,18.0,'existing paid','new car',2662,0.0,Unknown,4,'male single',none,0,'life insurance',32,none,Other,1,skilled,1,yes,Bad,2/3/1995,yes,0
+273,273,"Hughes, SD",South Dakota,0.0,12.0,'critical/other existing credit',furniture/equipment,3234,0.0,4<=X<7,3,'female div/dep/mar',none,4,car,37,none,rent,1,skilled,1,no,Bad,2/4/1995,no,2
+274,274,"Davidson, TN",Tennessee,171.45,48.0,'all paid','new car',12169,0.0,unemployed,4,'male single','co applicant',4,'no known property',36,none,'for free',1,'high qualif/self emp/mgmt',1,no,Good,2/5/1995,no,1
+275,275,"Haywood, TN",Tennessee,187.45,48.0,'existing paid',radio/tv,3060,67.23,4<=X<7,0,Unknown,none,4,'real estate',28,none,Other,0,skilled,1,yes,Good,2/6/1995,yes,2
+276,276,"Robertson, TN",Tennessee,-5525.31,30.0,no credit history,repairs,11998,38.84,<1,0,'male div/sep',none,0,Other,34,none,own,1,'unskilled resident',1,no,Good,2/7/1995,no,1
+277,277,"Shelby, TN",Tennessee,0.0,9.0,'existing paid',radio/tv,3234,0.0,1<=X<4,0,Unknown,none,2,'real estate',32,none,own,1,skilled,2,yes,Good,2/8/1995,yes,2
+278,278,"Dallas, TX",Texas,0.0,18.0,'critical/other existing credit',Unknown,3234,0.0,Unknown,0,'female div/dep/mar',none,2,car,26,none,own,2,skilled,1,no,Good,2/9/1995,no,2
+279,279,"El Paso, TX",Texas,-6825.17,12.0,no credit history,furniture/equipment,1262,0.0,>=7,2,'male div/sep',Unknown,4,'life insurance',49,none,own,1,'unskilled resident',1,no,Good,2/10/1995,no,0
+280,280,"El Paso, TX",Texas,0.0,6.0,'existing paid',furniture/equipment,4611,0.0,<1,1,'female div/dep/mar',Unknown,0,'life insurance',32,none,own,1,skilled,1,no,Good,2/11/1995,no,2
+281,281,"Franklin, TX",Texas,0.0,24.0,no credit history,radio/tv,1901,0.0,1<=X<4,4,Unknown,Unknown,4,car,29,none,rent,1,'high qualif/self emp/mgmt',Unknown,no,Bad,2/12/1995,no,0
+282,282,"Harris, TX",Texas,0.0,15.0,'critical/other existing credit',Unknown,3234,0.0,>=7,3,Unknown,none,4,'no known property',23,none,rent,2,skilled,1,yes,Good,2/13/1995,yes,2
+283,283,"Harris, TX",Texas,0.0,12.0,'existing paid',furniture/equipment,1574,0.0,1<=X<4,4,'male single',none,2,'real estate',50,none,own,1,skilled,1,no,Bad,2/14/1995,no,0
+284,284,"Hidalgo, TX",Texas,0.0,18.0,'all paid',radio/tv,1445,0.0,4<=X<7,4,Unknown,none,4,car,31,Other,own,1,'unskilled resident',1,no,Good,2/15/1995,no,0
+285,285,"Jefferson, TX",Texas,0.0,15.0,'critical/other existing credit',Unknown,1520,0.0,>=7,4,'male single',none,4,'life insurance',63,none,own,1,skilled,1,no,Good,2/16/1995,no,0
+286,286,"Jefferson, TX",Texas,19.48,24.0,no credit history,'new car',3878,384.02,<1,4,'male div/sep',none,2,car,31,Other,Other,1,skilled,1,yes,Good,2/17/1995,yes,2
+287,287,"Nueces, TX",Texas,-5888.3,20.0,'existing paid','new car',3234,58.62,<1,1,'female div/dep/mar',Unknown,1,'real estate',35,none,own,1,'unskilled resident',1,no,Good,2/18/1995,no,2
+288,288,"Potter, TX",Texas,-7579.53,48.0,'existing paid','used car',3234,24.62,4<=X<7,4,'male single',none,3,'life insurance',26,none,own,1,skilled,2,yes,Bad,2/19/1995,yes,2
+289,289,"Tarrant, TX",Texas,130.14,48.0,'delayed previously',other,3234,376.5,unemployed,2,'male single',none,0,'no known property',31,none,'for free',1,'high qualif/self emp/mgmt',1,no,Good,2/20/1995,no,2
+290,290,"Travis, TX",Texas,169.03,12.0,'existing paid',radio/tv,1092,26.55,1<=X<4,4,'female div/dep/mar',Unknown,4,'real estate',31,none,own,2,skilled,1,no,Good,2/21/1995,no,0
+291,291,"Dallas, TX",Texas,-7872.78,24.0,no credit history,radio/tv,1024,0.0,<1,4,'male mar/wid',none,4,'real estate',48,stores,own,1,skilled,1,Unknown,Bad,2/22/1995,Unknown,0
+292,292,"Harris, TX",Texas,0.0,12.0,'existing paid',business,1076,0.0,1<=X<4,2,Unknown,none,2,'real estate',26,Other,own,1,skilled,1,no,Bad,Feb-23-1995,no,0
+293,293,"Bexar, TX",Texas,155.74,36.0,'existing paid','used car',9398,93.87,<1,1,'male mar/wid',none,4,car,28,none,rent,1,'high qualif/self emp/mgmt',1,yes,Good,2/24/1995,yes,1
+294,294,"Salt Lake, UT",Utah,-9594.86,24.0,'critical/other existing credit','used car',6419,16.26,>=7,2,'female div/dep/mar',none,4,'no known property',44,none,'for free',2,'high qualif/self emp/mgmt',2,no,Bad,2/25/1995,no,2
+295,295,"Accomack, VA",Virginia,7720.46,20.0,'critical/other existing credit','used car',3234,40.81,>=7,4,'male single',none,4,'no known property',56,none,'for free',1,skilled,1,no,Good,2/26/1995,no,2
+296,296,"Prince William, VA",Virginia,0.0,48.0,'critical/other existing credit',business,7629,0.0,>=7,4,'male div/sep',none,2,car,46,bank,own,2,'high qualif/self emp/mgmt',2,no,Bad,2/27/1995,no,1
+297,297,"Russell, VA",Virginia,61.96,48.0,'existing paid',furniture/equipment,9960,64.33,<1,1,Unknown,none,2,car,26,none,own,1,skilled,1,yes,Good,2/28/1995,yes,1
+298,298,"Newport News, VA",Virginia,0.0,12.0,'existing paid','used car',4675,0.0,Unknown,1,'female div/dep/mar',none,4,car,20,none,rent,1,skilled,1,no,Bad,3/1/1995,no,2
+299,299,"Norfolk, VA",Virginia,0.0,10.0,'existing paid',Unknown,1287,0.0,Unknown,4,'male single','co applicant',2,'life insurance',45,none,Other,1,'unskilled resident',1,yes,Good,3/2/1995,yes,0
+300,300,"Portsmouth, VA",Virginia,0.0,18.0,no credit history,furniture/equipment,2515,0.0,1<=X<4,3,'male single',none,4,'real estate',43,none,own,0,skilled,1,yes,Bad,3/3/1995,yes,0
+301,301,"Richmond, VA",Virginia,0.31,21.0,'critical/other existing credit',furniture/equipment,2745,1787.08,4<=X<7,3,'male single',none,2,car,32,none,own,2,skilled,1,Unknown,Good,3/4/1995,Unknown,2
+302,302,"Kitsap, WA",Washington,0.0,6.0,'existing paid','new car',672,0.0,unemployed,1,'female div/dep/mar',none,4,'real estate',54,none,own,1,'unemp/unskilled non res',Unknown,no,Good,3/5/1995,no,0
+303,303,"Pierce, WA",Washington,192.02,36.0,no credit history,radio/tv,3804,0.0,1<=X<4,4,'female div/dep/mar',none,1,car,42,none,own,1,skilled,Unknown,yes,Good,3/6/1995,yes,2
+304,304,"Spokane, WA",Washington,5659.69,20.0,'critical/other existing credit','new car',1344,0.0,4<=X<7,4,'male single',none,0,'real estate',37,bank,own,2,'unskilled resident',2,no,Good,3/7/1995,no,0
+305,305,"Milwaukee, WI",Wisconsin,-8464.44,10.0,'critical/other existing credit',Unknown,1038,38.82,4<=X<7,4,'male single','co applicant',0,Other,49,none,Other,2,skilled,1,yes,Bad,3/8/1995,yes,0
+306,306,"Anchorage, AK",Alaska,0.0,48.0,'critical/other existing credit','new car',3234,0.0,1<=X<4,2,'male single',none,2,'no known property',44,bank,Other,1,skilled,1,yes,Bad,3/9/1995,yes,2
+307,307,"Maricopa, AZ",Arizona,0.0,6.0,no credit history,furniture/equipment,1543,0.0,1<=X<4,4,'male div/sep',none,2,'real estate',33,none,own,1,skilled,1,yes,Good,3/10/1995,yes,0
+308,308,"Maricopa, AZ",Arizona,0.0,20.0,'existing paid','used car',4811,0.0,4<=X<7,2,'female div/dep/mar',none,0,'life insurance',24,stores,rent,1,'unskilled resident',1,no,Good,3/11/1995,no,2
+309,309,"Pima, AZ",Arizona,-8135.03,12.0,'existing paid',radio/tv,727,473.67,<1,4,'male mar/wid',none,3,'no known property',33,none,own,1,'unskilled resident',1,yes,Bad,3/12/1995,yes,0
+310,310,"Alameda, CA",California,0.0,8.0,no credit history,furniture/equipment,1237,0.0,1<=X<4,3,'female div/dep/mar',none,4,'real estate',24,none,own,1,skilled,1,no,Bad,3/13/1995,no,0
+311,311,"Kern, CA",California,0.0,9.0,'existing paid','new car',276,0.0,1<=X<4,4,'male mar/wid',none,4,'real estate',31,none,rent,0,'unskilled resident',Unknown,no,Bad,3/14/1995,no,0
+312,312,"Los Angeles, CA",California,192.16,48.0,no credit history,other,5381,0.0,unemployed,3,Unknown,none,4,'no known property',40,bank,'for free',1,'unemp/unskilled non res',1,no,Good,3/15/1995,no,2
+313,313,"Los Angeles, CA",California,0.0,24.0,'existing paid',furniture/equipment,5511,0.0,1<=X<4,4,'male single',none,1,car,25,stores,Other,1,skilled,1,no,Good,3/16/1995,no,2
+314,314,"San Francisco, CA",California,797.21,24.0,no credit history,furniture/equipment,3234,98.87,Unknown,2,Unknown,none,4,car,26,none,own,1,skilled,1,yes,Bad,3/17/1995,yes,2
+315,315,"Los Angeles, CA",California,137.41,12.0,'existing paid',Unknown,685,38.95,4<=X<7,2,'male mar/wid',none,3,car,25,bank,own,1,'unskilled resident',1,yes,Good,3/18/1995,yes,0
+316,316,"Sacramento, CA",California,4365.37,4.0,'existing paid','new car',1494,0.0,<1,1,'male single',none,0,Other,29,none,own,1,'unskilled resident',2,yes,Good,3/19/1995,yes,0
+317,317,"Sacramento, CA",California,-5992.61,36.0,'all paid',furniture/equipment,2746,27.23,>=7,4,'male single',Unknown,4,car,31,bank,own,1,Other,1,no,Good,3/20/1995,no,2
+318,318,"San Bernardino, CA",California,-3145.9,12.0,'existing paid',furniture/equipment,708,0.0,Unknown,2,'male single',guarantor,3,'life insurance',38,Other,own,1,'unskilled resident',2,no,Good,3/21/1995,no,0
+319,319,"San Diego, CA",California,77.88,24.0,'existing paid',furniture/equipment,3234,0.0,1<=X<4,1,'female div/dep/mar',none,4,'life insurance',48,none,own,1,Other,1,Unknown,Good,3/22/1995,Unknown,2
+320,320,"San Francisco, CA",California,0.0,12.0,no credit history,education,701,0.0,1<=X<4,4,'male single',none,2,car,32,none,own,2,skilled,1,yes,Bad,3/23/1995,yes,0
+321,321,"El Paso, CO",Colorado,-3417.74,15.0,'delayed previously',furniture/equipment,3643,16.7,>=7,1,'female div/dep/mar',none,0,'life insurance',27,none,own,2,'unskilled resident',1,yes,Bad,3/24/1995,yes,2
+322,322,"Denver, CO",Colorado,122.0,30.0,'critical/other existing credit',Unknown,4249,90.83,unemployed,4,'male mar/wid',none,2,car,28,none,Other,2,'high qualif/self emp/mgmt',1,yes,Good,3/25/1995,yes,2
+323,323,"Hartford, CT",Connecticut,-4562.14,24.0,'existing paid',radio/tv,1938,17.04,<1,4,'male div/sep',none,3,'life insurance',32,none,Other,1,skilled,1,yes,Bad,3/26/1995,yes,0
+324,324,District of Columbia,District of Columbia,-3923.01,24.0,'existing paid','used car',2910,74.32,4<=X<7,2,Unknown,Unknown,1,'no known property',34,none,'for free',1,'high qualif/self emp/mgmt',1,no,Good,3/27/1995,no,2
+325,325,"Chatham, GA",Georgia,-7400.92,18.0,no credit history,furniture/equipment,2659,5806.39,1<=X<4,4,'male single',none,2,car,28,none,Other,1,skilled,1,yes,Good,3/28/1995,yes,0
+326,326,"Clayton, GA",Georgia,0.0,18.0,'critical/other existing credit','new car',1028,0.0,1<=X<4,4,'female div/dep/mar',Unknown,3,'real estate',36,none,own,2,skilled,1,no,Bad,3/29/1995,no,0
+327,327,"De Kalb, GA",Georgia,-3324.64,8.0,'critical/other existing credit','new car',3398,61.33,4<=X<7,1,Unknown,none,4,'real estate',39,none,own,2,'unskilled resident',1,no,Bad,3/30/1995,no,2
+328,328,"Fulton, GA",Georgia,0.0,12.0,'critical/other existing credit',furniture/equipment,3234,0.0,>=7,2,'male single',none,4,'life insurance',49,none,rent,1,skilled,1,no,Bad,3/31/1995,no,2
+329,329,"Fulton, GA",Georgia,0.0,24.0,'existing paid','new car',1525,0.0,4<=X<7,4,'female div/dep/mar',Unknown,3,car,34,none,own,1,skilled,2,yes,Good,4/1/1995,yes,0
+330,330,"Cook, IL",Illinois,6300.38,36.0,'existing paid',radio/tv,4473,46.6,>=7,4,'male single',none,2,car,31,none,own,1,skilled,Unknown,yes,Good,4/2/1995,yes,2
+331,331,"Marion, IN",Indiana,0.0,20.0,no credit history,Unknown,3234,0.0,Unknown,0,Unknown,Unknown,0,Other,31,Other,Other,0,Other,Unknown,Unknown,Good,4/3/1995,Unknown,2
+332,332,"Jefferson, KY",Kentucky,94.48,6.0,'existing paid',radio/tv,1068,73.19,>=7,4,'male single',none,4,car,28,none,own,1,skilled,2,yes,Good,4/4/1995,yes,0
+333,333,"Caddo, LA",Louisiana,-8908.55,24.0,'critical/other existing credit','used car',6615,58.88,Unknown,2,'male single',none,4,'no known property',75,none,Other,2,'high qualif/self emp/mgmt',1,no,Bad,4/5/1995,no,2
+334,334,"East Baton Rouge, LA",Louisiana,0.0,18.0,'critical/other existing credit',education,1864,0.0,1<=X<4,4,Unknown,none,2,'real estate',30,none,own,2,skilled,1,yes,Good,4/6/1995,yes,0
+335,335,"Jefferson, LA",Louisiana,106.45,60.0,'existing paid','new car',7408,479.08,<1,4,Unknown,none,2,Other,24,none,own,1,'high qualif/self emp/mgmt',1,no,Good,4/7/1995,no,1
+336,336,"Orleans, LA",Louisiana,0.0,48.0,'critical/other existing credit','used car',11590,0.0,1<=X<4,2,'female div/dep/mar',none,4,car,24,bank,rent,0,'unskilled resident',1,yes,Good,4/8/1995,yes,1
+337,337,"Suffolk, MA",Massachusetts,-596.17,24.0,'no credits/all paid',furniture/equipment,4110,95.01,Unknown,3,'male single',none,0,'no known property',31,bank,Other,2,skilled,2,no,Bad,4/9/1995,no,2
+338,338,"Anne Arundel, MD",Maryland,-1018.74,6.0,'critical/other existing credit',furniture/equipment,3384,98.78,1<=X<4,1,'male div/sep',none,4,'real estate',44,none,rent,1,'high qualif/self emp/mgmt',1,yes,Bad,4/10/1995,yes,2
+339,339,"Baltimore city, MD",Maryland,145.59,13.0,'existing paid',radio/tv,2101,66.57,<1,2,'female div/dep/mar',guarantor,4,'life insurance',23,none,own,1,'unskilled resident',1,yes,Good,4/11/1995,yes,0
+340,340,"Saginaw, MI",Michigan,-6090.13,15.0,'existing paid','domestic appliance',3234,0.0,1<=X<4,4,'female div/dep/mar',none,2,car,24,Other,rent,1,skilled,1,no,Bad,4/12/1995,no,2
+341,341,"Wayne, MI",Michigan,-5498.76,24.0,'existing paid',furniture/equipment,4169,68.48,1<=X<4,4,'male single',Unknown,0,'life insurance',28,Other,own,1,skilled,1,no,Good,4/13/1995,no,2
+342,342,"Greene, MO",Missouri,103.39,10.0,'existing paid',furniture/equipment,3234,93.87,1<=X<4,4,'male div/sep',none,2,car,31,Other,own,1,'unskilled resident',1,yes,Good,4/14/1995,yes,2
+343,343,"Jackson, MO",Missouri,163.9,24.0,'critical/other existing credit',education,5743,45.64,<1,2,'female div/dep/mar',none,4,'no known property',31,none,'for free',2,skilled,1,yes,Bad,4/15/1995,yes,2
+344,344,"Rolla, MO",Missouri,-6405.45,21.0,'existing paid',furniture/equipment,3234,59.79,4<=X<7,1,'female div/dep/mar',none,4,car,31,none,rent,1,'unskilled resident',1,no,Good,4/16/1995,no,2
+345,345,"Forrest, MS",Mississippi,193.31,18.0,'existing paid',radio/tv,3213,0.0,<1,1,'male mar/wid',none,3,'real estate',25,none,rent,1,skilled,Unknown,no,Good,4/17/1995,no,2
+346,346,"Hinds, MS",Mississippi,116.75,18.0,'existing paid',Unknown,4439,65.84,>=7,1,'male single','co applicant',1,'real estate',33,bank,own,1,'high qualif/self emp/mgmt',1,yes,Good,4/18/1995,yes,2
+347,347,"Nash, NC",North Carolina,2557.93,10.0,'existing paid','new car',3949,0.75,<1,1,'male single',Unknown,0,'life insurance',37,none,own,1,Other,2,no,Good,4/19/1995,no,2
+348,348,"Guilford, NC",North Carolina,0.0,15.0,'critical/other existing credit',radio/tv,1459,0.0,1<=X<4,4,'female div/dep/mar',none,2,car,43,none,own,1,'unskilled resident',1,yes,Good,4/20/1995,yes,0
+349,349,"Mecklenburg, NC",North Carolina,134.6,20.0,'critical/other existing credit',radio/tv,882,0.0,<1,4,'male single',Unknown,4,'real estate',23,none,own,2,skilled,Unknown,yes,Bad,4/21/1995,yes,0
+350,350,"Hillsborough, NH",New Hampshire,155.32,24.0,'existing paid',radio/tv,3758,623.93,unemployed,1,'female div/dep/mar',none,0,'no known property',23,none,rent,1,'unemp/unskilled non res',1,no,Bad,4/22/1995,no,2
+351,351,"Camden, NJ",New Jersey,0.0,6.0,'delayed previously',business,1743,0.0,1<=X<4,0,'male single',none,2,'real estate',34,none,Other,2,'unskilled resident',Unknown,yes,Good,4/23/1995,yes,0
+352,352,"Mercer, NJ",New Jersey,68.16,9.0,'critical/other existing credit',education,1136,0.0,>=7,4,'male single',none,3,Other,32,none,'for free',0,Other,2,no,Good,4/24/1995,no,0
+353,353,"Passaic, NJ",New Jersey,0.0,9.0,'existing paid','domestic appliance',1236,0.0,<1,1,'female div/dep/mar',none,4,'real estate',23,none,rent,1,skilled,1,yes,Bad,4/25/1995,yes,0
+354,354,"Passaic, NJ",New Jersey,9.39,9.0,'existing paid',furniture/equipment,3234,83.12,1<=X<4,1,'female div/dep/mar',none,0,Other,29,none,own,1,skilled,1,yes,Bad,4/26/1995,yes,2
+355,355,"Essex, NJ",New Jersey,0.0,18.0,'critical/other existing credit','used car',3229,0.0,unemployed,2,'male single',none,0,'no known property',38,none,Other,1,'high qualif/self emp/mgmt',1,yes,Good,4/27/1995,yes,2
+356,356,"Bernalillo, NM",New Mexico,-5039.28,12.0,'no credits/all paid',radio/tv,3234,84.14,1<=X<4,4,'male single',none,2,Other,28,none,rent,0,skilled,1,no,Good,4/28/1995,no,2
+357,357,"Clark, NV",Nevada,0.0,10.0,'existing paid',education,727,0.0,>=7,4,'male single',none,4,'no known property',31,none,'for free',1,skilled,1,yes,Good,4/29/1995,yes,0
+358,358,"Washoe, NV",Nevada,0.0,24.0,'existing paid','new car',1246,0.0,<1,4,'male single',none,2,'real estate',23,stores,own,1,'unskilled resident',1,yes,Good,4/30/1995,yes,0
+359,359,"Erie, NY",New York,0.0,12.0,'critical/other existing credit',radio/tv,2331,0.0,>=7,1,'male single',Unknown,4,'real estate',49,none,own,1,skilled,1,no,Good,5/1/1995,no,0
+360,360,"Erie, NY",New York,0.0,36.0,'delayed previously',radio/tv,3234,0.0,1<=X<4,4,'male single',none,2,Other,31,none,own,2,'high qualif/self emp/mgmt',1,no,Good,5/2/1995,no,2
+361,361,"Monroe, NY",New York,0.0,12.0,'existing paid',radio/tv,776,0.0,1<=X<4,4,'male mar/wid',none,2,'real estate',28,none,Other,1,skilled,1,no,Bad,5/3/1995,no,0
+362,362,"New York, NY",New York,-4887.82,30.0,'existing paid',furniture/equipment,2406,32.57,Unknown,4,'female div/dep/mar',none,4,'real estate',23,none,Other,1,skilled,1,no,Good,5/4/1995,no,0
+363,363,"Onondaga, NY",New York,85.71,18.0,'existing paid',education,1239,0.0,1<=X<4,4,'male single',none,4,'no known property',61,Other,Other,1,skilled,1,no,Bad,5/5/1995,no,0
+364,364,"Suffolk, NY",New York,0.0,12.0,'existing paid',radio/tv,3399,0.0,Unknown,2,'male single',none,3,Other,37,none,own,1,'high qualif/self emp/mgmt',1,Unknown,Good,5/6/1995,Unknown,2
+365,365,"Mahoning, OH",Ohio,9712.82,12.0,no credit history,'new car',2247,5.02,1<=X<4,2,'female div/dep/mar',none,2,car,36,stores,own,2,skilled,1,no,Bad,5/7/1995,no,0
+366,366,"Summit, OH",Ohio,0.0,6.0,'existing paid',furniture/equipment,1766,0.0,1<=X<4,0,'male mar/wid',Unknown,2,'life insurance',21,none,rent,0,skilled,1,yes,Good,5/8/1995,yes,0
+367,367,"Hamilton, OH",Ohio,-3712.31,18.0,'existing paid',furniture/equipment,2473,0.0,unemployed,4,'male single',none,0,car,25,none,Other,1,'unemp/unskilled non res',1,yes,Good,5/9/1995,yes,0
+368,368,"Cuyahoga, OH",Ohio,0.0,12.0,no credit history,business,1542,0.0,4<=X<7,2,'male single',none,4,car,36,Other,own,1,skilled,1,no,Good,5/10/1995,no,0
+369,369,"Cuyahoga, OH",Ohio,0.0,18.0,'critical/other existing credit','used car',3850,0.0,4<=X<7,3,'male single',none,1,Other,27,none,own,2,skilled,Unknown,Unknown,Good,5/11/1995,Unknown,2
+370,370,"Franklin, OH",Ohio,0.0,18.0,'existing paid',furniture/equipment,3650,0.0,<1,1,'female div/dep/mar',none,4,car,31,none,rent,1,skilled,1,no,Good,5/12/1995,no,2
+371,371,"Dauphin, PA",Pennsylvania,-1319.16,36.0,'existing paid',furniture/equipment,3446,35.38,>=7,4,'male single',Unknown,2,car,31,none,own,0,skilled,2,yes,Good,5/13/1995,yes,2
+372,372,"Philadelphia, PA",Pennsylvania,94.62,18.0,'existing paid',furniture/equipment,3001,0.0,4<=X<7,0,'female div/dep/mar',Unknown,4,'real estate',40,none,rent,1,skilled,1,no,Bad,5/14/1995,no,2
+373,373,"Charleston, SC",South Carolina,0.0,36.0,'existing paid','new car',3079,0.0,1<=X<4,4,'male single',none,4,'real estate',36,none,own,1,skilled,1,yes,Good,5/15/1995,yes,2
+374,374,"Greenville, SC",South Carolina,0.0,18.0,'critical/other existing credit',radio/tv,6070,0.0,>=7,3,'male single',none,4,car,33,none,own,2,skilled,1,no,Bad,5/16/1995,no,2
+375,375,"Greenville, SC",South Carolina,0.0,10.0,'critical/other existing credit',furniture/equipment,2146,0.0,<1,0,'female div/dep/mar',none,3,'real estate',23,Other,rent,2,skilled,1,no,Good,5/17/1995,no,0
+376,376,"Horry, SC",South Carolina,0.0,60.0,'critical/other existing credit','new car',13756,0.0,>=7,2,'male single',none,4,'no known property',63,bank,'for free',1,'high qualif/self emp/mgmt',1,Unknown,Good,5/18/1995,Unknown,1
+377,377,"Jasper, SC",South Carolina,17.17,60.0,'all paid',other,14782,179.18,>=7,3,'female div/dep/mar',none,0,'no known property',60,bank,'for free',0,'high qualif/self emp/mgmt',Unknown,yes,Good,5/19/1995,yes,1
+378,378,"Davidson, TN",Tennessee,-1282.34,48.0,'all paid',business,7685,17.26,4<=X<7,2,'female div/dep/mar',guarantor,4,car,37,none,rent,1,skilled,1,no,Bad,5/20/1995,no,1
+379,379,"Shelby, TN",Tennessee,0.0,18.0,'delayed previously',radio/tv,3234,0.0,Unknown,2,'male mar/wid',Unknown,3,'real estate',34,none,own,0,skilled,1,Unknown,Bad,5/21/1995,Unknown,2
+380,380,"El Paso, TX",Texas,0.0,7.0,'delayed previously',Unknown,3234,0.0,Unknown,3,'male single',none,4,'no known property',36,none,'for free',1,skilled,1,Unknown,Bad,5/22/1995,Unknown,2
+381,381,"Harris, TX",Texas,40.41,36.0,'existing paid','new car',14318,19.21,>=7,0,'male single',none,0,'no known property',57,Other,'for free',1,'high qualif/self emp/mgmt',1,yes,Bad,5/23/1995,yes,1
+382,382,"Nueces, TX",Texas,0.0,6.0,'critical/other existing credit','new car',362,0.0,1<=X<4,4,'female div/dep/mar',none,4,car,31,none,own,2,'unskilled resident',1,yes,Good,5/24/1995,yes,0
+383,383,"Tarrant, TX",Texas,-4951.09,20.0,'existing paid',furniture/equipment,2212,0.0,4<=X<7,4,'male single',none,0,car,39,none,own,1,skilled,1,no,Good,5/25/1995,no,0
+384,384,"Travis, TX",Texas,16.25,18.0,'existing paid','used car',12976,15.8,unemployed,0,Unknown,Unknown,4,Other,38,none,'for free',1,'high qualif/self emp/mgmt',Unknown,no,Bad,5/26/1995,no,1
+385,385,"Dallas, TX",Texas,0.0,22.0,'existing paid',Unknown,1283,0.0,4<=X<7,4,'female div/dep/mar',none,4,'life insurance',25,none,rent,1,skilled,1,Unknown,Bad,5/27/1995,Unknown,0
+386,386,"Harris, TX",Texas,6548.27,12.0,'existing paid','new car',1330,41.97,<1,4,'male single',none,1,'real estate',26,none,own,1,skilled,1,no,Good,5/28/1995,no,0
+387,387,"Bexar, TX",Texas,0.0,30.0,'delayed previously',business,4272,0.0,Unknown,2,'male single',Unknown,2,'life insurance',26,none,own,2,'unskilled resident',1,no,Good,5/29/1995,no,2
+388,388,"Prince William, VA",Virginia,0.0,18.0,'critical/other existing credit',radio/tv,2238,0.0,1<=X<4,2,'female div/dep/mar',none,1,car,25,Other,own,2,Other,1,Unknown,Good,5/30/1995,Unknown,0
+389,389,"Norfolk, VA",Virginia,0.0,18.0,'existing paid',Unknown,1126,0.0,Unknown,4,Unknown,none,2,'real estate',21,none,rent,1,skilled,1,no,Bad,5/31/1995,no,0
+390,390,"Richmond, VA",Virginia,5.42,18.0,'critical/other existing credit',furniture/equipment,3234,35.21,Unknown,4,'male single',none,4,Other,40,stores,own,0,Other,Unknown,yes,Bad,6/1/1995,yes,2
+391,391,"Milwaukee, WI",Wisconsin,7.52,15.0,'critical/other existing credit',business,2326,0.0,1<=X<4,2,'male single',none,4,car,27,bank,own,1,skilled,1,yes,Bad,6/2/1995,yes,0
+392,392,"Maricopa, AZ",Arizona,0.0,9.0,'existing paid',business,1449,0.0,4<=X<7,3,'female div/dep/mar',none,2,car,27,none,own,2,skilled,1,no,Good,6/3/1995,no,0
+393,393,"Alameda, CA",California,0.0,18.0,'existing paid','new car',1820,0.0,1<=X<4,2,'male mar/wid',none,0,Other,30,none,own,1,'high qualif/self emp/mgmt',1,no,Good,6/4/1995,no,0
+394,394,"Los Angeles, CA",California,94.64,12.0,'existing paid',furniture/equipment,983,7709.45,<1,1,Unknown,none,4,'real estate',19,none,rent,1,'unskilled resident',1,yes,Bad,6/5/1995,yes,0
+395,395,"Los Angeles, CA",California,-4316.81,36.0,'existing paid','new car',3249,58.43,4<=X<7,2,'male single',none,4,'no known property',39,bank,'for free',1,'high qualif/self emp/mgmt',2,yes,Good,6/6/1995,yes,2
+396,396,"Los Angeles, CA",California,-9454.08,6.0,'critical/other existing credit',radio/tv,1957,33.62,4<=X<7,1,'female div/dep/mar',none,4,car,31,Other,own,1,skilled,1,yes,Bad,6/7/1995,yes,0
+397,397,"Los Angeles, CA",California,0.0,9.0,'critical/other existing credit',furniture/equipment,2406,0.0,unemployed,2,'male single',none,3,car,31,none,own,0,'high qualif/self emp/mgmt',1,Unknown,Good,6/8/1995,Unknown,0
+398,398,"Sacramento, CA",California,83.64,39.0,'delayed previously',education,11760,450.89,4<=X<7,2,Unknown,none,3,'no known property',32,none,rent,1,skilled,1,yes,Good,6/9/1995,yes,1
+399,399,"San Bernardino, CA",California,-6338.95,12.0,'existing paid',furniture/equipment,2578,83.42,unemployed,3,'female div/dep/mar',none,4,'no known property',55,none,'for free',1,'high qualif/self emp/mgmt',1,yes,Good,6/10/1995,yes,0
+400,400,"San Diego, CA",California,-6143.29,36.0,'critical/other existing credit',furniture/equipment,2348,28.22,1<=X<4,3,'male mar/wid',Unknown,0,'life insurance',46,none,own,2,skilled,Unknown,no,Good,6/11/1995,no,0
+401,401,"San Francisco, CA",California,115.65,12.0,'existing paid','new car',1223,29.79,>=7,1,'male div/sep',none,1,'real estate',46,Other,rent,2,skilled,1,yes,Bad,6/12/1995,yes,0
+402,402,District of Columbia,District of Columbia,0.0,20.0,'critical/other existing credit',radio/tv,1516,0.0,1<=X<4,0,'female div/dep/mar',none,1,'real estate',43,none,own,2,'unskilled resident',1,no,Good,6/13/1995,no,0
+403,403,"Chatham, GA",Georgia,0.0,18.0,'existing paid',radio/tv,1473,0.0,<1,3,'male mar/wid',Unknown,4,'real estate',39,none,own,1,Other,1,yes,Good,6/14/1995,yes,0
+404,404,"De Kalb, GA",Georgia,22.83,18.0,'critical/other existing credit',business,3234,0.0,1<=X<4,0,'male mar/wid',none,4,'real estate',28,Other,own,2,skilled,1,no,Good,6/15/1995,no,2
+405,405,"De Kalb, GA",Georgia,0.0,20.0,'delayed previously',business,8648,0.0,<1,2,'male single',none,0,car,31,Other,Other,2,Other,1,no,Good,6/16/1995,no,1
+406,406,"Fulton, GA",Georgia,0.0,14.0,'delayed previously','new car',802,0.0,Unknown,4,'male single',none,2,car,27,none,own,2,'unskilled resident',1,yes,Good,6/17/1995,yes,0
+407,407,"Fulton, GA",Georgia,195.71,18.0,'delayed previously','new car',2899,0.0,Unknown,4,'male single',none,4,car,43,none,own,1,skilled,2,yes,Good,6/18/1995,yes,2
+408,408,"Cook, IL",Illinois,195.91,24.0,no credit history,radio/tv,2039,0.0,Unknown,1,'male mar/wid',none,1,'life insurance',22,none,own,1,skilled,1,no,Good,6/19/1995,no,0
+409,409,"Marion, IN",Indiana,0.0,20.0,'critical/other existing credit','used car',2197,0.0,4<=X<7,4,Unknown,none,4,car,43,Other,own,2,skilled,2,no,Bad,6/20/1995,no,0
+410,410,"Jefferson, KY",Kentucky,-2070.55,15.0,'existing paid',radio/tv,3234,76.64,<1,4,'male mar/wid',none,0,'real estate',27,Other,own,1,Other,1,no,Good,6/21/1995,no,2
+411,411,"East Baton Rouge, LA",Louisiana,0.0,24.0,'existing paid',radio/tv,3235,0.0,>=7,3,'male div/sep',none,2,car,26,none,own,1,'high qualif/self emp/mgmt',1,no,Bad,6/22/1995,no,2
+412,412,"Orleans, LA",Louisiana,5427.63,12.0,'critical/other existing credit','new car',939,671.95,4<=X<7,4,'male mar/wid',none,2,Other,28,none,own,3,skilled,1,yes,Bad,6/23/1995,yes,0
+413,413,"Suffolk, MA",Massachusetts,192.07,24.0,'existing paid',radio/tv,1967,37.69,>=7,4,'female div/dep/mar',none,4,Other,20,Other,own,1,skilled,1,yes,Good,6/24/1995,yes,0
+414,414,"Baltimore city, MD",Maryland,0.0,33.0,'critical/other existing credit','used car',7253,0.0,4<=X<7,3,'male single',none,2,car,31,Other,own,2,'high qualif/self emp/mgmt',1,no,Bad,6/25/1995,no,1
+415,415,"Wayne, MI",Michigan,0.0,12.0,'critical/other existing credit',business,2292,0.0,unemployed,4,'male single',none,2,car,42,stores,own,2,'high qualif/self emp/mgmt',1,no,Bad,6/26/1995,no,0
+416,416,"Jackson, MO",Missouri,0.0,20.0,'existing paid','new car',1597,0.0,1<=X<4,3,'male single',none,2,'no known property',40,none,Other,1,Other,2,yes,Bad,6/27/1995,yes,0
+417,417,"Kansas City, MO",Missouri,-5613.36,24.0,no credit history,'new car',1381,0.0,Unknown,4,'female div/dep/mar',Unknown,2,'life insurance',35,none,own,1,skilled,1,no,Good,6/28/1995,no,0
+418,418,"Hinds, MS",Mississippi,0.0,36.0,'critical/other existing credit','used car',3234,0.0,>=7,2,'male single',none,2,'life insurance',35,none,own,2,skilled,2,no,Bad,6/29/1995,no,2
+419,419,"Mecklenburg, NC",North Carolina,-1850.94,12.0,'existing paid','new car',2579,37.56,<1,4,'male single',none,1,'real estate',33,Other,own,1,'unskilled resident',2,no,Bad,6/30/1995,no,0
+420,420,"Camden, NJ",New Jersey,-4803.59,18.0,'delayed previously',education,8471,0.0,Unknown,1,'female div/dep/mar',Unknown,2,car,23,none,rent,2,skilled,1,yes,Bad,7/1/1995,yes,1
+421,421,"Mercer, NJ",New Jersey,0.0,21.0,'existing paid','new car',2782,0.0,4<=X<7,1,'female div/dep/mar',none,2,car,31,bank,own,1,'high qualif/self emp/mgmt',Unknown,no,Good,7/2/1995,no,2
+422,422,"Passaic, NJ",New Jersey,75.95,18.0,'existing paid','new car',1042,0.0,1<=X<4,4,'female div/dep/mar',none,0,'life insurance',33,Other,own,1,skilled,1,no,Good,7/3/1995,no,0
+423,423,"Essex, NJ",New Jersey,0.0,15.0,'existing paid','new car',3186,0.0,Unknown,2,'female div/dep/mar',none,3,car,20,none,rent,1,skilled,1,Unknown,Good,7/4/1995,Unknown,2
+424,424,"Clark, NV",Nevada,141.44,12.0,'existing paid','used car',2028,0.0,1<=X<4,4,'male single',none,2,car,31,Other,own,1,skilled,1,yes,Good,7/5/1995,yes,0
+425,425,"New York, NY",New York,24.74,12.0,'critical/other existing credit','new car',3234,7.07,4<=X<7,2,'male single',none,3,'real estate',47,none,own,2,Other,2,no,Good,7/6/1995,no,2
+426,426,"Suffolk, NY",New York,0.0,20.0,'delayed previously',furniture/equipment,1591,0.0,4<=X<7,4,'male single',none,3,'real estate',34,none,own,2,'high qualif/self emp/mgmt',1,no,Good,7/7/1995,no,0
+427,427,"Summit, OH",Ohio,30.0,12.0,'existing paid',furniture/equipment,2762,0.0,Unknown,1,'female div/dep/mar',none,2,'life insurance',25,bank,own,1,skilled,1,yes,Bad,7/8/1995,yes,2
+428,428,"Franklin, OH",Ohio,183.33,18.0,'existing paid','used car',2779,87.39,1<=X<4,1,Unknown,none,3,car,21,Other,rent,1,skilled,1,Unknown,Good,7/9/1995,Unknown,2
+429,429,"Multnomah, OR",Oregon,0.0,28.0,'critical/other existing credit',radio/tv,2743,0.0,>=7,4,'male single',none,2,car,29,none,Other,2,skilled,1,yes,Good,7/10/1995,yes,2
+430,430,"Dauphin, PA",Pennsylvania,0.0,18.0,no credit history,radio/tv,1149,0.0,Unknown,4,'male single',none,3,'real estate',46,Other,own,2,skilled,1,no,Bad,7/11/1995,no,0
+431,431,"Philadelphia, PA",Pennsylvania,0.0,9.0,'existing paid',Unknown,1313,0.0,>=7,1,'male single',none,4,car,20,none,own,1,Other,1,yes,Bad,7/12/1995,yes,0
+432,432,"Charleston, SC",South Carolina,-3788.1,18.0,'critical/other existing credit',repairs,1190,13.37,unemployed,2,'female div/dep/mar',none,4,Other,55,none,'for free',3,'unemp/unskilled non res',2,Unknown,Good,7/13/1995,Unknown,0
+433,433,"Greenville, SC",South Carolina,0.0,5.0,'existing paid',Unknown,3234,0.0,4<=X<7,1,'male single',none,0,'real estate',74,none,own,1,'unskilled resident',1,no,Bad,7/14/1995,no,2
+434,434,"Davidson, TN",Tennessee,168.65,24.0,'existing paid',other,11328,56.29,1<=X<4,2,'male single','co applicant',3,car,29,bank,own,2,'high qualif/self emp/mgmt',1,no,Good,7/15/1995,no,1
+435,435,"Shelby, TN",Tennessee,-2941.81,6.0,'critical/other existing credit',furniture/equipment,1872,47.8,unemployed,4,'male single',none,4,'no known property',36,none,'for free',3,'high qualif/self emp/mgmt',Unknown,no,Good,7/16/1995,no,0
+436,436,"Tarrant, TX",Texas,0.0,24.0,'critical/other existing credit',repairs,2058,0.0,1<=X<4,4,'male div/sep',Unknown,2,'real estate',33,none,own,2,skilled,1,no,Good,7/17/1995,no,0
+437,437,"Travis, TX",Texas,-9463.67,9.0,'existing paid',furniture/equipment,2136,0.0,1<=X<4,3,'male single',Unknown,2,'real estate',25,none,own,1,skilled,1,no,Good,7/18/1995,no,0
+438,438,"Dallas, TX",Texas,1.11,12.0,'existing paid',radio/tv,1484,0.0,Unknown,2,'male mar/wid',Unknown,1,'real estate',25,none,own,1,skilled,1,no,Bad,7/19/1995,no,0
+439,439,"Harris, TX",Texas,0.0,6.0,'existing paid',repairs,660,0.0,4<=X<7,2,'male mar/wid',none,4,'real estate',23,none,rent,1,'unskilled resident',1,yes,Bad,7/20/1995,yes,0
+440,440,"Bexar, TX",Texas,0.0,24.0,'critical/other existing credit','new car',1287,0.0,>=7,4,'female div/dep/mar',none,4,'real estate',37,none,own,2,skilled,1,no,Good,7/21/1995,no,0
+441,441,"Norfolk, VA",Virginia,-862.49,42.0,'critical/other existing credit',repairs,3394,96.37,unemployed,4,'male single','co applicant',4,car,65,none,own,2,'unemp/unskilled non res',1,yes,Bad,7/22/1995,yes,2
+442,442,"Richmond, VA",Virginia,8529.36,12.0,'all paid',business,609,65.35,<1,4,'female div/dep/mar',none,0,'real estate',26,none,own,1,'unemp/unskilled non res',1,yes,Bad,7/23/1995,yes,0
+443,443,"Milwaukee, WI",Wisconsin,0.0,12.0,'existing paid','new car',1884,0.0,>=7,4,Unknown,none,4,car,39,none,own,1,'high qualif/self emp/mgmt',1,Unknown,Good,7/24/1995,Unknown,0
+444,444,"Maricopa, AZ",Arizona,-3497.13,12.0,'existing paid',furniture/equipment,3234,62.94,Unknown,2,'female div/dep/mar','co applicant',3,Other,30,none,own,1,skilled,Unknown,yes,Bad,7/25/1995,yes,2
+445,445,"Alameda, CA",California,105.82,20.0,'delayed previously',other,2629,51.43,1<=X<4,2,Unknown,none,3,car,29,bank,own,2,skilled,1,no,Good,7/26/1995,no,0
+446,446,"Los Angeles, CA",California,0.0,12.0,'existing paid',education,719,0.0,>=7,4,'male single',none,4,car,41,bank,own,1,'unskilled resident',2,no,Bad,7/27/1995,no,0
+447,447,"Los Angeles, CA",California,197.33,48.0,'critical/other existing credit',furniture/equipment,5096,66.53,1<=X<4,2,'female div/dep/mar',none,3,car,30,none,own,1,'high qualif/self emp/mgmt',1,yes,Bad,7/28/1995,yes,2
+448,448,"Sacramento, CA",California,0.0,9.0,'critical/other existing credit',education,1244,0.0,>=7,4,'female div/dep/mar',none,4,'life insurance',31,none,rent,2,'unskilled resident',1,no,Good,7/29/1995,no,0
+449,449,"San Diego, CA",California,-616.99,36.0,'existing paid','new car',1842,39.36,<1,4,'female div/dep/mar',none,4,car,34,none,own,1,skilled,1,yes,Good,7/30/1995,yes,0
+450,450,"San Francisco, CA",California,44.66,7.0,'existing paid',Unknown,2576,70.0,1<=X<4,2,Unknown,guarantor,2,'real estate',35,none,own,1,skilled,1,no,Bad,7/31/1995,no,0
+451,451,District of Columbia,District of Columbia,4343.18,12.0,'existing paid',furniture/equipment,1424,0.0,>=7,3,'female div/dep/mar',none,4,'real estate',31,none,own,1,'high qualif/self emp/mgmt',Unknown,yes,Good,8/1/1995,yes,0
+452,452,"Chatham, GA",Georgia,61.71,20.0,'delayed previously',repairs,1512,5269.98,1<=X<4,3,Unknown,none,3,'life insurance',61,stores,Other,2,skilled,1,no,Good,8/2/1995,no,0
+453,453,"De Kalb, GA",Georgia,0.0,36.0,'critical/other existing credit','used car',11054,0.0,1<=X<4,0,'male single',none,2,car,30,Other,own,1,'high qualif/self emp/mgmt',1,yes,Bad,8/3/1995,yes,1
+454,454,"Fulton, GA",Georgia,0.0,20.0,'existing paid',radio/tv,518,0.0,1<=X<4,3,'female div/dep/mar',none,1,'real estate',29,none,own,1,skilled,1,yes,Good,8/4/1995,yes,0
+455,455,"Cook, IL",Illinois,0.0,12.0,'no credits/all paid',furniture/equipment,2759,0.0,>=7,2,'male single',none,4,'life insurance',34,none,own,2,skilled,1,yes,Good,8/5/1995,yes,2
+456,456,"Marion, IN",Indiana,0.0,24.0,'existing paid','used car',2670,0.0,>=7,4,'male single',none,4,car,35,Other,Other,1,'high qualif/self emp/mgmt',Unknown,no,Good,8/6/1995,no,0
+457,457,"Orleans, LA",Louisiana,-8908.17,24.0,'existing paid','new car',4817,50.51,4<=X<7,2,'male single','co applicant',3,'life insurance',31,none,own,1,skilled,1,no,Good,8/7/1995,no,2
+458,458,"Baltimore city, MD",Maryland,0.0,24.0,no credit history,'used car',2679,0.0,<1,4,Unknown,none,1,'no known property',29,none,own,1,'high qualif/self emp/mgmt',Unknown,yes,Bad,8/8/1995,yes,2
+459,459,"Wayne, MI",Michigan,-6832.38,11.0,'critical/other existing credit','new car',3234,0.0,1<=X<4,2,'male single',none,2,'real estate',31,none,rent,2,skilled,2,yes,Bad,8/9/1995,yes,2
+460,460,"Jackson, MO",Missouri,-6919.2,12.0,'existing paid','used car',3386,33.9,>=7,0,'male single',none,4,'no known property',35,none,'for free',1,skilled,1,no,Bad,8/10/1995,no,2
+461,461,"St. Louis, MO",Missouri,-4746.34,6.0,'existing paid',Unknown,343,39.12,<1,0,Unknown,none,1,'real estate',27,none,own,1,skilled,1,yes,Good,8/11/1995,yes,0
+462,462,"Hinds, MS",Mississippi,0.0,18.0,'existing paid',radio/tv,4594,0.0,<1,3,'male single',none,2,car,32,none,own,1,skilled,1,yes,Bad,8/12/1995,yes,2
+463,463,"Mecklenburg, NC",North Carolina,-2858.08,36.0,'existing paid',furniture/equipment,3620,9.41,1<=X<4,1,'male single',guarantor,2,'life insurance',37,none,own,1,skilled,2,yes,Bad,8/13/1995,yes,2
+464,464,"Camden, NJ",New Jersey,-8901.73,15.0,'existing paid','new car',3234,0.0,<1,2,'male single',none,3,'real estate',36,none,own,0,skilled,1,yes,Good,8/14/1995,yes,2
+465,465,"Essex, NJ",New Jersey,113.17,12.0,'existing paid',furniture/equipment,3017,0.0,<1,3,'female div/dep/mar',none,1,'real estate',34,none,rent,1,'high qualif/self emp/mgmt',1,yes,Good,8/15/1995,yes,2
+466,466,"Clark, NV",Nevada,195.88,12.0,'existing paid',retraining,3234,0.0,>=7,4,'male single',none,4,'life insurance',38,none,own,2,skilled,1,yes,Good,8/16/1995,yes,2
+467,467,"New York, NY",New York,0.0,18.0,'existing paid',business,1950,0.0,4<=X<7,4,'male single',none,1,car,34,stores,own,2,skilled,1,no,Good,8/17/1995,no,0
+468,468,"Suffolk, NY",New York,-3581.55,24.0,'existing paid','used car',2924,25.66,1<=X<4,3,'male single',Unknown,4,'no known property',63,bank,Other,0,Other,2,no,Bad,8/18/1995,no,2
+469,469,"Multnomah, OR",Oregon,-2336.07,24.0,'delayed previously',radio/tv,1659,92.06,<1,4,'female div/dep/mar',none,2,car,29,none,rent,1,'unskilled resident',1,no,Bad,8/19/1995,no,0
+470,470,"Philadelphia, PA",Pennsylvania,0.0,48.0,'delayed previously',radio/tv,7238,0.0,>=7,3,'male single',none,3,car,32,Other,own,2,Other,2,yes,Good,8/20/1995,yes,1
+471,471,"Davidson, TN",Tennessee,0.0,20.0,no credit history,business,2764,0.0,1<=X<4,2,'female div/dep/mar',none,2,car,26,none,own,0,skilled,1,Unknown,Good,8/21/1995,Unknown,2
+472,472,"Shelby, TN",Tennessee,0.0,24.0,no credit history,Unknown,4679,0.0,4<=X<7,0,'male single',none,3,car,35,none,own,2,'unskilled resident',1,yes,Good,8/22/1995,yes,2
+473,473,"Travis, TX",Texas,46.31,24.0,'existing paid',radio/tv,3234,324.97,<1,3,'male mar/wid',none,2,car,22,none,rent,1,skilled,1,yes,Good,8/23/1995,yes,2
+474,474,"Dallas, TX",Texas,-9963.11,20.0,'existing paid',education,448,37.26,<1,4,Unknown,none,4,'life insurance',23,Other,own,1,skilled,1,no,Good,8/24/1995,no,0
+475,475,"Harris, TX",Texas,0.0,20.0,'existing paid','new car',654,0.0,1<=X<4,4,'male single',Unknown,3,car,28,none,own,1,'unskilled resident',1,no,Good,8/25/1995,no,0
+476,476,"Bexar, TX",Texas,0.0,6.0,'existing paid',retraining,1238,0.0,unemployed,4,Unknown,none,0,'life insurance',36,none,own,1,'high qualif/self emp/mgmt',2,no,Bad,8/26/1995,no,0
+477,477,"Milwaukee, WI",Wisconsin,0.0,18.0,'critical/other existing credit',radio/tv,1245,0.0,1<=X<4,4,'male mar/wid',none,0,car,33,none,Other,1,skilled,1,no,Good,8/27/1995,no,0
+478,478,"Maricopa, AZ",Arizona,-4938.47,18.0,'no credits/all paid',furniture/equipment,3114,28.84,<1,1,'female div/dep/mar',Unknown,4,'life insurance',26,none,Other,1,skilled,1,Unknown,Bad,8/28/1995,Unknown,2
+479,479,"Alameda, CA",California,0.0,39.0,'existing paid','used car',2569,0.0,1<=X<4,4,'male single',none,4,car,31,none,own,1,skilled,1,yes,Good,8/29/1995,yes,0
+480,480,"Los Angeles, CA",California,1525.11,24.0,'existing paid',radio/tv,5152,12.95,4<=X<7,4,'male single',none,0,car,25,bank,own,1,skilled,1,Unknown,Bad,8/30/1995,Unknown,2
+481,481,"Sacramento, CA",California,137.94,12.0,'existing paid',business,1037,446.02,4<=X<7,3,'male single',none,4,'real estate',31,none,own,1,'unskilled resident',1,yes,Good,8/31/1995,yes,0
+482,482,"San Diego, CA",California,-1277.22,15.0,'critical/other existing credit',furniture/equipment,1478,0.0,>=7,4,'male single',Unknown,4,car,31,none,own,2,skilled,2,yes,Bad,9/1/1995,yes,0
+483,483,"San Francisco, CA",California,28.6,12.0,no credit history,radio/tv,3573,0.0,1<=X<4,1,'female div/dep/mar',none,0,'real estate',23,none,own,1,'unskilled resident',Unknown,yes,Bad,9/2/1995,yes,2
+484,484,"Fulton, GA",Georgia,35.33,24.0,'existing paid','new car',1201,98.3,<1,4,'male single',none,1,'life insurance',26,none,Other,1,skilled,1,yes,Bad,9/3/1995,yes,0
+485,485,"Cook, IL",Illinois,-429.47,30.0,'existing paid',furniture/equipment,3622,3227.17,Unknown,4,Unknown,Unknown,4,Other,57,none,rent,2,skilled,1,no,Good,9/4/1995,no,2
+486,486,"Marion, IN",Indiana,0.0,15.0,'delayed previously',furniture/equipment,960,0.0,4<=X<7,3,'female div/dep/mar',none,2,'life insurance',30,none,own,2,skilled,1,yes,Bad,9/5/1995,yes,0
+487,487,"Orleans, LA",Louisiana,0.0,12.0,'critical/other existing credit','new car',1163,0.0,1<=X<4,4,'male single',Unknown,4,'real estate',44,none,own,1,skilled,1,Unknown,Good,9/6/1995,Unknown,0
+488,488,"Baltimore city, MD",Maryland,6.78,6.0,no credit history,'new car',1209,78.37,unemployed,4,'male single',none,4,'life insurance',47,none,own,1,'high qualif/self emp/mgmt',1,no,Good,9/7/1995,no,0
+489,489,"Wayne, MI",Michigan,0.0,12.0,'existing paid',Unknown,3077,0.0,1<=X<4,2,Unknown,none,4,car,52,none,own,1,skilled,1,yes,Good,9/8/1995,yes,2
+490,490,"St. Louis, MO",Missouri,0.0,20.0,no credit history,Unknown,3757,0.0,Unknown,4,'female div/dep/mar','co applicant',0,'no known property',62,none,'for free',1,skilled,1,no,Good,9/9/1995,no,2
+491,491,"Camden, NJ",New Jersey,0.0,10.0,'existing paid',Unknown,1418,0.0,1<=X<4,3,'male single',none,0,'real estate',35,none,rent,1,'unskilled resident',1,yes,Bad,9/10/1995,yes,0
+492,492,"Essex, NJ",New Jersey,0.0,6.0,'existing paid',Unknown,3518,0.0,1<=X<4,2,'male single',guarantor,3,'life insurance',26,none,rent,1,skilled,1,no,Bad,9/11/1995,no,2
+493,493,"Clark, NV",Nevada,0.0,12.0,'critical/other existing credit',radio/tv,1934,0.0,>=7,2,'male single',none,2,'no known property',31,none,own,2,skilled,Unknown,yes,Good,9/12/1995,yes,0
+494,494,"New York, NY",New York,156.83,20.0,no credit history,business,8318,84.15,>=7,2,'female div/dep/mar',none,4,'no known property',31,none,'for free',2,'high qualif/self emp/mgmt',1,no,Bad,9/13/1995,no,1
+495,495,"Philadelphia, PA",Pennsylvania,0.0,6.0,'critical/other existing credit',radio/tv,1237,0.0,Unknown,1,'female div/dep/mar',none,1,'life insurance',27,none,own,2,skilled,Unknown,no,Good,9/14/1995,no,0
+496,496,"Shelby, TN",Tennessee,19.96,6.0,'existing paid',radio/tv,368,0.0,Unknown,4,Unknown,none,4,'life insurance',38,none,own,1,skilled,1,yes,Good,9/15/1995,yes,0
+497,497,"Travis, TX",Texas,-9227.53,12.0,'critical/other existing credit','new car',2122,55.13,1<=X<4,3,'male single',none,2,'real estate',31,none,rent,2,'unskilled resident',2,no,Good,9/16/1995,no,0
+498,498,"Dallas, TX",Texas,-7638.04,24.0,'existing paid',furniture/equipment,2996,0.0,1<=X<4,2,'male mar/wid',Unknown,4,car,20,none,own,1,skilled,1,no,Bad,9/17/1995,no,2
+499,499,"Harris, TX",Texas,180.86,20.0,'existing paid',furniture/equipment,9034,242.99,<1,4,'male single','co applicant',1,'no known property',29,none,rent,1,'high qualif/self emp/mgmt',1,yes,Bad,9/18/1995,yes,1
+500,500,"Bexar, TX",Texas,0.0,24.0,'critical/other existing credit',furniture/equipment,1585,0.0,4<=X<7,4,'male single',none,0,'life insurance',40,none,own,2,skilled,1,no,Good,9/19/1995,no,0
+501,501,"Maricopa, AZ",Arizona,85.67,18.0,'existing paid',radio/tv,3234,14.86,>=7,4,'male mar/wid',guarantor,2,'real estate',32,Other,own,1,'unskilled resident',1,Unknown,Bad,9/20/1995,Unknown,2
+502,502,"Alameda, CA",California,3311.7,6.0,'critical/other existing credit',Unknown,1323,442.18,>=7,2,'male div/sep',none,4,car,28,Other,own,2,skilled,2,Unknown,Good,9/21/1995,Unknown,0
+503,503,"Los Angeles, CA",California,-5229.05,24.0,no credit history,'new car',3123,17.05,Unknown,4,'female div/dep/mar',none,1,'life insurance',27,none,own,1,skilled,1,yes,Good,9/22/1995,yes,2
+504,504,"San Francisco, CA",California,-5239.0,36.0,'existing paid','used car',5493,0.0,>=7,2,'male single',none,4,'no known property',42,none,'for free',0,skilled,2,no,Good,9/23/1995,no,2
+505,505,"Fulton, GA",Georgia,6307.46,9.0,no credit history,radio/tv,3234,238.87,Unknown,0,'male div/sep',none,4,Other,49,none,own,1,skilled,Unknown,no,Bad,9/24/1995,no,2
+506,506,"Cook, IL",Illinois,58.57,24.0,'critical/other existing credit',radio/tv,1216,354.18,<1,4,'male single',none,4,'no known property',38,bank,own,2,skilled,2,no,Bad,9/25/1995,no,0
+507,507,"Marion, IN",Indiana,-7648.53,24.0,'existing paid','new car',1207,35.15,Unknown,4,Unknown,none,4,'life insurance',24,none,rent,0,skilled,1,yes,Good,9/26/1995,yes,0
+508,508,"Orleans, LA",Louisiana,0.0,10.0,'existing paid','new car',1309,0.0,1<=X<4,4,'male single',guarantor,4,'life insurance',27,none,own,1,'unskilled resident',1,no,Good,9/27/1995,no,0
+509,509,"Wayne, MI",Michigan,6026.68,15.0,'critical/other existing credit','used car',2360,651.95,1<=X<4,2,'male single',none,2,car,36,none,own,1,skilled,1,no,Good,9/28/1995,no,0
+510,510,"St. Louis, MO",Missouri,131.74,15.0,'all paid','new car',3234,207.23,unemployed,1,'male single',none,2,'life insurance',34,Other,own,1,'high qualif/self emp/mgmt',2,no,Bad,9/29/1995,no,2
+511,511,"Camden, NJ",New Jersey,0.0,24.0,'existing paid',radio/tv,3234,0.0,1<=X<4,4,Unknown,none,2,'life insurance',28,Other,Other,1,Other,1,no,Bad,9/30/1995,no,2
+512,512,"Essex, NJ",New Jersey,0.0,39.0,'existing paid',Unknown,8588,0.0,>=7,4,'male single',none,2,car,45,none,own,1,Other,1,no,Good,10/1/1995,no,1
+513,513,"Clark, NV",Nevada,-113.48,12.0,'existing paid','new car',759,0.0,4<=X<7,4,'male single',none,2,'real estate',26,none,own,1,skilled,1,yes,Bad,10/2/1995,yes,0
+514,514,"New York, NY",New York,0.0,36.0,'existing paid','used car',4686,0.0,1<=X<4,2,Unknown,none,2,'no known property',31,none,'for free',0,'high qualif/self emp/mgmt',1,no,Bad,10/3/1995,no,2
+515,515,"Philadelphia, PA",Pennsylvania,7770.45,15.0,'existing paid',business,2687,49.54,Unknown,2,'male single',none,4,'life insurance',26,Other,rent,1,Other,1,yes,Bad,10/4/1995,yes,2
+516,516,"Shelby, TN",Tennessee,139.31,12.0,'delayed previously',radio/tv,585,55.52,1<=X<4,4,'male mar/wid','co applicant',4,'real estate',20,none,rent,2,skilled,1,yes,Good,10/5/1995,yes,0
+517,517,"Dallas, TX",Texas,0.0,24.0,'existing paid','new car',3234,0.0,<1,4,'male single',none,1,'life insurance',54,none,own,1,skilled,1,yes,Good,10/6/1995,yes,2
+518,518,"Harris, TX",Texas,-1828.56,6.0,'critical/other existing credit','new car',609,0.0,4<=X<7,4,'female div/dep/mar',none,3,'life insurance',37,none,own,2,skilled,1,no,Bad,10/7/1995,no,0
+519,519,"Bexar, TX",Texas,-8733.45,6.0,'critical/other existing credit','new car',1361,36.33,<1,2,'male single',none,4,'real estate',40,none,Other,1,'unskilled resident',2,Unknown,Good,10/8/1995,Unknown,0
+520,520,"Maricopa, AZ",Arizona,0.0,36.0,'critical/other existing credit',furniture/equipment,7127,0.0,<1,2,'female div/dep/mar',none,4,'life insurance',23,Other,rent,2,skilled,1,no,Bad,10/9/1995,no,1
+521,521,"Alameda, CA",California,-2118.37,6.0,'existing paid','new car',1203,432.97,>=7,3,'male single',none,2,'life insurance',43,none,own,1,skilled,Unknown,no,Good,10/10/1995,no,0
+522,522,"Los Angeles, CA",California,0.0,6.0,'critical/other existing credit',Unknown,700,0.0,>=7,4,'male single',none,4,'no known property',36,none,'for free',2,skilled,1,Unknown,Good,10/11/1995,Unknown,0
+523,523,"San Francisco, CA",California,0.0,24.0,'critical/other existing credit',repairs,3234,0.0,>=7,3,'male single',Unknown,4,'no known property',44,none,'for free',2,skilled,1,yes,Good,10/12/1995,yes,2
+524,524,"Fulton, GA",Georgia,-8455.84,20.0,'existing paid',radio/tv,3190,45.05,Unknown,2,'female div/dep/mar',none,2,'real estate',24,none,own,1,skilled,1,yes,Bad,10/13/1995,yes,2
+525,525,"Cook, IL",Illinois,-8255.57,48.0,'no credits/all paid',furniture/equipment,7119,97.02,1<=X<4,3,'male single',none,4,'no known property',31,none,'for free',0,skilled,2,yes,Good,10/14/1995,yes,1
+526,526,"Marion, IN",Indiana,0.0,24.0,'existing paid',Unknown,3488,0.0,4<=X<7,3,'female div/dep/mar',none,4,car,31,none,own,1,skilled,1,no,Bad,10/15/1995,no,2
+527,527,"Orleans, LA",Louisiana,1.57,20.0,'existing paid',radio/tv,1113,47.41,1<=X<4,4,Unknown,guarantor,4,'real estate',26,none,own,1,'unskilled resident',Unknown,yes,Bad,10/16/1995,yes,0
+528,528,"Baltimore city, MD",Maryland,190.77,26.0,'existing paid','used car',7966,6.71,<1,2,'male single',none,3,Other,30,none,own,2,skilled,1,Unknown,Good,10/17/1995,Unknown,1
+529,529,"Wayne, MI",Michigan,0.0,15.0,'critical/other existing credit',education,1532,0.0,1<=X<4,4,'female div/dep/mar',none,3,car,31,Other,own,1,Other,1,yes,Bad,10/18/1995,yes,0
+530,530,"St. Louis, MO",Missouri,0.0,4.0,'critical/other existing credit',radio/tv,1503,0.0,4<=X<7,2,'male single',none,0,'real estate',42,none,own,2,Other,2,no,Good,10/19/1995,no,0
+531,531,"Essex, NJ",New Jersey,-9898.01,36.0,'existing paid',radio/tv,2302,10.58,1<=X<4,4,'male div/sep',none,4,car,31,none,rent,1,skilled,1,no,Bad,10/20/1995,no,0
+532,532,"Clark, NV",Nevada,-1149.77,6.0,'existing paid','new car',662,32.76,<1,3,'male single',none,4,'real estate',41,none,own,1,Other,2,yes,Good,10/21/1995,yes,0
+533,533,"New York, NY",New York,17.19,36.0,'existing paid',education,2273,6.47,4<=X<7,3,'male single',none,1,Other,32,none,own,2,skilled,2,no,Good,10/22/1995,no,0
+534,534,"Philadelphia, PA",Pennsylvania,97.6,15.0,'existing paid','new car',2631,183.61,Unknown,2,'female div/dep/mar',none,0,car,28,none,rent,2,skilled,1,yes,Bad,10/23/1995,yes,0
+535,535,"Shelby, TN",Tennessee,0.0,12.0,'delayed previously','used car',1503,0.0,1<=X<4,4,'male mar/wid',none,4,'real estate',41,none,rent,1,skilled,1,yes,Good,10/24/1995,yes,0
+536,536,"Dallas, TX",Texas,0.0,24.0,'existing paid',radio/tv,1311,0.0,4<=X<7,4,'male mar/wid',none,3,'life insurance',26,none,own,1,skilled,1,Unknown,Good,10/25/1995,Unknown,0
+537,537,"Harris, TX",Texas,0.0,24.0,'existing paid',radio/tv,3105,0.0,<1,4,'male single',none,2,car,25,none,own,2,skilled,1,no,Bad,10/26/1995,no,2
+538,538,"Bexar, TX",Texas,6101.43,21.0,'critical/other existing credit',education,2319,1.47,<1,2,'male div/sep',none,1,Other,33,none,rent,1,skilled,1,no,Bad,10/27/1995,no,0
+539,539,"Bexar, TX",Texas,-114.64,6.0,'existing paid','new car',1374,0.0,unemployed,0,'female div/dep/mar',none,0,'life insurance',75,Other,own,1,'high qualif/self emp/mgmt',1,no,Bad,10/28/1995,no,0
+540,540,"Los Angeles, CA",California,125.78,18.0,'critical/other existing credit',furniture/equipment,3612,28.3,>=7,3,'female div/dep/mar',none,4,'life insurance',31,none,Other,1,skilled,1,yes,Good,10/29/1995,yes,2
+541,541,"San Francisco, CA",California,-8788.57,48.0,no credit history,'new car',7763,30.91,>=7,4,'male single',none,4,'no known property',42,bank,'for free',1,'high qualif/self emp/mgmt',1,Unknown,Bad,10/30/1995,Unknown,1
+542,542,"Fulton, GA",Georgia,2754.09,18.0,'existing paid',furniture/equipment,3049,30.99,<1,1,'female div/dep/mar',none,1,'life insurance',45,stores,own,1,'unskilled resident',1,yes,Bad,10/31/1995,yes,2
+543,543,"Cook, IL",Illinois,137.2,12.0,'existing paid',radio/tv,1534,4.99,<1,1,'male mar/wid',none,1,'real estate',23,none,rent,0,skilled,1,no,Good,11/1/1995,no,0
+544,544,"Marion, IN",Indiana,0.0,24.0,'delayed previously','new car',2032,0.0,>=7,4,'male single',none,4,'no known property',60,none,'for free',2,Other,1,no,Good,11/2/1995,no,0
+545,545,"Orleans, LA",Louisiana,-4007.13,30.0,'existing paid',furniture/equipment,6350,0.0,>=7,4,'male single',none,4,'life insurance',31,none,own,1,skilled,1,no,Good,11/3/1995,no,2
+546,546,"Baltimore city, MD",Maryland,9351.05,18.0,'existing paid',furniture/equipment,2864,18.37,1<=X<4,2,'male single',none,1,Other,34,none,own,1,'unskilled resident',2,no,Bad,11/4/1995,no,2
+547,547,"Wayne, MI",Michigan,0.0,12.0,'critical/other existing credit','new car',1255,0.0,>=7,4,'male single',none,4,'real estate',61,none,own,2,'unskilled resident',1,no,Bad,11/5/1995,no,0
+548,548,"Kansas City, MO",Missouri,-643.65,24.0,'delayed previously','new car',1333,27.22,unemployed,4,'male single',none,2,'real estate',43,none,'for free',2,skilled,2,yes,Good,11/6/1995,yes,0
+549,549,"Essex, NJ",New Jersey,0.0,20.0,'critical/other existing credit','new car',2022,0.0,1<=X<4,4,'female div/dep/mar',none,4,car,37,none,own,1,skilled,1,Unknown,Bad,11/7/1995,Unknown,0
+550,550,"Clark, NV",Nevada,0.0,24.0,'existing paid',radio/tv,1552,0.0,4<=X<7,0,'male single',Unknown,1,car,32,bank,own,1,skilled,2,no,Bad,11/8/1995,no,0
+551,551,"New York, NY",New York,0.0,12.0,'all paid',radio/tv,626,0.0,1<=X<4,4,'female div/dep/mar',none,0,'real estate',24,bank,own,1,'unskilled resident',1,yes,Bad,11/9/1995,yes,0
+552,552,"Philadelphia, PA",Pennsylvania,0.0,48.0,'critical/other existing credit','used car',8858,0.0,4<=X<7,2,'male single',none,1,'no known property',35,none,'for free',2,Other,1,no,Good,11/10/1995,no,1
+553,553,"Dallas, TX",Texas,0.0,12.0,'critical/other existing credit',Unknown,996,0.0,4<=X<7,4,'female div/dep/mar',none,4,'real estate',23,none,Other,2,skilled,1,no,Good,11/11/1995,no,0
+554,554,"Harris, TX",Texas,0.0,6.0,'all paid',radio/tv,1750,0.0,>=7,2,'male single',none,4,'life insurance',45,bank,own,1,'unskilled resident',2,Unknown,Good,11/12/1995,Unknown,0
+555,555,"Bexar, TX",Texas,-8206.97,48.0,'existing paid',radio/tv,3234,36.37,4<=X<7,1,'male mar/wid',guarantor,1,'real estate',31,none,own,2,skilled,1,yes,Bad,11/13/1995,yes,2
+556,556,"Los Angeles, CA",California,187.52,12.0,'critical/other existing credit',Unknown,1995,214.45,<1,4,'male single',none,1,car,27,Other,own,1,skilled,1,Unknown,Good,11/14/1995,Unknown,0
+557,557,"San Francisco, CA",California,104.1,9.0,'existing paid',education,1199,90.98,4<=X<7,4,'female div/dep/mar',none,4,'life insurance',67,none,own,2,'high qualif/self emp/mgmt',1,yes,Bad,11/15/1995,yes,0
+558,558,"Cook, IL",Illinois,32.01,12.0,no credit history,radio/tv,1331,3.87,<1,2,'male single',none,1,car,22,stores,own,1,skilled,1,yes,Bad,11/16/1995,yes,0
+559,559,"Marion, IN",Indiana,4.96,18.0,'no credits/all paid','new car',2278,245.49,Unknown,3,'female div/dep/mar',none,3,car,28,none,own,2,skilled,1,yes,Good,11/17/1995,yes,0
+560,560,"Orleans, LA",Louisiana,0.0,21.0,'no credits/all paid','new car',3234,0.0,1<=X<4,1,'female div/dep/mar',none,4,'life insurance',29,bank,own,2,skilled,1,no,Good,11/18/1995,no,2
+561,561,"Baltimore city, MD",Maryland,-7703.31,24.0,'all paid',furniture/equipment,3552,34.27,4<=X<7,3,'male single',none,4,Other,27,bank,own,1,skilled,1,yes,Good,11/19/1995,yes,2
+562,562,"Wayne, MI",Michigan,150.22,18.0,'critical/other existing credit',furniture/equipment,1928,98.59,<1,0,'male single',none,0,'real estate',31,none,own,2,'unskilled resident',1,no,Good,11/20/1995,no,0
+563,563,"Kansas City, MO",Missouri,-6115.25,24.0,no credit history,'used car',2964,0.0,>=7,4,'male single',none,0,'no known property',49,bank,'for free',1,skilled,2,yes,Good,11/21/1995,yes,2
+564,564,"Essex, NJ",New Jersey,-565.62,24.0,no credit history,Unknown,1546,34.47,4<=X<7,4,'male single',guarantor,4,car,24,bank,rent,1,Other,1,yes,Good,11/22/1995,yes,0
+565,565,"Clark, NV",Nevada,2165.21,6.0,'delayed previously',radio/tv,683,76.88,<1,2,'female div/dep/mar',none,1,'life insurance',29,bank,own,1,skilled,1,no,Good,11/23/1995,no,0
+566,566,"New York, NY",New York,16.83,36.0,'existing paid','new car',12389,0.0,1<=X<4,1,'male single',none,4,'no known property',37,none,'for free',1,skilled,1,no,Bad,11/24/1995,no,1
+567,567,"Philadelphia, PA",Pennsylvania,45.62,20.0,'delayed previously',business,4712,0.0,1<=X<4,4,'male single',Unknown,2,'life insurance',37,Other,own,2,'high qualif/self emp/mgmt',1,no,Good,11/25/1995,no,2
+568,568,"Dallas, TX",Texas,105.1,24.0,'delayed previously',radio/tv,1553,427.25,4<=X<7,3,'female div/dep/mar',none,2,'life insurance',23,none,rent,2,skilled,1,yes,Good,11/26/1995,yes,0
+569,569,"Harris, TX",Texas,-4731.97,12.0,'existing paid','new car',1372,73.59,Unknown,2,'male div/sep',Unknown,0,Other,36,none,own,1,skilled,1,no,Good,11/27/1995,no,0
+570,570,"Bexar, TX",Texas,0.0,24.0,'critical/other existing credit',radio/tv,3234,0.0,>=7,2,'male single',none,2,car,34,none,own,1,skilled,1,no,Good,11/28/1995,no,2
+571,571,"Los Angeles, CA",California,141.77,48.0,'existing paid',Unknown,3979,0.0,4<=X<7,4,'male single',Unknown,1,car,41,none,own,2,skilled,2,yes,Good,11/29/1995,yes,2
+572,572,"Cook, IL",Illinois,-8505.01,48.0,'existing paid',radio/tv,6758,79.62,1<=X<4,3,'female div/dep/mar',none,2,car,31,none,own,1,skilled,1,no,Good,11/30/1995,no,1
+573,573,"Baltimore city, MD",Maryland,-1076.42,20.0,'existing paid',furniture/equipment,3234,32.53,Unknown,4,Unknown,Unknown,4,'real estate',23,none,rent,1,'unskilled resident',1,no,Good,12/1/1995,no,2
+574,574,"Wayne, MI",Michigan,0.0,30.0,no credit history,radio/tv,5954,0.0,4<=X<7,0,'male single','co applicant',2,car,38,none,own,1,skilled,1,Unknown,Good,12/2/1995,Unknown,2
+575,575,"St. Louis, MO",Missouri,0.0,20.0,'existing paid','used car',5433,0.0,unemployed,2,'female div/dep/mar',none,0,'life insurance',26,none,rent,1,'high qualif/self emp/mgmt',1,no,Good,12/3/1995,no,2
+576,576,"Clark, NV",Nevada,-7798.75,20.0,'existing paid',Unknown,806,56.13,1<=X<4,4,'female div/dep/mar',none,4,'life insurance',31,none,Other,1,Other,1,no,Good,12/4/1995,no,0
+577,577,"New York, NY",New York,34.86,9.0,'existing paid',radio/tv,1082,75.33,>=7,4,'male single',none,4,Other,31,none,own,2,'unskilled resident',1,no,Bad,12/5/1995,no,0
+578,578,"Philadelphia, PA",Pennsylvania,0.0,15.0,'critical/other existing credit',furniture/equipment,2788,0.0,4<=X<7,2,'female div/dep/mar','co applicant',3,Other,24,bank,own,2,skilled,1,yes,Good,12/6/1995,yes,2
+579,579,"Dallas, TX",Texas,177.2,12.0,'existing paid',radio/tv,2930,85.34,4<=X<7,2,'female div/dep/mar',none,1,'real estate',27,none,own,1,skilled,1,no,Bad,12/7/1995,no,2
+580,580,"Harris, TX",Texas,0.0,24.0,'critical/other existing credit',education,1927,0.0,1<=X<4,3,'female div/dep/mar',none,2,car,33,none,Other,2,skilled,1,yes,Good,12/8/1995,yes,0
+581,581,"Bexar, TX",Texas,198.94,36.0,'critical/other existing credit','new car',2820,19.45,<1,0,'male div/sep',none,0,Other,27,none,own,2,skilled,1,yes,Good,12/9/1995,yes,2
+582,582,"Los Angeles, CA",California,0.0,24.0,'existing paid',Unknown,937,0.0,<1,4,'male mar/wid',none,0,car,31,none,own,2,'unskilled resident',Unknown,no,Bad,12/10/1995,no,0
+583,583,"Cook, IL",Illinois,15.62,20.0,'critical/other existing credit','new car',1056,14.8,>=7,3,'male single',guarantor,3,'real estate',30,bank,own,2,skilled,1,yes,Good,12/11/1995,yes,0
+584,584,"Baltimore city, MD",Maryland,11.12,12.0,'critical/other existing credit','new car',3124,52.67,Unknown,1,'male single',none,3,'real estate',49,bank,own,2,Other,2,no,Bad,12/12/1995,no,2
+585,585,"Wayne, MI",Michigan,0.0,9.0,'existing paid',furniture/equipment,1388,0.0,1<=X<4,4,'female div/dep/mar',none,2,'real estate',26,none,rent,1,skilled,Unknown,yes,Good,12/13/1995,yes,0
+586,586,"St. Louis, MO",Missouri,158.08,36.0,'existing paid',repairs,2384,59.98,<1,4,'male single',none,1,'no known property',33,none,rent,1,'unskilled resident',1,no,Good,12/14/1995,no,0
+587,587,"Clark, NV",Nevada,0.0,12.0,'existing paid','new car',2133,0.0,>=7,4,'female div/dep/mar',none,4,'no known property',52,none,'for free',1,'high qualif/self emp/mgmt',1,no,Bad,12/15/1995,no,0
+588,588,"New York, NY",New York,-7660.79,18.0,'existing paid',furniture/equipment,2039,66.73,1<=X<4,1,'female div/dep/mar',none,4,Other,20,bank,rent,1,skilled,1,yes,Bad,12/16/1995,yes,0
+589,589,"Philadelphia, PA",Pennsylvania,-2109.83,9.0,'critical/other existing credit','new car',2799,52.78,1<=X<4,2,'male single',none,2,'real estate',36,none,rent,2,skilled,2,yes,Good,12/17/1995,yes,2
+590,590,"Harris, TX",Texas,-8493.58,12.0,'existing paid',furniture/equipment,1289,33.14,1<=X<4,4,'male single',Unknown,1,'life insurance',21,none,own,1,'unskilled resident',1,no,Bad,12/18/1995,no,0
+591,591,"Bexar, TX",Texas,-4419.02,20.0,'existing paid','domestic appliance',1217,0.0,1<=X<4,4,'male mar/wid',none,0,'real estate',47,none,own,1,'unskilled resident',1,no,Bad,12/19/1995,no,0
+592,592,"Los Angeles, CA",California,-7550.63,12.0,'critical/other existing credit',furniture/equipment,2246,2.68,>=7,0,'male single',none,3,'life insurance',60,none,own,2,skilled,1,yes,Good,12/20/1995,yes,0
+593,593,"Cook, IL",Illinois,-7837.91,12.0,'critical/other existing credit',radio/tv,3234,72.73,4<=X<7,4,'female div/dep/mar',none,3,'real estate',58,none,own,4,'unskilled resident',1,no,Bad,12/21/1995,no,2
+594,594,"Wayne, MI",Michigan,23.86,20.0,'delayed previously','new car',1965,0.0,1<=X<4,4,Unknown,none,4,car,31,none,Other,2,skilled,1,no,Good,12/22/1995,no,0
+595,595,"St. Louis, MO",Missouri,0.0,21.0,'existing paid',business,3234,0.0,>=7,4,'female div/dep/mar',none,4,'real estate',36,bank,own,1,'unskilled resident',1,no,Good,12/23/1995,no,2
+596,596,"New York, NY",New York,51.5,24.0,'existing paid','new car',2718,64.05,1<=X<4,3,'female div/dep/mar',none,4,'life insurance',20,none,Other,0,'unskilled resident',1,yes,Bad,12/24/1995,yes,2
+597,597,"Philadelphia, PA",Pennsylvania,-6474.5,24.0,'all paid',other,1358,0.0,>=7,0,'male single',none,3,car,40,stores,own,1,'high qualif/self emp/mgmt',1,yes,Good,12/25/1995,yes,0
+598,598,"Harris, TX",Texas,137.68,6.0,no credit history,'new car',931,324.58,<1,1,'female div/dep/mar',none,1,'life insurance',32,stores,own,1,Other,1,yes,Good,12/26/1995,yes,0
+599,599,"Los Angeles, CA",California,-7808.18,24.0,'existing paid','new car',1442,25.48,Unknown,4,'female div/dep/mar',none,0,car,23,none,rent,2,skilled,1,yes,Good,12/27/1995,yes,0
+600,600,"Cook, IL",Illinois,100.19,24.0,'no credits/all paid',business,4241,13.53,1<=X<4,1,'male single',none,4,'real estate',36,none,own,3,'unskilled resident',1,no,Good,12/28/1995,no,2
+601,601,"Baltimore city, MD",Maryland,0.0,18.0,'critical/other existing credit','new car',3234,0.0,4<=X<7,2,'male single',none,2,'life insurance',31,bank,own,2,Other,1,no,Bad,12/29/1995,no,2
+602,602,"Wayne, MI",Michigan,0.0,24.0,'delayed previously',business,3863,0.0,1<=X<4,1,'male single',none,0,'no known property',32,none,'for free',1,Other,1,no,Bad,12/30/1995,no,2
+603,603,"Jefferson City, MO",Missouri,141.17,7.0,'existing paid',Unknown,2329,76.66,<1,1,'female div/dep/mar',guarantor,1,'real estate',45,none,Other,1,skilled,1,yes,Good,Dec-31-1995,yes,0
+604,604,"New York, NY",New York,48.14,9.0,'existing paid',Unknown,918,84.97,Unknown,4,'female div/dep/mar',none,0,'life insurance',31,none,own,1,skilled,Unknown,no,Bad,1/1/1996,no,0
+605,605,"Philadelphia, PA",Pennsylvania,10.4,24.0,'all paid',education,1837,53.92,4<=X<7,4,'female div/dep/mar',none,4,'no known property',34,bank,'for free',1,'unskilled resident',1,yes,Good,1/2/1996,yes,0
+606,606,"Harris, TX",Texas,0.0,36.0,'existing paid',furniture/equipment,3349,0.0,1<=X<4,4,'female div/dep/mar',none,2,car,28,none,Other,1,'high qualif/self emp/mgmt',1,yes,Good,1/3/1996,yes,2
+607,607,"Los Angeles, CA",California,1789.83,10.0,'existing paid',furniture/equipment,1275,58.68,<1,4,Unknown,none,2,'life insurance',23,none,own,1,Other,1,yes,Good,1/4/1996,yes,0
+608,608,"Cook, IL",Illinois,-4763.99,24.0,'all paid',furniture/equipment,3234,776.87,1<=X<4,0,'male single',none,4,'real estate',22,stores,own,1,skilled,1,yes,Good,1/5/1996,yes,2
+609,609,"Wayne, MI",Michigan,0.0,24.0,'critical/other existing credit',business,4526,0.0,1<=X<4,3,'male single',Unknown,2,'real estate',74,none,own,1,Other,1,Unknown,Good,1/6/1996,Unknown,2
+610,610,"St. Louis, MO",Missouri,168.77,36.0,'existing paid',Unknown,2671,0.0,Unknown,4,'female div/dep/mar',Unknown,4,'no known property',50,Other,'for free',1,skilled,1,yes,Good,1/7/1996,yes,0
+611,611,"New York, NY",New York,0.0,20.0,'existing paid',radio/tv,3234,0.0,<1,4,'male single',none,1,'real estate',33,none,own,1,skilled,1,no,Bad,1/8/1996,no,2
+612,612,"Philadelphia, PA",Pennsylvania,0.0,15.0,'existing paid','used car',1300,0.0,>=7,4,'male single',none,4,'no known property',45,bank,'for free',1,skilled,2,no,Good,1/9/1996,no,0
+613,613,"Harris, TX",Texas,-6772.88,12.0,'existing paid','domestic appliance',741,280.59,unemployed,0,'female div/dep/mar',none,3,'life insurance',22,none,Other,1,skilled,1,no,Good,1/10/1996,no,0
+614,614,"Harris, TX",Texas,3206.06,20.0,'existing paid','new car',1240,191.82,Unknown,1,'female div/dep/mar',none,4,'no known property',31,Other,'for free',1,'unskilled resident',2,yes,Good,1/11/1996,yes,0
+615,615,"Los Angeles, CA",California,-1041.19,21.0,'existing paid',radio/tv,3357,8629.45,<1,4,'female div/dep/mar',none,2,car,29,bank,Other,1,skilled,1,yes,Good,1/12/1996,yes,2
+616,616,"Cook, IL",Illinois,-2735.83,24.0,'all paid','used car',3632,58.25,1<=X<4,1,'female div/dep/mar',guarantor,4,car,22,bank,rent,1,Other,1,no,Good,1/13/1996,no,2
+617,617,"St. Joseph, IN",Indiana,0.0,18.0,'delayed previously',furniture/equipment,1808,0.0,4<=X<7,4,'female div/dep/mar',none,1,'real estate',31,none,own,1,skilled,1,yes,Bad,1/14/1996,yes,0
+618,618,"Prince George's, MD",Maryland,141.49,48.0,'no credits/all paid',business,12204,0.0,1<=X<4,2,'male single',none,2,car,48,Other,own,1,'high qualif/self emp/mgmt',Unknown,no,Good,1/15/1996,no,1
+619,619,"Wayne, MI",Michigan,162.45,60.0,'delayed previously',radio/tv,3234,0.0,1<=X<4,2,Unknown,none,2,'no known property',27,none,'for free',1,'high qualif/self emp/mgmt',1,Unknown,Bad,1/16/1996,Unknown,2
+620,620,"Springfield, MO",Missouri,-3041.24,6.0,'critical/other existing credit','new car',3676,29.16,1<=X<4,1,Unknown,none,3,'real estate',37,none,rent,3,skilled,2,no,Good,1/17/1996,no,2
+621,621,"New York, NY",New York,132.49,30.0,'existing paid',furniture/equipment,3441,0.0,1<=X<4,0,'female div/dep/mar','co applicant',4,car,21,none,rent,1,skilled,Unknown,no,Good,1/18/1996,no,2
+622,622,"Philadelphia, PA",Pennsylvania,0.0,12.0,'existing paid','new car',640,0.0,1<=X<4,0,'male div/sep',none,2,'real estate',49,none,own,1,'unskilled resident',1,yes,Bad,1/19/1996,yes,0
+623,623,"Harris, TX",Texas,19.98,21.0,'critical/other existing credit',business,3652,51.81,4<=X<7,2,'male single',none,3,'life insurance',27,Other,own,2,skilled,1,yes,Good,1/20/1996,yes,2
+624,624,"Los Angeles, CA",California,0.0,18.0,'critical/other existing credit','new car',1530,0.0,1<=X<4,3,'male single',none,2,'life insurance',32,bank,own,2,skilled,1,no,Good,1/21/1996,no,0
+625,625,"Cook, IL",Illinois,0.0,48.0,'existing paid',business,3914,0.0,1<=X<4,4,'male div/sep',none,2,'real estate',38,bank,own,1,skilled,1,yes,Bad,1/22/1996,yes,2
+626,626,"Wayne, MI",Michigan,-5290.04,12.0,'existing paid',furniture/equipment,3234,60.63,<1,4,'female div/dep/mar',none,1,car,22,none,Other,1,skilled,Unknown,no,Good,1/23/1996,no,2
+627,627,"St. Louis city, MO",Missouri,-663.09,18.0,'existing paid',radio/tv,2600,20.07,1<=X<4,4,'male single',none,4,'no known property',65,none,'for free',2,skilled,1,no,Good,1/24/1996,no,0
+628,628,"New York, NY",New York,0.0,15.0,'existing paid',radio/tv,1979,0.0,>=7,4,'male single',Unknown,2,car,35,none,own,1,skilled,1,yes,Bad,1/25/1996,yes,0
+629,629,"Philadelphia, PA",Pennsylvania,7470.59,6.0,no credit history,furniture/equipment,3234,28.02,1<=X<4,2,Unknown,none,2,'real estate',41,none,Other,1,skilled,1,yes,Bad,1/26/1996,yes,2
+630,630,"Harris, TX",Texas,0.0,9.0,'all paid','new car',1437,0.0,4<=X<7,2,'male single',none,3,'no known property',29,none,own,1,Other,1,yes,Bad,1/27/1996,yes,0
+631,631,"Montgomery, AL",Alabama,0.0,42.0,'critical/other existing credit',furniture/equipment,4042,0.0,1<=X<4,4,'male single',none,4,'real estate',36,none,own,2,skilled,1,no,Bad,1/28/1996,no,2
+632,632,"Los Angeles, CA",California,0.0,9.0,'existing paid',education,3832,0.0,>=7,1,'male single',none,4,'real estate',64,none,own,1,'unskilled resident',1,no,Bad,1/29/1996,no,2
+633,633,"Cook, IL",Illinois,-1681.76,20.0,'existing paid',radio/tv,3660,89.73,1<=X<4,2,'female div/dep/mar',none,4,car,28,none,own,1,skilled,Unknown,yes,Bad,1/30/1996,yes,2
+634,634,"Wayne, MI",Michigan,-5831.23,18.0,'all paid',furniture/equipment,3234,77.99,1<=X<4,4,'male single',Unknown,3,car,44,Other,own,0,skilled,1,yes,Good,1/31/1996,yes,2
+635,635,"Kingdom City, MO",Missouri,41.2,15.0,'existing paid',radio/tv,3234,0.0,<1,4,'male single',none,0,'life insurance',23,none,own,1,skilled,1,Unknown,Bad,2/1/1996,Unknown,2
+636,636,"New York, NY",New York,0.0,9.0,'existing paid',furniture/equipment,1980,0.0,<1,2,'female div/dep/mar','co applicant',2,car,19,none,rent,2,skilled,1,no,Good,2/2/1996,no,0
+637,637,"Harris, TX",Texas,184.6,24.0,'existing paid','new car',1355,30.24,<1,3,'female div/dep/mar',none,0,car,25,none,own,1,'unskilled resident',1,yes,Bad,2/3/1996,yes,0
+638,638,"Los Angeles, CA",California,0.0,12.0,'existing paid',education,1393,0.0,>=7,4,'male single',none,4,'life insurance',47,bank,Other,3,skilled,2,yes,Bad,2/4/1996,yes,0
+639,639,"Palm Beach, FL",Florida,0.0,24.0,'existing paid',radio/tv,1376,0.0,4<=X<7,4,'female div/dep/mar',none,1,Other,31,none,own,1,skilled,1,yes,Bad,2/5/1996,yes,0
+640,640,"Cook, IL",Illinois,0.0,60.0,'delayed previously',radio/tv,15653,0.0,4<=X<7,2,Unknown,none,4,Other,21,none,own,2,skilled,1,no,Bad,2/6/1996,no,1
+641,641,"Wayne, MI",Michigan,0.0,12.0,'existing paid',radio/tv,1493,0.0,<1,0,'female div/dep/mar',none,3,car,31,none,own,1,skilled,2,yes,Bad,2/7/1996,yes,0
+642,642,"New York, NY",New York,-583.41,42.0,'delayed previously',radio/tv,4370,96.22,4<=X<7,3,'male single',none,2,'life insurance',26,bank,own,2,skilled,2,yes,Bad,2/8/1996,yes,2
+643,643,"Harris, TX",Texas,-2290.21,18.0,'existing paid',education,750,65.14,unemployed,4,'female div/dep/mar',none,1,'real estate',27,none,own,1,'unemp/unskilled non res',1,yes,Good,2/9/1996,yes,0
+644,644,"Los Angeles, CA",California,72.58,15.0,'existing paid',repairs,1308,76.14,>=7,4,Unknown,none,4,car,38,none,own,2,'unskilled resident',Unknown,yes,Good,2/10/1996,yes,0
+645,645,"Cook, IL",Illinois,0.0,15.0,'existing paid',education,4623,0.0,1<=X<4,3,'male single',none,2,'life insurance',40,none,own,1,'high qualif/self emp/mgmt',1,yes,Good,2/11/1996,yes,2
+646,646,"Wayne, MI",Michigan,0.0,20.0,'critical/other existing credit',radio/tv,1851,0.0,4<=X<7,4,'male mar/wid',guarantor,2,car,33,none,own,2,skilled,1,no,Good,2/12/1996,no,0
+647,647,"New York, NY",New York,-4262.11,18.0,'critical/other existing credit',radio/tv,1880,86.87,Unknown,4,'male mar/wid',none,0,'life insurance',32,none,own,2,'high qualif/self emp/mgmt',1,yes,Bad,2/13/1996,yes,0
+648,648,"Harris, TX",Texas,0.0,36.0,'delayed previously',Unknown,7980,0.0,<1,4,'male single',none,4,car,27,none,rent,2,skilled,1,yes,Good,2/14/1996,yes,1
+649,649,"Los Angeles, CA",California,-9608.79,30.0,no credit history,Unknown,4583,89.41,1<=X<4,2,'male div/sep',guarantor,0,'real estate',32,none,Other,2,skilled,1,yes,Good,2/15/1996,yes,2
+650,650,"Cook, IL",Illinois,0.0,12.0,'existing paid','new car',1386,0.0,1<=X<4,2,'female div/dep/mar',none,2,'life insurance',31,none,own,1,skilled,1,yes,Good,2/16/1996,yes,0
+651,651,"Wayne, MI",Michigan,5218.31,24.0,'existing paid','new car',3234,99.04,4<=X<7,4,'male single',none,3,'no known property',38,bank,'for free',0,Other,2,no,Good,2/17/1996,no,2
+652,652,"New York, NY",New York,-9112.68,12.0,'existing paid',education,684,98.28,1<=X<4,4,'male single',none,4,Other,40,none,rent,1,'unskilled resident',2,no,Bad,2/18/1996,no,0
+653,653,"New York, NY",New York,-2145.27,48.0,'existing paid',education,7476,31.97,4<=X<7,4,'male single',none,1,'no known property',50,none,'for free',1,Other,1,yes,Good,2/19/1996,yes,1
+654,654,"Lucas, OH",Ohio,67.5,12.0,'existing paid',furniture/equipment,1922,94.12,1<=X<4,4,'male single',none,2,'life insurance',37,none,own,1,'unskilled resident',1,no,Bad,2/20/1996,no,0
+655,655,"Harris, TX",Texas,-5275.22,24.0,'existing paid',Unknown,2303,75.09,>=7,4,'male single','co applicant',1,'real estate',45,none,own,1,skilled,1,yes,Good,2/21/1996,yes,0
+656,656,"Los Angeles, CA",California,99.84,36.0,'delayed previously','new car',8086,125.55,>=7,0,'male single',none,4,car,42,none,own,4,'high qualif/self emp/mgmt',1,yes,Bad,2/22/1996,yes,1
+657,657,"Cook, IL",Illinois,0.0,24.0,'critical/other existing credit','used car',2346,0.0,4<=X<7,4,'male single',Unknown,3,car,35,none,Other,2,Other,1,no,Good,Feb-23-1996,no,0
+658,658,"Wayne, MI",Michigan,0.0,14.0,'existing paid',Unknown,3973,0.0,unemployed,1,'male single',none,4,'no known property',31,none,'for free',1,skilled,1,yes,Good,2/24/1996,yes,2
+659,659,"Wayne, MI",Michigan,79.58,12.0,'existing paid','new car',888,10.02,>=7,4,'male single',none,4,car,41,bank,own,1,'unskilled resident',2,yes,Good,2/25/1996,yes,0
+660,660,"New York, NY",New York,0.0,48.0,'existing paid',Unknown,10222,0.0,4<=X<7,4,'male single',none,3,car,37,stores,own,1,skilled,1,Unknown,Good,2/26/1996,Unknown,1
+661,661,"New York, NY",New York,43.97,30.0,no credit history,business,4221,80.29,Unknown,2,'female div/dep/mar',Unknown,1,car,28,none,own,2,skilled,Unknown,yes,Bad,2/27/1996,yes,2
+662,662,"Lucas, OH",Ohio,0.0,18.0,'critical/other existing credit',furniture/equipment,6361,0.0,>=7,2,'male single',none,1,'no known property',41,none,own,1,skilled,1,no,Good,2/28/1996,no,2
+663,663,"Harris, TX",Texas,5584.53,12.0,'existing paid',radio/tv,1297,15.37,1<=X<4,3,'male mar/wid',none,4,'real estate',23,none,rent,1,skilled,1,yes,Good,2/29/1996,yes,0
+664,664,"Los Angeles, CA",California,-6047.48,12.0,'existing paid','new car',900,0.0,1<=X<4,4,'male mar/wid',none,2,car,23,none,own,1,skilled,1,no,Good,3/1/1996,no,0
+665,665,"Cook, IL",Illinois,0.0,21.0,'existing paid',furniture/equipment,2241,0.0,>=7,4,'male single',none,2,Other,31,none,own,2,skilled,1,no,Bad,3/2/1996,no,0
+666,666,"Wayne, MI",Michigan,186.02,6.0,'delayed previously',furniture/equipment,1050,90.78,unemployed,4,'male single',none,1,'life insurance',35,stores,own,2,'high qualif/self emp/mgmt',1,no,Bad,3/3/1996,no,0
+667,667,"Harris, TX",Texas,2609.44,6.0,'critical/other existing credit',education,3234,8.9,1<=X<4,2,'female div/dep/mar',none,0,'life insurance',50,none,own,1,'unskilled resident',1,yes,Good,3/4/1996,yes,2
+668,668,"Cook, IL",Illinois,0.0,24.0,'critical/other existing credit',other,3234,0.0,unemployed,4,'male single','co applicant',0,'no known property',31,bank,own,0,'high qualif/self emp/mgmt',1,yes,Bad,3/5/1996,yes,2
+669,669,"Wayne, MI",Michigan,152.49,30.0,'all paid',furniture/equipment,3496,8297.56,1<=X<4,4,'male single',none,2,Other,34,stores,own,1,skilled,2,no,Good,3/6/1996,no,2
+670,670,"Harris, TX",Texas,0.0,48.0,'all paid',business,3609,0.0,1<=X<4,1,'female div/dep/mar',none,0,'real estate',31,stores,own,1,skilled,1,yes,Good,3/7/1996,yes,2
+671,671,"Blount, AL",Alabama,-746.1,12.0,'critical/other existing credit','new car',4843,14.57,>=7,3,'male single','co applicant',4,'life insurance',43,none,rent,0,skilled,1,Unknown,Bad,3/8/1996,Unknown,2
+672,672,"Cook, IL",Illinois,5885.96,30.0,'critical/other existing credit',radio/tv,3017,3.8,>=7,0,'male single',Unknown,4,'life insurance',47,none,own,1,skilled,1,no,Bad,3/9/1996,no,2
+673,673,"Wayne, MI",Michigan,0.0,24.0,'critical/other existing credit',business,4139,0.0,1<=X<4,3,'male single',none,3,'life insurance',27,none,own,0,'unskilled resident',1,no,Bad,3/10/1996,no,2
+674,674,"Harris, TX",Texas,0.0,36.0,'existing paid',business,5742,0.0,4<=X<7,0,'male single',Unknown,0,car,31,none,own,2,skilled,1,yes,Bad,3/11/1996,yes,2
+675,675,"Cook, IL",Illinois,0.0,60.0,'existing paid','new car',10366,0.0,>=7,2,'male single',none,4,'life insurance',42,none,own,1,Other,1,no,Good,3/12/1996,no,1
+676,676,"Harris, TX",Texas,0.0,6.0,'critical/other existing credit','new car',2080,0.0,1<=X<4,1,'male mar/wid',none,2,car,24,Other,own,0,skilled,1,no,Bad,3/13/1996,no,0
+677,677,"Cook, IL",Illinois,0.0,21.0,'delayed previously',business,2580,0.0,<1,4,'male single',none,2,Other,41,bank,own,1,'unskilled resident',Unknown,no,Bad,3/14/1996,no,0
+678,678,"Harris, TX",Texas,0.0,30.0,'critical/other existing credit',radio/tv,4530,0.0,Unknown,4,'female div/dep/mar',none,4,car,26,none,Other,1,'high qualif/self emp/mgmt',1,Unknown,Bad,3/15/1996,Unknown,2
+679,679,"Hale, AL",Alabama,0.0,24.0,'critical/other existing credit',furniture/equipment,5150,0.0,>=7,4,Unknown,none,4,car,33,none,own,1,skilled,Unknown,yes,Good,3/16/1996,yes,2
+680,680,"Lauderdale, AL",Alabama,31.31,72.0,'existing paid',radio/tv,5595,309.29,1<=X<4,2,'male mar/wid',none,2,car,24,none,own,1,skilled,1,Unknown,Good,3/17/1996,Unknown,2
+681,681,"Lee, AL",Alabama,-5102.86,24.0,'existing paid',radio/tv,2384,93.62,Unknown,4,'male single',none,4,'real estate',64,bank,rent,0,'unskilled resident',1,Unknown,Good,3/18/1996,Unknown,0
+682,682,"Madison, AL",Alabama,0.0,18.0,'existing paid',radio/tv,1453,0.0,<1,3,'female div/dep/mar',none,1,Other,31,none,own,1,skilled,1,Unknown,Good,3/19/1996,Unknown,0
+683,683,"Monroe, AL",Alabama,0.0,6.0,'existing paid',education,1538,0.0,<1,1,'female div/dep/mar',none,2,'no known property',56,none,own,1,Other,1,yes,Good,3/20/1996,yes,0
+684,684,"Perry, AL",Alabama,0.0,12.0,'existing paid',radio/tv,2279,0.0,1<=X<4,4,'male single',Unknown,4,'no known property',37,none,'for free',1,skilled,1,yes,Good,3/21/1996,yes,0
+685,685,"Perry, AL",Alabama,0.0,15.0,'delayed previously',radio/tv,1478,0.0,Unknown,0,'male mar/wid',none,3,'real estate',33,bank,own,2,skilled,1,no,Bad,3/22/1996,no,0
+686,686,"Russell, AL",Alabama,0.0,24.0,'critical/other existing credit',radio/tv,5103,0.0,<1,0,'male mar/wid',Unknown,3,Other,47,none,'for free',3,skilled,1,no,Bad,3/23/1996,no,2
+687,687,"Russell, AL",Alabama,118.46,36.0,no credit history,business,9857,159.43,4<=X<7,1,'male single',none,3,'life insurance',31,Other,own,2,'unskilled resident',2,no,Good,3/24/1996,no,1
+688,688,"St. Clair, AL",Alabama,0.0,60.0,'existing paid','new car',6527,0.0,1<=X<4,4,'male single',Unknown,4,'no known property',34,none,'for free',1,skilled,Unknown,yes,Bad,3/25/1996,yes,2
+689,689,"Sumter, AL",Alabama,4535.68,10.0,'critical/other existing credit',radio/tv,1347,0.0,4<=X<7,4,'male single',none,2,'life insurance',27,none,Other,2,skilled,1,yes,Bad,3/26/1996,yes,0
+690,690,"Tallapoosa, AL",Alabama,165.23,36.0,'delayed previously','new car',2862,189.81,>=7,4,'male single',none,3,'no known property',30,none,'for free',1,skilled,Unknown,yes,Good,3/27/1996,yes,2
+691,691,"Winston, AL",Alabama,0.0,9.0,'existing paid',radio/tv,2753,0.0,>=7,3,Unknown,'co applicant',4,Other,35,none,own,1,skilled,1,no,Good,3/28/1996,no,2
+692,692,"Ashley, AR",Arkansas,-925.22,12.0,'existing paid','new car',3651,3414.88,1<=X<4,1,'male single',none,3,'life insurance',31,none,own,1,Other,2,no,Good,3/29/1996,no,2
+693,693,"Boone, AR",Arkansas,0.0,15.0,'critical/other existing credit',furniture/equipment,975,0.0,1<=X<4,2,'male div/sep',none,3,'life insurance',25,none,Other,2,skilled,1,yes,Good,3/30/1996,yes,0
+694,694,"Crawford, AR",Arkansas,99.58,15.0,'existing paid',repairs,2631,271.2,1<=X<4,0,'female div/dep/mar',none,2,'real estate',25,none,own,1,Other,1,yes,Good,3/31/1996,yes,0
+695,695,"Garland, AR",Arkansas,78.73,24.0,'existing paid',radio/tv,2896,184.01,<1,2,'male single',none,1,car,29,none,own,1,Other,1,no,Good,4/1/1996,no,2
+696,696,"Mississippi, AR",Arkansas,-1364.07,6.0,'critical/other existing credit','new car',4716,0.0,<1,1,'male single',Unknown,3,'real estate',44,none,own,2,'unskilled resident',2,no,Good,4/2/1996,no,2
+697,697,"Nevada, AR",Arkansas,0.0,24.0,'existing paid',radio/tv,2284,0.0,4<=X<7,4,'male single',none,2,car,28,none,own,1,skilled,1,no,Good,4/3/1996,no,0
+698,698,"Ouachita, AR",Arkansas,0.0,6.0,'existing paid','used car',3234,0.0,1<=X<4,2,'male single',none,4,'life insurance',50,none,rent,1,skilled,1,yes,Good,4/4/1996,yes,2
+699,699,"Phillips, AR",Arkansas,24.28,12.0,'existing paid',radio/tv,1103,0.0,4<=X<7,4,'male single',guarantor,3,'real estate',31,none,own,2,skilled,1,no,Bad,4/5/1996,no,0
+700,700,"Phillips, AR",Arkansas,0.0,20.0,'critical/other existing credit','new car',926,0.0,Unknown,0,'female div/dep/mar',none,2,'life insurance',38,Other,Other,1,'unemp/unskilled non res',1,no,Good,4/6/1996,no,0
+701,701,"Pulaski, AR",Arkansas,0.0,18.0,'critical/other existing credit',radio/tv,3234,0.0,Unknown,4,Unknown,none,2,car,24,none,own,2,Other,Unknown,yes,Good,4/7/1996,yes,2
+702,702,"Saline, AR",Arkansas,2644.05,15.0,no credit history,education,1905,94.84,Unknown,4,'male single',none,0,car,40,none,rent,1,'high qualif/self emp/mgmt',1,Unknown,Good,4/8/1996,Unknown,0
+703,703,"Woodruff, AR",Arkansas,0.0,12.0,'existing paid',furniture/equipment,1123,0.0,1<=X<4,0,'female div/dep/mar',none,4,car,29,none,rent,1,'unskilled resident',1,yes,Good,4/9/1996,yes,0
+704,704,"Coconino, AZ",Arizona,0.0,48.0,'critical/other existing credit','used car',6331,0.0,>=7,4,'male single',none,4,'no known property',46,none,'for free',2,skilled,1,no,Good,4/10/1996,no,2
+705,705,"Maricopa, AZ",Arizona,2392.34,24.0,'existing paid',radio/tv,1377,287.97,>=7,4,'female div/dep/mar',none,2,'no known property',47,none,'for free',1,skilled,1,yes,Good,4/11/1996,yes,0
+706,706,"Maricopa, AZ",Arizona,124.56,30.0,'delayed previously',business,2503,429.73,>=7,4,'male single',none,2,'life insurance',41,stores,own,2,skilled,Unknown,no,Bad,4/12/1996,no,0
+707,707,"Maricopa, AZ",Arizona,175.12,27.0,'existing paid',business,2528,96.82,<1,4,'female div/dep/mar',none,1,'life insurance',32,Other,own,1,skilled,2,Unknown,Bad,4/13/1996,Unknown,0
+708,708,"Maricopa, AZ",Arizona,0.0,15.0,'existing paid','new car',5324,0.0,>=7,1,'female div/dep/mar',none,4,Other,31,none,'for free',1,skilled,1,yes,Good,4/14/1996,yes,2
+709,709,"Maricopa, AZ",Arizona,43.03,48.0,'existing paid','new car',3234,254.32,4<=X<7,0,'male single',none,2,'life insurance',24,none,own,1,skilled,1,yes,Bad,4/15/1996,yes,2
+710,710,"Maricopa, AZ",Arizona,187.67,20.0,'no credits/all paid',Unknown,2969,9.09,<1,4,'female div/dep/mar',none,3,'life insurance',25,none,rent,2,skilled,1,no,Good,4/16/1996,no,2
+711,711,"Pima, AZ",Arizona,59.61,9.0,'existing paid',radio/tv,1206,22.92,>=7,4,'female div/dep/mar',none,4,'real estate',25,none,own,1,skilled,1,yes,Bad,4/17/1996,yes,0
+712,712,"Yavapai, AZ",Arizona,0.0,20.0,'existing paid',radio/tv,2118,0.0,1<=X<4,2,'male single',none,2,'real estate',37,Other,Other,1,'unskilled resident',2,no,Good,4/18/1996,no,0
+713,713,"Yuma, AZ",Arizona,0.0,18.0,'critical/other existing credit',radio/tv,629,0.0,>=7,4,'male single',none,3,'life insurance',31,bank,own,2,'high qualif/self emp/mgmt',1,no,Good,4/19/1996,no,0
+714,714,"Alameda, CA",California,0.0,6.0,'all paid',education,1198,0.0,>=7,4,'female div/dep/mar',none,4,'no known property',35,none,'for free',1,skilled,1,yes,Bad,4/20/1996,yes,0
+715,715,"Alameda, CA",California,0.0,21.0,'existing paid','used car',2476,0.0,>=7,4,'male single',none,4,'real estate',46,none,own,1,'high qualif/self emp/mgmt',1,no,Bad,4/21/1996,no,0
+716,716,"Alameda, CA",California,-7949.53,9.0,'critical/other existing credit',Unknown,1138,65.06,Unknown,4,'male single',none,4,'real estate',25,none,own,2,'unskilled resident',1,no,Good,4/22/1996,no,0
+717,717,"Contra Costa, CA",California,189.81,60.0,'existing paid','new car',14027,1.59,4<=X<7,4,'male single',none,2,'no known property',27,none,own,1,'high qualif/self emp/mgmt',1,yes,Good,4/23/1996,yes,1
+718,718,"Contra Costa, CA",California,0.0,30.0,'critical/other existing credit','used car',7596,0.0,>=7,1,'male single',none,4,car,63,none,own,0,skilled,1,no,Bad,4/24/1996,no,1
+719,719,"Contra Costa, CA",California,0.0,30.0,'critical/other existing credit',radio/tv,3077,0.0,>=7,3,'male single',Unknown,2,car,40,none,Other,2,skilled,2,no,Good,4/25/1996,no,2
+720,720,"Contra Costa, CA",California,0.0,18.0,'existing paid',radio/tv,1505,0.0,1<=X<4,4,Unknown,Unknown,2,Other,32,none,'for free',1,'high qualif/self emp/mgmt',1,no,Good,4/26/1996,no,0
+721,721,"Fresno, CA",California,8048.88,24.0,'critical/other existing credit',radio/tv,3148,0.0,1<=X<4,0,'male single',none,2,Other,31,none,own,2,skilled,1,no,Bad,4/27/1996,no,2
+722,722,"Fresno, CA",California,163.16,20.0,'no credits/all paid','used car',6148,364.78,>=7,0,'male mar/wid',none,0,car,31,bank,own,2,skilled,1,yes,Bad,4/28/1996,yes,2
+723,723,"Fresno, CA",California,7880.65,9.0,'no credits/all paid',radio/tv,1337,66.11,Unknown,4,'male single',none,2,car,34,none,Other,2,'high qualif/self emp/mgmt',1,no,Bad,4/29/1996,no,0
+724,724,"Humboldt, CA",California,0.0,6.0,'all paid',Unknown,433,0.0,<1,0,'female div/dep/mar',none,2,'life insurance',24,bank,rent,1,skilled,2,no,Bad,4/30/1996,no,0
+725,725,"Imperial, CA",California,-7075.13,12.0,no credit history,'new car',1228,10.4,Unknown,0,'female div/dep/mar',none,2,Other,24,none,own,1,Other,1,Unknown,Good,5/1/1996,Unknown,0
+726,726,"Kern, CA",California,106.93,20.0,'existing paid',radio/tv,790,893.64,1<=X<4,4,'female div/dep/mar',none,3,'real estate',66,none,own,1,'unskilled resident',Unknown,no,Good,5/2/1996,no,0
+727,727,"Los Angeles, CA",California,0.0,27.0,'existing paid','new car',2570,0.0,Unknown,3,'female div/dep/mar',none,3,'real estate',21,none,Other,1,skilled,1,no,Bad,5/3/1996,no,0
+728,728,"Los Angeles, CA",California,0.0,6.0,no credit history,'new car',250,0.0,1<=X<4,0,'female div/dep/mar',none,2,'real estate',31,bank,own,2,'unskilled resident',Unknown,Unknown,Good,5/4/1996,Unknown,0
+729,729,"Los Angeles, CA",California,0.0,15.0,'critical/other existing credit',radio/tv,1316,0.0,1<=X<4,2,'male mar/wid',none,2,'life insurance',47,none,own,2,'unskilled resident',Unknown,yes,Good,5/5/1996,yes,0
+730,730,"Los Angeles, CA",California,-1726.33,18.0,'existing paid',radio/tv,1882,39.45,1<=X<4,4,'female div/dep/mar',none,0,car,25,bank,rent,0,skilled,1,yes,Bad,5/6/1996,yes,0
+731,731,"San Francisco, CA",California,71.62,48.0,'all paid',business,6416,99.84,>=7,0,'female div/dep/mar',none,3,'no known property',31,none,rent,0,skilled,1,yes,Good,5/7/1996,yes,2
+732,732,"Los Angeles, CA",California,3063.5,24.0,'critical/other existing credit',Unknown,1275,3355.15,Unknown,2,'male div/sep',none,4,'real estate',36,none,own,2,skilled,1,no,Good,5/8/1996,no,0
+733,733,"Los Angeles, CA",California,47.73,24.0,'delayed previously',radio/tv,6403,0.0,<1,1,'male single',none,2,car,33,none,own,1,skilled,1,yes,Good,5/9/1996,yes,2
+734,734,"Los Angeles, CA",California,-1458.47,20.0,no credit history,radio/tv,1987,47.43,1<=X<4,2,'male single',none,4,'real estate',31,none,rent,1,'unskilled resident',2,yes,Bad,5/10/1996,yes,0
+735,735,"Los Angeles, CA",California,33.27,8.0,'existing paid',radio/tv,3234,43.74,4<=X<7,4,'female div/dep/mar',guarantor,2,'real estate',44,none,own,1,'unskilled resident',1,yes,Good,5/11/1996,yes,2
+736,736,"Los Angeles, CA",California,0.0,20.0,'existing paid','used car',3234,0.0,1<=X<4,2,Unknown,none,4,car,28,none,Other,1,skilled,1,no,Bad,5/12/1996,no,2
+737,737,"San Jose, CA",California,0.0,4.0,'critical/other existing credit','new car',3380,0.0,4<=X<7,1,'female div/dep/mar',none,1,'real estate',37,none,own,1,Other,Unknown,yes,Good,5/13/1996,yes,2
+738,738,"Los Angeles, CA",California,71.0,36.0,'all paid','domestic appliance',3990,0.0,<1,0,'female div/dep/mar',Unknown,2,'no known property',29,Other,own,1,'unemp/unskilled non res',1,yes,Bad,5/14/1996,yes,2
+739,739,"Los Angeles, CA",California,37.8,24.0,'existing paid','used car',11560,91.89,1<=X<4,1,'female div/dep/mar',none,4,car,23,none,Other,2,'high qualif/self emp/mgmt',1,yes,Good,5/15/1996,yes,1
+740,740,"Los Angeles, CA",California,-4024.01,18.0,'existing paid','new car',4380,411.17,Unknown,3,'male single',none,4,car,35,none,Other,1,Other,2,Unknown,Bad,5/16/1996,Unknown,2
+741,741,"Los Angeles, CA",California,0.0,6.0,'critical/other existing credit','new car',3234,0.0,4<=X<7,1,'male single',Unknown,3,'no known property',31,none,own,2,'high qualif/self emp/mgmt',2,no,Good,5/17/1996,no,2
+742,742,"Palo Alto, CA",California,126.63,30.0,'no credits/all paid',business,4280,374.88,1<=X<4,4,'female div/dep/mar',none,0,car,26,none,rent,2,'unskilled resident',Unknown,no,Good,5/18/1996,no,2
+743,743,"Merced, CA",California,-210.65,24.0,'all paid','new car',2325,355.29,4<=X<7,2,'male single',none,3,Other,32,bank,own,1,skilled,1,no,Good,5/19/1996,no,0
+744,744,"Monterey, CA",California,138.02,10.0,'all paid',radio/tv,3234,60.77,1<=X<4,4,'male single',none,4,Other,23,stores,Other,1,'unskilled resident',1,yes,Good,5/20/1996,yes,2
+745,745,"Monterey, CA",California,0.0,21.0,'existing paid',radio/tv,3160,0.0,>=7,4,'male single',none,3,'life insurance',41,none,own,1,skilled,1,no,Bad,5/21/1996,no,2
+746,746,"Monterey, CA",California,-5175.66,24.0,'all paid',furniture/equipment,2483,899.82,1<=X<4,0,'male single',none,4,'real estate',22,stores,own,1,skilled,1,no,Bad,5/22/1996,no,0
+747,747,"Nevada, CA",California,-9114.34,39.0,'critical/other existing credit',furniture/equipment,14179,0.0,4<=X<7,0,'male single',none,4,'life insurance',30,Other,own,2,'high qualif/self emp/mgmt',1,yes,Bad,5/23/1996,yes,1
+748,748,"Orange, CA",California,-1569.65,20.0,'critical/other existing credit',business,1797,51.04,<1,3,'male single',none,1,'life insurance',28,bank,own,2,'unskilled resident',1,no,Good,5/24/1996,no,0
+749,749,"Orange, CA",California,-206.0,15.0,'existing paid','new car',2511,0.0,unemployed,1,'female div/dep/mar',none,4,car,23,none,Other,1,skilled,1,yes,Good,5/25/1996,yes,0
+750,750,"Orange, CA",California,-1128.82,20.0,'existing paid','new car',1274,31.64,<1,3,'female div/dep/mar',none,1,'real estate',37,none,own,1,'unskilled resident',1,yes,Good,5/26/1996,yes,0
+751,751,"Orange, CA",California,0.0,20.0,'existing paid','used car',5248,0.0,1<=X<4,1,'male single',none,0,car,26,none,own,1,skilled,1,yes,Good,5/27/1996,yes,2
+752,752,"Orange, CA",California,0.0,15.0,'existing paid','used car',3029,0.0,Unknown,2,'male single',none,2,car,33,none,own,1,skilled,1,yes,Good,5/28/1996,yes,2
+753,753,"Orange, CA",California,-1907.79,6.0,'existing paid',furniture/equipment,3234,0.0,>=7,2,'female div/dep/mar',none,1,'life insurance',49,Other,Other,1,skilled,1,yes,Bad,5/29/1996,yes,2
+754,754,"Orange, CA",California,-4959.02,18.0,'existing paid','new car',976,41.22,<1,1,'female div/dep/mar',none,2,car,23,none,own,1,'unskilled resident',1,no,Good,5/30/1996,no,0
+755,755,"Sacramento, CA",California,169.84,12.0,'existing paid',business,841,406.75,4<=X<7,0,'female div/dep/mar',none,4,'real estate',23,none,rent,1,'unskilled resident',1,yes,Good,5/31/1996,yes,0
+756,756,"Sacramento, CA",California,0.0,30.0,'critical/other existing credit',radio/tv,5771,0.0,4<=X<7,4,'female div/dep/mar',none,2,car,25,none,Other,2,Other,1,yes,Bad,6/1/1996,yes,2
+757,757,"San Bernardino, CA",California,0.0,20.0,'delayed previously',repairs,1555,0.0,>=7,4,'male single',none,4,'no known property',55,none,'for free',2,skilled,Unknown,Unknown,Good,6/2/1996,Unknown,0
+758,758,"San Bernardino, CA",California,-7700.17,24.0,'existing paid',Unknown,1285,0.0,4<=X<7,4,'female div/dep/mar',none,4,Other,32,none,rent,1,Other,Unknown,yes,Good,6/3/1996,yes,0
+759,759,"San Bernardino, CA",California,9099.65,6.0,'critical/other existing credit','new car',1299,98.73,1<=X<4,1,'male single',none,1,'real estate',31,none,Other,3,'unemp/unskilled non res',2,yes,Good,6/4/1996,yes,0
+760,760,"San Diego, CA",California,9437.28,15.0,'critical/other existing credit',radio/tv,1271,0.0,1<=X<4,3,'male single',none,0,'no known property',39,none,'for free',2,skilled,1,yes,Bad,6/5/1996,yes,0
+761,761,"San Diego, CA",California,0.0,24.0,'existing paid','new car',1393,0.0,1<=X<4,0,'male single',guarantor,2,'real estate',31,none,Other,1,skilled,1,no,Good,6/6/1996,no,0
+762,762,"San Diego, CA",California,-114.67,12.0,'critical/other existing credit','new car',691,15.15,>=7,4,'male single',none,3,'life insurance',35,none,Other,2,skilled,1,no,Bad,6/7/1996,no,0
+763,763,"San Diego, CA",California,0.0,15.0,'critical/other existing credit','new car',3234,0.0,>=7,1,Unknown,Unknown,4,car,59,none,own,1,skilled,1,yes,Bad,6/8/1996,yes,2
+764,764,"San Francisco, CA",California,-4560.48,18.0,'critical/other existing credit',furniture/equipment,2124,34.4,1<=X<4,4,'female div/dep/mar',none,4,'real estate',24,none,rent,2,skilled,1,yes,Good,6/9/1996,yes,0
+765,765,"San Joaquin, CA",California,-1694.38,12.0,'existing paid',radio/tv,2214,0.0,1<=X<4,4,'male single',none,3,'life insurance',24,none,own,1,'unskilled resident',1,yes,Good,6/10/1996,yes,0
+766,766,"San Joaquin, CA",California,0.0,21.0,'critical/other existing credit','new car',3234,0.0,Unknown,4,'male single',none,4,'no known property',30,none,'for free',1,'high qualif/self emp/mgmt',1,yes,Bad,6/11/1996,yes,2
+767,767,"San Luis Obispo, CA",California,0.0,24.0,'critical/other existing credit',Unknown,2463,0.0,4<=X<7,4,'male mar/wid',none,3,'life insurance',27,none,Other,2,Other,1,no,Bad,6/12/1996,no,0
+768,768,"San Mateo, CA",California,121.72,12.0,no credit history,radio/tv,3234,15.47,Unknown,3,Unknown,Unknown,3,'real estate',40,bank,own,2,'unskilled resident',1,yes,Good,6/13/1996,yes,2
+769,769,"San Mateo, CA",California,0.0,30.0,no credit history,furniture/equipment,3108,0.0,<1,2,'male div/sep',none,4,'life insurance',31,none,Other,1,'unskilled resident',1,no,Bad,6/14/1996,no,2
+770,770,"Santa Clara, CA",California,0.0,20.0,'existing paid','used car',2901,0.0,<1,1,'female div/dep/mar',Unknown,0,Other,31,none,rent,1,skilled,Unknown,yes,Good,6/15/1996,yes,2
+771,771,"Santa Clara, CA",California,95.13,12.0,'critical/other existing credit',furniture/equipment,3617,92.79,>=7,0,'male single',Unknown,4,Other,28,none,rent,3,skilled,1,Unknown,Good,6/16/1996,Unknown,2
+772,772,"Santa Clara, CA",California,0.0,12.0,'critical/other existing credit',Unknown,1655,0.0,>=7,2,'male single',none,4,'real estate',31,none,own,2,'unskilled resident',1,no,Good,6/17/1996,no,0
+773,773,"Solano, CA",California,-5367.96,24.0,'existing paid','used car',2812,0.0,>=7,2,'female div/dep/mar',none,4,'real estate',26,none,rent,1,skilled,1,yes,Good,6/18/1996,yes,2
+774,774,"Sonoma, CA",California,-1433.67,36.0,no credit history,education,8065,52.31,1<=X<4,3,'female div/dep/mar',none,2,'no known property',25,none,own,2,'high qualif/self emp/mgmt',1,yes,Bad,6/19/1996,yes,1
+775,775,"Stanislaus, CA",California,0.0,21.0,'critical/other existing credit','used car',3275,0.0,>=7,1,'male single',none,4,car,36,none,own,1,'high qualif/self emp/mgmt',1,yes,Good,6/20/1996,yes,2
+776,776,"Stanislaus, CA",California,0.0,24.0,'critical/other existing credit',radio/tv,2223,0.0,>=7,4,'male single',none,4,'life insurance',31,Other,own,2,skilled,1,no,Good,6/21/1996,no,0
+777,777,"Tulare, CA",California,4970.39,20.0,'critical/other existing credit','new car',1480,818.86,unemployed,2,'male single',Unknown,4,Other,31,Other,'for free',3,'unemp/unskilled non res',Unknown,no,Bad,6/22/1996,no,0
+778,778,"Ventura, CA",California,-7880.14,24.0,'existing paid','new car',3234,0.0,1<=X<4,4,'female div/dep/mar',none,0,'real estate',25,none,rent,1,skilled,1,yes,Good,6/23/1996,yes,2
+779,779,"Yolo, CA",California,0.0,36.0,'critical/other existing credit','new car',3535,0.0,4<=X<7,4,Unknown,none,4,car,37,none,own,2,skilled,1,yes,Good,6/24/1996,yes,2
+780,780,"Yolo, CA",California,-5787.14,18.0,'existing paid',radio/tv,3509,5.6,4<=X<7,0,'female div/dep/mar',guarantor,1,'real estate',25,none,own,1,skilled,1,no,Bad,6/25/1996,no,2
+781,781,"Adams, CO",Colorado,0.0,20.0,'critical/other existing credit','used car',5711,0.0,>=7,4,Unknown,none,0,car,38,none,own,2,Other,1,yes,Good,6/26/1996,yes,2
+782,782,"Logan, CO",Colorado,0.0,18.0,'existing paid',repairs,3872,0.0,unemployed,2,'female div/dep/mar',none,4,car,67,none,own,1,skilled,1,no,Bad,6/27/1996,no,2
+783,783,"Logan, CO",Colorado,143.98,39.0,'critical/other existing credit',radio/tv,4933,27.57,4<=X<7,2,'male single',guarantor,2,'real estate',25,none,own,2,skilled,1,no,Bad,6/28/1996,no,2
+784,784,"Denver, CO",Colorado,0.0,20.0,'critical/other existing credit','new car',1940,0.0,>=7,4,'male single',none,4,'real estate',60,none,own,1,skilled,1,yes,Good,6/29/1996,yes,0
+785,785,"Fairfield, CT",Connecticut,124.22,12.0,'no credits/all paid',retraining,1410,39.88,1<=X<4,2,'male single',none,2,'real estate',31,none,own,1,'unskilled resident',1,Unknown,Good,6/30/1996,Unknown,0
+786,786,"New Haven, CT",Connecticut,18.9,12.0,'existing paid','new car',836,197.77,<1,4,'female div/dep/mar',none,2,'life insurance',23,bank,own,1,'unskilled resident',1,no,Bad,7/1/1996,no,0
+787,787,District of Columbia,District of Columbia,92.6,20.0,'existing paid','used car',6468,0.0,unemployed,1,'male div/sep',none,4,'real estate',60,none,own,1,'high qualif/self emp/mgmt',1,no,Good,7/2/1996,no,2
+788,788,District of Columbia,District of Columbia,20.17,18.0,'existing paid',business,1941,9298.08,1<=X<4,4,'male single',none,2,'life insurance',35,none,own,1,'unskilled resident',1,yes,Good,7/3/1996,yes,0
+789,789,"New Castle, DE",Delaware,0.0,22.0,'existing paid',radio/tv,2675,0.0,>=7,3,Unknown,none,4,car,40,none,own,1,skilled,Unknown,no,Bad,7/4/1996,no,0
+790,790,"New Castle, DE",Delaware,0.0,48.0,no credit history,'used car',3234,0.0,Unknown,4,'male single',none,3,car,38,none,own,2,skilled,2,yes,Bad,7/5/1996,yes,2
+791,791,"Bay, FL",Florida,22.41,48.0,'delayed previously',education,3234,88.44,>=7,4,'male single',none,4,'no known property',50,none,'for free',1,skilled,1,yes,Good,7/6/1996,yes,2
+792,792,"Bay, FL",Florida,0.0,40.0,'critical/other existing credit',education,5998,0.0,1<=X<4,4,'male single',Unknown,3,'no known property',27,bank,own,1,Other,1,yes,Bad,7/7/1996,yes,2
+793,793,"Brevard, FL",Florida,49.35,21.0,'existing paid',Unknown,1188,39.92,>=7,2,'female div/dep/mar',none,4,'life insurance',31,none,own,1,skilled,2,yes,Good,7/8/1996,yes,0
+794,794,"Brevard, FL",Florida,0.0,24.0,'existing paid','used car',6313,0.0,>=7,0,'male single',none,4,car,41,none,own,1,'high qualif/self emp/mgmt',2,no,Bad,7/9/1996,no,2
+795,795,"Brevard, FL",Florida,0.0,20.0,'critical/other existing credit',furniture/equipment,1221,0.0,1<=X<4,1,'male mar/wid',none,2,'life insurance',27,none,own,2,skilled,1,Unknown,Good,7/10/1996,Unknown,0
+796,796,"Brevard, FL",Florida,5071.29,20.0,'existing paid',furniture/equipment,2892,40.12,Unknown,3,'male div/sep',none,4,'no known property',51,none,'for free',1,skilled,1,no,Good,7/11/1996,no,2
+797,797,"Broward, FL",Florida,0.0,24.0,'existing paid',furniture/equipment,3062,0.0,>=7,4,'male single',none,3,'no known property',32,none,rent,1,skilled,1,yes,Bad,7/12/1996,yes,2
+798,798,"Broward, FL",Florida,0.0,9.0,no credit history,furniture/equipment,2301,0.0,<1,2,Unknown,none,4,'life insurance',31,none,rent,1,skilled,1,no,Bad,7/13/1996,no,0
+799,799,"Broward, FL",Florida,-3171.02,18.0,'existing paid','used car',3234,0.0,>=7,1,'male single',none,4,'life insurance',51,Other,'for free',1,skilled,2,Unknown,Bad,7/14/1996,Unknown,2
+800,800,"Broward, FL",Florida,0.0,12.0,'critical/other existing credit',furniture/equipment,1258,0.0,<1,0,'female div/dep/mar',none,4,'life insurance',22,none,rent,2,'unskilled resident',1,no,Good,7/15/1996,no,0
+801,801,"Collier, FL",Florida,0.0,20.0,'delayed previously','new car',717,0.0,>=7,4,'male mar/wid',none,4,car,54,none,own,2,skilled,Unknown,yes,Good,7/16/1996,yes,0
+802,802,"Miami-Dade, FL",Florida,67.27,9.0,'existing paid','new car',3234,0.0,<1,0,'male single',none,2,'real estate',35,none,own,0,'unemp/unskilled non res',1,yes,Good,7/17/1996,yes,2
+803,803,"Miami-Dade, FL",Florida,0.0,24.0,'critical/other existing credit',education,3234,0.0,>=7,4,Unknown,none,4,'no known property',31,none,'for free',2,skilled,2,yes,Bad,7/18/1996,yes,2
+804,804,"Miami-Dade, FL",Florida,193.43,18.0,'critical/other existing credit',radio/tv,1795,34.86,>=7,3,'female div/dep/mar',guarantor,4,'real estate',48,bank,rent,0,'unskilled resident',1,no,Good,7/19/1996,no,0
+805,805,"Miami-Dade, FL",Florida,-8219.36,20.0,'critical/other existing credit',furniture/equipment,4272,94.81,>=7,1,Unknown,none,4,'life insurance',24,Other,own,2,skilled,1,no,Bad,7/20/1996,no,2
+806,806,"Miami-Dade, FL",Florida,0.0,12.0,no credit history,Unknown,976,0.0,>=7,4,'male single',Unknown,4,car,35,none,own,2,skilled,1,no,Bad,7/21/1996,no,0
+807,807,"Duval, FL",Florida,44.41,12.0,'existing paid','new car',7472,0.0,unemployed,1,'female div/dep/mar',none,2,'real estate',31,none,rent,1,'unemp/unskilled non res',1,yes,Good,7/22/1996,yes,1
+808,808,"Escambia, FL",Florida,-7911.06,36.0,no credit history,'new car',9271,10.91,4<=X<7,2,'male single',Unknown,1,car,24,none,own,1,skilled,1,no,Good,7/23/1996,no,1
+809,809,"Gadsden, FL",Florida,3.64,6.0,'existing paid',radio/tv,590,69.14,<1,3,Unknown,none,3,'real estate',26,none,own,1,'unskilled resident',1,Unknown,Good,7/24/1996,Unknown,0
+810,810,"Hillsborough, FL",Florida,0.0,12.0,'critical/other existing credit',radio/tv,930,0.0,>=7,4,'male single',none,4,'real estate',65,Other,own,4,skilled,1,no,Bad,7/25/1996,no,0
+811,811,"Hillsborough, FL",Florida,0.0,42.0,'all paid','used car',9283,0.0,unemployed,1,'male single',none,2,'no known property',55,bank,'for free',1,'high qualif/self emp/mgmt',1,yes,Good,7/26/1996,yes,1
+812,812,"Madison, FL",Florida,0.0,15.0,'no credits/all paid','new car',1778,0.0,<1,2,'female div/dep/mar',none,1,'real estate',26,none,rent,2,'unemp/unskilled non res',1,yes,Bad,7/27/1996,yes,0
+813,813,"Marion, FL",Florida,69.88,8.0,'existing paid',business,907,6.83,<1,3,'male mar/wid',none,2,'real estate',26,none,own,1,skilled,1,no,Good,7/28/1996,no,0
+814,814,"Marion, FL",Florida,98.29,6.0,'existing paid',radio/tv,484,82.59,4<=X<7,3,'male mar/wid',guarantor,3,'real estate',28,bank,own,1,'unskilled resident',Unknown,no,Bad,7/29/1996,no,0
+815,815,"Monroe, FL",Florida,-4383.35,36.0,'critical/other existing credit','used car',9629,80.0,4<=X<7,4,'male single',none,4,car,24,none,own,2,Other,1,no,Good,7/30/1996,no,1
+816,816,"Orange, FL",Florida,-6144.69,48.0,'existing paid','domestic appliance',3051,61.85,1<=X<4,3,'male single',none,0,car,54,none,own,1,skilled,1,no,Bad,7/31/1996,no,2
+817,817,"Palm Beach, FL",Florida,-5706.25,48.0,'existing paid','new car',3931,99.46,4<=X<7,0,'male single',Unknown,0,'no known property',46,none,'for free',1,skilled,2,no,Good,8/1/1996,no,2
+818,818,"Palm Beach, FL",Florida,28.13,36.0,'delayed previously','new car',7432,17.52,1<=X<4,0,'female div/dep/mar',none,2,'life insurance',54,Other,rent,1,skilled,Unknown,yes,Bad,8/2/1996,yes,1
+819,819,"Palm Beach, FL",Florida,0.0,6.0,'existing paid','domestic appliance',1338,0.0,1<=X<4,1,'male div/sep',none,4,'real estate',62,none,own,1,skilled,1,no,Bad,8/3/1996,no,0
+820,820,"Palm Beach, FL",Florida,0.0,6.0,no credit history,Unknown,1554,0.0,Unknown,0,'female div/dep/mar',none,2,car,24,none,Other,2,skilled,1,yes,Bad,8/4/1996,yes,0
+821,821,"Pasco, FL",Florida,0.0,36.0,'existing paid',other,15857,0.0,unemployed,2,'male div/sep','co applicant',3,car,43,none,own,0,'high qualif/self emp/mgmt',1,no,Good,8/5/1996,no,1
+822,822,"Pinellas, FL",Florida,-581.77,18.0,'existing paid',radio/tv,1345,54.46,1<=X<4,0,'male mar/wid',none,3,'real estate',26,bank,Other,1,Other,1,Unknown,Bad,8/6/1996,Unknown,0
+823,823,"Pinellas, FL",Florida,0.0,12.0,'existing paid',Unknown,1101,0.0,Unknown,3,'male mar/wid',none,2,'real estate',27,none,own,0,skilled,1,no,Good,8/7/1996,no,0
+824,824,"Pinellas, FL",Florida,0.0,12.0,'existing paid',radio/tv,3016,0.0,1<=X<4,3,'male mar/wid',none,1,car,24,none,own,1,skilled,1,Unknown,Good,8/8/1996,Unknown,2
+825,825,"Polk, FL",Florida,-8804.85,36.0,'existing paid',furniture/equipment,2712,21.59,>=7,2,'male single',none,2,'life insurance',41,bank,own,1,skilled,2,yes,Good,8/9/1996,yes,2
+826,826,"Polk, FL",Florida,-7039.13,8.0,'critical/other existing credit','new car',731,45.93,>=7,4,'male single',none,4,'real estate',31,none,own,2,Other,1,no,Bad,8/10/1996,no,0
+827,827,"Polk, FL",Florida,0.0,18.0,'critical/other existing credit',furniture/equipment,3780,0.0,<1,3,'male div/sep',none,2,car,35,none,own,2,'high qualif/self emp/mgmt',Unknown,no,Good,8/11/1996,no,2
+828,828,"Polk, FL",Florida,-6845.84,21.0,'critical/other existing credit','new car',1602,64.4,>=7,4,'male mar/wid',none,3,car,30,none,own,2,skilled,1,no,Good,8/12/1996,no,0
+829,829,"St. Lucie, FL",Florida,-4028.09,18.0,'critical/other existing credit','new car',3966,89.91,Unknown,1,'female div/dep/mar',none,4,'real estate',33,Other,rent,3,skilled,1,no,Good,8/13/1996,no,2
+830,830,"Seminole, FL",Florida,0.0,18.0,no credit history,business,4165,0.0,1<=X<4,2,'male single',none,2,car,36,stores,Other,2,skilled,2,no,Good,8/14/1996,no,2
+831,831,"Volusia, FL",Florida,-2327.2,36.0,'existing paid','used car',8335,0.0,>=7,3,'male single',none,4,'no known property',47,none,'for free',1,skilled,1,yes,Good,8/15/1996,yes,1
+832,832,"Baker, GA",Georgia,45.9,48.0,'delayed previously',business,6681,0.0,1<=X<4,4,'male single',none,4,'no known property',38,none,'for free',1,skilled,2,yes,Bad,8/16/1996,yes,2
+833,833,"Baldwin, GA",Georgia,0.0,24.0,no credit history,business,2375,0.0,1<=X<4,4,'male single',none,2,car,31,Other,own,2,skilled,2,Unknown,Bad,8/17/1996,Unknown,0
+834,834,"Chatham, GA",Georgia,-9116.85,18.0,'existing paid','new car',1216,0.0,<1,4,'female div/dep/mar',none,3,car,23,none,rent,1,skilled,Unknown,yes,Good,8/18/1996,yes,0
+835,835,"Clayton, GA",Georgia,-6919.96,45.0,'no credits/all paid',business,11816,80.7,>=7,2,'male single',Unknown,4,car,29,Other,rent,2,skilled,1,yes,Good,8/19/1996,yes,1
+836,836,"Cobb, GA",Georgia,94.26,24.0,'existing paid',radio/tv,3234,0.0,>=7,2,'female div/dep/mar',none,0,car,42,none,own,1,skilled,1,yes,Good,8/20/1996,yes,2
+837,837,"De Kalb, GA",Georgia,5440.88,15.0,'existing paid',radio/tv,2327,94.96,<1,2,'female div/dep/mar',none,3,'real estate',25,none,own,1,'unskilled resident',1,no,Good,8/21/1996,no,0
+838,838,"De Kalb, GA",Georgia,-6123.97,12.0,'no credits/all paid','new car',1082,0.0,1<=X<4,4,'male single',none,4,Other,48,bank,own,2,Other,1,yes,Good,8/22/1996,yes,0
+839,839,"Elbert, GA",Georgia,0.0,12.0,'existing paid',Unknown,886,0.0,1<=X<4,4,'female div/dep/mar',Unknown,2,car,21,Other,own,0,skilled,1,yes,Good,8/23/1996,yes,0
+840,840,"Floyd, GA",Georgia,0.0,4.0,'existing paid',furniture/equipment,601,0.0,<1,1,'female div/dep/mar',Unknown,3,'real estate',23,Other,rent,1,'unskilled resident',2,no,Bad,8/24/1996,no,0
+841,841,"Fulton, GA",Georgia,-8713.84,20.0,'critical/other existing credit','used car',3234,71.17,>=7,4,'male single',none,4,'life insurance',63,none,own,2,skilled,Unknown,no,Bad,8/25/1996,no,2
+842,842,"Harris, GA",Georgia,0.0,24.0,'critical/other existing credit',radio/tv,2611,0.0,>=7,4,'male mar/wid','co applicant',0,'real estate',46,none,own,2,skilled,1,no,Good,8/26/1996,no,0
+843,843,"Houston, GA",Georgia,-2075.66,36.0,'existing paid',furniture/equipment,5179,28.73,4<=X<7,4,'male single',none,2,'life insurance',29,none,own,1,skilled,Unknown,no,Good,8/27/1996,no,2
+844,844,"Muscogee, GA",Georgia,0.0,21.0,'delayed previously','used car',2993,0.0,1<=X<4,3,'male single',none,2,'real estate',28,stores,own,2,'unskilled resident',1,yes,Good,8/28/1996,yes,2
+845,845,"Pike, GA",Georgia,0.0,18.0,'existing paid',repairs,1943,0.0,Unknown,4,'female div/dep/mar',none,4,'real estate',23,none,Other,1,skilled,1,yes,Good,8/29/1996,yes,0
+846,846,"Richmond, GA",Georgia,0.0,24.0,'all paid',business,1559,0.0,4<=X<7,4,'male single',none,4,car,50,bank,Other,1,skilled,1,no,Good,8/30/1996,no,0
+847,847,"Spalding, GA",Georgia,0.0,18.0,'existing paid',furniture/equipment,3422,0.0,>=7,4,'male single',none,4,'life insurance',47,bank,own,0,skilled,2,Unknown,Good,8/31/1996,Unknown,2
+848,848,"Terrell, GA",Georgia,164.54,21.0,no credit history,furniture/equipment,3976,0.0,4<=X<7,2,Unknown,none,3,Other,35,none,own,1,skilled,1,no,Good,9/1/1996,no,2
+849,849,"Toombs, GA",Georgia,0.0,18.0,'existing paid','new car',6761,0.0,1<=X<4,2,'male single',none,4,car,68,none,rent,2,skilled,1,yes,Good,9/2/1996,yes,1
+850,850,"Washington, GA",Georgia,0.0,20.0,no credit history,'new car',1249,0.0,<1,0,'male mar/wid',none,2,'real estate',28,none,own,1,skilled,1,yes,Bad,9/3/1996,yes,0
+851,851,"Fulton, GA",Georgia,-5400.65,9.0,'existing paid',radio/tv,1364,27.79,4<=X<7,0,'male single',none,4,'real estate',59,none,own,1,skilled,1,no,Good,9/4/1996,no,0
+852,852,"Honolulu, HI",Hawaii,-9276.51,12.0,'existing paid',Unknown,709,16.33,>=7,4,'male single',none,4,'real estate',57,stores,own,1,'unskilled resident',1,Unknown,Good,9/5/1996,Unknown,0
+853,853,"Boone, IA",Iowa,-2942.19,20.0,'critical/other existing credit','new car',2235,1.49,1<=X<4,4,'male mar/wid',guarantor,2,'life insurance',31,bank,rent,2,skilled,1,no,Good,9/6/1996,no,0
+854,854,"Henry, IA",Iowa,0.0,24.0,'critical/other existing credit','used car',4042,0.0,4<=X<7,3,'male single',none,4,'life insurance',43,none,own,2,skilled,1,no,Good,9/7/1996,no,2
+855,855,"Johnson, IA",Iowa,0.0,15.0,'critical/other existing credit',radio/tv,1471,0.0,1<=X<4,4,'male single',none,4,'no known property',35,none,'for free',2,skilled,1,yes,Bad,9/8/1996,yes,0
+856,856,"Linn, IA",Iowa,-4157.57,18.0,'all paid',Unknown,1442,94.88,4<=X<7,4,'male single',none,4,Other,32,none,'for free',2,'unskilled resident',2,no,Good,9/9/1996,no,0
+857,857,"Linn, IA",Iowa,0.0,36.0,'delayed previously','new car',10875,0.0,>=7,2,'male single',none,2,car,45,Other,own,2,skilled,2,no,Bad,9/10/1996,no,1
+858,858,"Marshall, IA",Iowa,0.0,24.0,'existing paid','new car',1474,0.0,<1,4,'male mar/wid',none,0,'real estate',33,none,own,1,skilled,1,no,Good,9/11/1996,no,0
+859,859,"Pottawattamie, IA",Iowa,0.0,20.0,'existing paid',retraining,894,0.0,4<=X<7,4,'female div/dep/mar',none,3,'life insurance',40,none,own,1,skilled,1,yes,Bad,9/12/1996,yes,0
+860,860,"Canyon, ID",Idaho,0.0,20.0,'critical/other existing credit',furniture/equipment,3343,0.0,1<=X<4,4,Unknown,none,2,'no known property',31,Other,'for free',1,skilled,Unknown,yes,Good,9/13/1996,yes,2
+861,861,"Canyon, ID",Idaho,-4513.12,15.0,'existing paid','new car',3959,18.68,1<=X<4,3,'female div/dep/mar',none,2,Other,29,none,own,1,skilled,1,no,Bad,9/14/1996,no,2
+862,862,"Adams, IL",Illinois,0.0,9.0,'existing paid','new car',3577,0.0,1<=X<4,1,'male single',guarantor,2,'real estate',26,none,rent,1,skilled,2,no,Bad,9/15/1996,no,2
+863,863,"Champaign, IL",Illinois,0.0,24.0,'critical/other existing credit',Unknown,5804,0.0,1<=X<4,4,'male single',none,2,'real estate',31,none,own,2,skilled,Unknown,Unknown,Bad,9/16/1996,Unknown,2
+864,864,"Cook, IL",Illinois,0.0,18.0,'delayed previously',business,2169,0.0,1<=X<4,4,'male mar/wid',none,2,car,31,none,own,1,skilled,1,no,Good,9/17/1996,no,0
+865,865,"Cook, IL",Illinois,-2638.38,24.0,'existing paid',radio/tv,2439,0.0,<1,0,'female div/dep/mar',none,0,'real estate',35,none,own,1,Other,1,Unknown,Good,9/18/1996,Unknown,0
+866,866,"Chicago, IL",Illinois,0.0,27.0,'critical/other existing credit',furniture/equipment,4526,0.0,<1,4,'male single',none,2,'real estate',32,stores,own,2,'unskilled resident',2,no,Bad,9/19/1996,no,2
+867,867,"Cook, IL",Illinois,0.0,10.0,'existing paid',furniture/equipment,2210,0.0,Unknown,2,'male single',Unknown,2,'real estate',25,Other,Other,1,'unskilled resident',1,no,Good,9/20/1996,no,0
+868,868,"Cook, IL",Illinois,0.0,15.0,no credit history,furniture/equipment,2221,0.0,1<=X<4,2,'female div/dep/mar',none,4,car,20,none,rent,1,skilled,1,no,Bad,9/21/1996,no,0
+869,869,"Chicago, IL",Illinois,-8906.05,18.0,'existing paid',radio/tv,2389,88.27,<1,4,Unknown,none,1,car,27,stores,own,1,skilled,1,yes,Bad,9/22/1996,yes,0
+870,870,"Cook, IL",Illinois,0.0,12.0,'critical/other existing credit',furniture/equipment,3331,0.0,>=7,2,'male single',none,4,'life insurance',42,stores,own,1,skilled,1,Unknown,Bad,9/23/1996,Unknown,2
+871,871,"Chicago, IL",Illinois,0.0,36.0,'existing paid',business,7409,0.0,>=7,3,'male single',none,2,Other,37,none,own,2,skilled,1,yes,Good,9/24/1996,yes,1
+872,872,"DuPage, IL",Illinois,-542.44,12.0,'existing paid',furniture/equipment,652,94.47,>=7,4,'female div/dep/mar',none,4,'life insurance',24,none,Other,1,skilled,1,yes,Bad,9/25/1996,yes,0
+873,873,"DuPage, IL",Illinois,0.0,36.0,'delayed previously',furniture/equipment,3234,0.0,4<=X<7,2,'female div/dep/mar',none,4,car,40,none,Other,2,skilled,Unknown,no,Bad,9/26/1996,no,2
+874,874,"Henry, IL",Illinois,6044.46,6.0,'critical/other existing credit','new car',1343,18.82,>=7,1,'male single',none,4,'real estate',46,none,own,2,skilled,2,no,Bad,9/27/1996,no,0
+875,875,"Kane, IL",Illinois,-34.79,24.0,'critical/other existing credit',business,3234,146.38,4<=X<7,0,'male single',none,0,'real estate',26,none,own,2,skilled,1,yes,Good,9/28/1996,yes,2
+876,876,"Kane, IL",Illinois,0.0,15.0,'existing paid','domestic appliance',874,0.0,<1,4,'female div/dep/mar',none,1,'real estate',24,none,own,1,skilled,1,no,Good,9/29/1996,no,0
+877,877,"Kankakee, IL",Illinois,-7372.45,12.0,'existing paid',furniture/equipment,3234,0.0,1<=X<4,2,'male single','co applicant',2,'life insurance',29,none,own,1,'unskilled resident',2,yes,Bad,9/30/1996,yes,2
+878,878,"Lake, IL",Illinois,51.27,11.0,'critical/other existing credit','new car',1322,7453.33,1<=X<4,4,'female div/dep/mar',none,0,car,40,none,Other,2,skilled,1,no,Good,10/1/1996,no,0
+879,879,"McLean, IL",Illinois,-974.0,18.0,'all paid',radio/tv,1940,65.2,<1,3,'male single','co applicant',4,'no known property',36,bank,'for free',1,'high qualif/self emp/mgmt',1,no,Bad,10/2/1996,no,0
+880,880,"Macon, IL",Illinois,0.0,36.0,'existing paid',radio/tv,3595,0.0,>=7,4,'male single',none,2,car,28,none,own,1,skilled,1,no,Good,10/3/1996,no,2
+881,881,"Madison, IL",Illinois,-8311.39,9.0,'existing paid','new car',1422,84.41,<1,3,'male single',none,2,'no known property',27,none,'for free',0,Other,1,yes,Good,10/4/1996,yes,0
+882,882,"Madison, IL",Illinois,0.0,30.0,'critical/other existing credit',radio/tv,3234,0.0,4<=X<7,2,'male single',none,3,'life insurance',36,none,own,2,skilled,1,no,Good,10/5/1996,no,2
+883,883,"St. Clair, IL",Illinois,0.0,24.0,'existing paid','used car',7814,0.0,4<=X<7,3,'male single',none,3,car,38,none,own,1,Other,1,Unknown,Good,10/6/1996,Unknown,1
+884,884,"St. Clair, IL",Illinois,0.0,24.0,'existing paid','used car',9277,0.0,1<=X<4,2,'male div/sep',none,4,'no known property',48,none,'for free',1,skilled,1,yes,Good,10/7/1996,yes,1
+885,885,"St. Clair, IL",Illinois,0.0,30.0,'critical/other existing credit','new car',2181,0.0,>=7,4,'male single',none,4,'real estate',36,none,own,2,skilled,1,no,Bad,10/8/1996,no,0
+886,886,"Sangamon, IL",Illinois,0.0,18.0,'critical/other existing credit',radio/tv,1098,0.0,unemployed,4,'female div/dep/mar',none,4,car,65,none,own,0,'unemp/unskilled non res',1,yes,Good,10/9/1996,yes,0
+887,887,"Vermilion, IL",Illinois,39.31,24.0,'existing paid',Unknown,4057,16.75,4<=X<7,3,'male div/sep',none,3,car,31,none,own,0,skilled,Unknown,no,Bad,10/10/1996,no,2
+888,888,"Winnebago, IL",Illinois,-5589.96,12.0,'existing paid',Unknown,795,12.55,<1,4,'female div/dep/mar',none,4,'life insurance',53,none,own,1,skilled,1,yes,Bad,10/11/1996,yes,0
+889,889,"Cook, IL",Illinois,140.73,24.0,'critical/other existing credit',Unknown,2825,0.0,Unknown,4,'male single',none,3,Other,34,none,own,2,skilled,2,yes,Bad,10/12/1996,yes,2
+890,890,"Daviess, IN",Indiana,0.0,20.0,'existing paid',Unknown,15672,0.0,1<=X<4,2,'male single',Unknown,2,car,23,none,own,1,skilled,1,yes,Bad,10/13/1996,yes,1
+891,891,"Daviess, IN",Indiana,0.0,36.0,'critical/other existing credit','new car',6614,0.0,>=7,4,'male single',none,4,car,34,none,own,2,'high qualif/self emp/mgmt',1,Unknown,Good,10/14/1996,Unknown,2
+892,892,"Elkhart, IN",Indiana,0.0,28.0,'all paid',Unknown,7824,0.0,<1,3,'male single',guarantor,4,'real estate',40,bank,rent,2,skilled,2,yes,Good,10/15/1996,yes,1
+893,893,"Floyd, IN",Indiana,-7869.21,27.0,'critical/other existing credit',business,2442,78.37,>=7,4,'male single',none,4,car,43,stores,own,0,'high qualif/self emp/mgmt',2,yes,Good,10/16/1996,yes,0
+894,894,"Lake, IN",Indiana,0.0,15.0,'critical/other existing credit',radio/tv,1829,0.0,>=7,4,'male single',none,0,car,31,none,Other,2,skilled,1,no,Bad,10/17/1996,no,0
+895,895,"Monroe, IN",Indiana,-9686.49,12.0,'critical/other existing credit','new car',2171,80.14,1<=X<4,4,'male single',none,4,'life insurance',38,bank,own,2,'unskilled resident',1,yes,Bad,10/18/1996,yes,0
+896,896,"Noble, IN",Indiana,71.39,36.0,'critical/other existing credit','used car',5800,44.36,1<=X<4,3,'male single',none,4,car,34,none,own,2,skilled,1,yes,Bad,10/19/1996,yes,2
+897,897,"Parke, IN",Indiana,0.0,18.0,'critical/other existing credit',radio/tv,1169,0.0,1<=X<4,4,Unknown,none,3,'life insurance',29,none,own,2,skilled,1,yes,Bad,10/20/1996,yes,0
+898,898,"Parke, IN",Indiana,0.0,36.0,no credit history,'used car',8947,0.0,Unknown,3,'male single',none,0,car,31,stores,own,0,'high qualif/self emp/mgmt',2,no,Good,10/21/1996,no,1
+899,899,"Parke, IN",Indiana,-3213.79,21.0,no credit history,radio/tv,2606,25.37,<1,4,'female div/dep/mar',Unknown,4,Other,28,none,rent,1,'high qualif/self emp/mgmt',1,no,Bad,10/22/1996,no,0
+900,900,"Parke, IN",Indiana,0.0,12.0,'critical/other existing credit',Unknown,3234,0.0,Unknown,3,'female div/dep/mar',none,2,'life insurance',35,none,Other,1,skilled,1,yes,Good,10/23/1996,yes,2
+901,901,"St. Joseph, IN",Indiana,0.0,15.0,'existing paid',Unknown,2186,0.0,4<=X<7,1,Unknown,none,4,'real estate',31,bank,rent,1,'unskilled resident',1,yes,Bad,10/24/1996,yes,0
+902,902,"St. Joseph, IN",Indiana,-5178.11,18.0,'existing paid',furniture/equipment,4153,65.95,1<=X<4,2,Unknown,'co applicant',3,car,42,none,Other,1,skilled,1,no,Good,10/25/1996,no,2
+903,903,"Tipton, IN",Indiana,-9384.89,20.0,'critical/other existing credit','new car',2625,25.0,>=7,2,'male single',guarantor,4,'life insurance',43,bank,rent,1,Other,1,no,Good,10/26/1996,no,0
+904,904,"Marion, IN",Indiana,0.0,20.0,'critical/other existing credit','new car',3485,0.0,<1,2,'male div/sep',none,4,'real estate',44,none,own,2,skilled,1,no,Bad,10/27/1996,no,2
+905,905,"Seward, KS",Kansas,0.0,20.0,'critical/other existing credit','used car',3234,0.0,>=7,2,'male single',none,4,Other,42,Other,Other,2,skilled,1,yes,Good,10/28/1996,yes,2
+906,906,"Stanton, KS",Kansas,0.0,15.0,'existing paid',radio/tv,1386,0.0,1<=X<4,4,'male mar/wid',Unknown,2,'real estate',40,none,rent,0,skilled,1,no,Good,10/29/1996,no,0
+907,907,"Stanton, KS",Kansas,0.0,24.0,'existing paid',radio/tv,3234,0.0,>=7,4,'male single',none,1,'real estate',36,none,own,1,'high qualif/self emp/mgmt',1,yes,Bad,10/30/1996,yes,2
+908,908,"Wyandotte, KS",Kansas,-4424.42,20.0,no credit history,radio/tv,1107,65.46,1<=X<4,2,'male single',none,2,'real estate',20,none,rent,1,'high qualif/self emp/mgmt',2,no,Good,10/31/1996,no,0
+909,909,"Anderson, KY",Kentucky,-8003.56,21.0,'existing paid','new car',3763,0.0,4<=X<7,2,'male single','co applicant',2,'real estate',24,none,own,1,'unskilled resident',1,no,Good,11/1/1996,no,2
+910,910,"Barren, KY",Kentucky,124.56,36.0,'existing paid',education,3711,0.0,1<=X<4,2,'male mar/wid',none,2,car,27,none,own,1,skilled,1,yes,Good,11/2/1996,yes,2
+911,911,"Bell, KY",Kentucky,0.0,15.0,'delayed previously','used car',3594,0.0,<1,1,'female div/dep/mar',none,2,'life insurance',31,none,own,2,'unskilled resident',1,no,Good,11/3/1996,no,2
+912,912,"Boone, KY",Kentucky,152.88,9.0,'existing paid','new car',3195,0.0,1<=X<4,1,'female div/dep/mar',none,2,'real estate',33,none,own,1,'unskilled resident',1,no,Bad,11/4/1996,no,2
+913,913,"Boone, KY",Kentucky,0.0,36.0,'delayed previously',radio/tv,4454,0.0,1<=X<4,4,'female div/dep/mar',none,4,'real estate',34,none,own,2,skilled,1,no,Bad,11/5/1996,no,2
+914,914,"Bourbon, KY",Kentucky,53.13,20.0,'critical/other existing credit',furniture/equipment,4736,73.55,<1,2,Unknown,none,4,car,25,bank,Other,1,'unskilled resident',1,yes,Good,11/6/1996,yes,2
+915,915,"Breathitt, KY",Kentucky,136.67,30.0,no credit history,radio/tv,2991,0.0,>=7,0,'female div/dep/mar',none,4,car,25,none,own,1,skilled,1,yes,Bad,11/7/1996,yes,2
+916,916,"Bullitt, KY",Kentucky,0.0,11.0,'existing paid',business,2142,0.0,>=7,1,'male div/sep',none,2,'real estate',28,none,Other,1,Other,1,yes,Good,11/8/1996,yes,0
+917,917,"Christian, KY",Kentucky,0.0,24.0,'all paid',business,3161,0.0,1<=X<4,4,'male single',none,2,Other,31,none,rent,1,skilled,1,yes,Bad,11/9/1996,yes,2
+918,918,"Clark, KY",Kentucky,0.0,48.0,'no credits/all paid',other,18424,0.0,1<=X<4,1,'female div/dep/mar',none,2,'life insurance',32,bank,own,1,'high qualif/self emp/mgmt',Unknown,yes,Good,11/10/1996,yes,1
+919,919,"Daviess, KY",Kentucky,0.0,20.0,'existing paid','used car',2848,0.0,1<=X<4,1,'male single','co applicant',2,'real estate',32,none,own,1,skilled,2,no,Bad,11/11/1996,no,2
+920,920,"Fayette, KY",Kentucky,-2248.12,6.0,'existing paid','new car',14896,47.22,>=7,1,'male single',none,4,'no known property',68,bank,own,1,'high qualif/self emp/mgmt',1,no,Good,11/12/1996,no,1
+921,921,"Harlan, KY",Kentucky,-9881.63,24.0,'existing paid',furniture/equipment,2359,465.33,unemployed,0,'male div/sep',none,1,'life insurance',33,none,own,1,skilled,Unknown,Unknown,Good,11/13/1996,Unknown,0
+922,922,"Jefferson, KY",Kentucky,-5723.26,24.0,'existing paid',furniture/equipment,3345,58.66,>=7,4,Unknown,none,2,'life insurance',39,none,rent,1,'high qualif/self emp/mgmt',1,yes,Good,11/14/1996,yes,2
+923,923,"Jefferson, KY",Kentucky,0.0,20.0,'critical/other existing credit',furniture/equipment,1817,0.0,1<=X<4,4,'female div/dep/mar',none,2,'no known property',28,none,own,2,Other,1,no,Bad,11/15/1996,no,0
+924,924,"Knott, KY",Kentucky,0.0,20.0,'delayed previously',radio/tv,12749,0.0,4<=X<7,4,'male single',none,1,car,37,none,own,1,Other,1,no,Bad,11/16/1996,no,1
+925,925,"Knox, KY",Kentucky,-5558.63,9.0,'existing paid',radio/tv,1366,8.58,<1,3,'female div/dep/mar',none,4,'life insurance',22,none,rent,1,skilled,1,yes,Good,11/17/1996,yes,0
+926,926,"Larue, KY",Kentucky,50.65,12.0,'existing paid','new car',2002,78.56,4<=X<7,3,Unknown,none,4,'life insurance',30,none,rent,1,skilled,2,no,Bad,11/18/1996,no,0
+927,927,"Logan, KY",Kentucky,-860.04,24.0,'all paid',furniture/equipment,6872,0.0,<1,2,'male div/sep',none,1,'life insurance',31,bank,own,1,skilled,1,no,Bad,11/19/1996,no,1
+928,928,"Madison, KY",Kentucky,-493.93,12.0,'all paid',Unknown,697,41.84,<1,4,'male single',Unknown,2,car,46,bank,own,2,skilled,1,yes,Bad,11/20/1996,yes,0
+929,929,"Marion, KY",Kentucky,-139.76,18.0,'critical/other existing credit',furniture/equipment,1049,44.33,<1,4,Unknown,none,4,'life insurance',21,none,rent,1,skilled,1,Unknown,Good,11/21/1996,Unknown,0
+930,930,"Owen, KY",Kentucky,-6957.68,20.0,'existing paid','used car',10297,96.63,4<=X<7,4,'male single',none,4,'no known property',39,stores,'for free',0,skilled,2,yes,Bad,11/22/1996,yes,1
+931,931,"Perry, KY",Kentucky,0.0,20.0,'existing paid',radio/tv,1867,0.0,>=7,0,'male single',none,4,car,58,none,own,0,skilled,1,yes,Good,11/23/1996,yes,0
+932,932,"Rockcastle, KY",Kentucky,-6014.9,12.0,'delayed previously','new car',3234,77.78,1<=X<4,4,'male single',none,2,'real estate',43,none,own,2,Other,2,no,Good,11/24/1996,no,2
+933,933,"Taylor, KY",Kentucky,-6433.26,24.0,'existing paid',furniture/equipment,3234,49.11,<1,4,'male single','co applicant',1,'life insurance',24,Other,Other,1,'unskilled resident',1,no,Bad,11/25/1996,no,2
+934,934,"Trigg, KY",Kentucky,76.55,9.0,'existing paid',radio/tv,1670,11.79,<1,4,'female div/dep/mar',none,2,car,22,none,own,1,skilled,1,Unknown,Bad,11/26/1996,Unknown,0
+935,935,"Whitley, KY",Kentucky,0.0,9.0,'critical/other existing credit','new car',1224,0.0,1<=X<4,3,'male single',none,1,'real estate',30,none,own,2,skilled,1,Unknown,Good,11/27/1996,Unknown,0
+936,936,"Bossier, LA",Louisiana,0.0,12.0,'critical/other existing credit',Unknown,3234,0.0,>=7,4,'male single',none,4,'life insurance',42,none,own,0,skilled,2,no,Good,11/28/1996,no,2
+937,937,"Caddo, LA",Louisiana,-7689.68,20.0,'existing paid',Unknown,1498,54.57,1<=X<4,4,'female div/dep/mar',Unknown,1,car,23,bank,own,1,skilled,1,yes,Good,11/29/1996,yes,0
+938,938,"Claiborne, LA",Louisiana,152.56,30.0,'delayed previously',radio/tv,1919,239.05,<1,0,'male single',none,3,'no known property',30,Other,Other,2,'high qualif/self emp/mgmt',1,Unknown,Bad,11/30/1996,Unknown,0
+939,939,"Concordia, LA",Louisiana,6883.16,9.0,'existing paid',radio/tv,745,54.04,1<=X<4,3,'female div/dep/mar',none,2,Other,28,none,Other,1,'unskilled resident',1,yes,Good,12/1/1996,yes,0
+940,940,"East Carroll, LA",Louisiana,63.46,6.0,'existing paid',radio/tv,2063,82.56,<1,4,Unknown,none,3,car,30,none,rent,1,'high qualif/self emp/mgmt',1,yes,Good,12/2/1996,yes,0
+941,941,"Jefferson, LA",Louisiana,150.94,60.0,'existing paid',Unknown,6288,77.15,1<=X<4,4,'male single',none,4,Other,42,none,'for free',1,skilled,1,yes,Bad,12/3/1996,yes,2
+942,942,"Lafourche, LA",Louisiana,0.0,24.0,'critical/other existing credit','used car',6842,0.0,1<=X<4,0,'male single',none,4,'life insurance',31,none,Other,2,Other,2,yes,Bad,12/4/1996,yes,1
+943,943,"Rapides, LA",Louisiana,0.0,12.0,'existing paid','new car',3527,0.0,<1,2,'male single',none,3,'life insurance',31,none,own,1,'high qualif/self emp/mgmt',2,yes,Bad,12/5/1996,yes,2
+944,944,"Red River, LA",Louisiana,0.0,10.0,'existing paid','new car',1546,0.0,1<=X<4,0,Unknown,none,2,'real estate',31,none,own,1,'unskilled resident',2,yes,Good,12/6/1996,yes,0
+945,945,"Richland, LA",Louisiana,0.0,24.0,no credit history,furniture/equipment,929,0.0,4<=X<7,4,'male single',none,2,car,31,stores,own,1,skilled,1,no,Good,12/7/1996,no,0
+946,946,"St. Charles, LA",Louisiana,0.0,4.0,'critical/other existing credit','new car',1455,0.0,4<=X<7,2,'male single',none,0,'real estate',42,none,own,3,'unskilled resident',2,no,Good,12/8/1996,no,0
+947,947,"St. John the Baptist, LA",Louisiana,-6930.31,15.0,'existing paid',furniture/equipment,3234,22.67,<1,4,'female div/dep/mar',Unknown,1,'life insurance',46,none,rent,0,skilled,1,yes,Good,12/9/1996,yes,2
+948,948,"St. Martin, LA",Louisiana,68.8,48.0,'no credits/all paid','new car',8358,586.68,<1,1,'female div/dep/mar',none,1,Other,30,none,own,2,skilled,Unknown,yes,Good,12/10/1996,yes,1
+949,949,"St. Martin, LA",Louisiana,-1377.54,24.0,'all paid',furniture/equipment,3349,672.43,<1,4,'male single',Unknown,4,'no known property',30,none,'for free',1,skilled,2,no,Good,12/11/1996,no,2
+950,950,"St. Tammany, LA",Louisiana,0.0,12.0,'existing paid',Unknown,2859,0.0,unemployed,4,'male single',none,4,'no known property',31,none,own,1,'high qualif/self emp/mgmt',1,Unknown,Good,12/12/1996,Unknown,2
+951,951,"Tangipahoa, LA",Louisiana,0.0,18.0,'existing paid',furniture/equipment,1533,0.0,<1,4,'male mar/wid','co applicant',1,'life insurance',31,none,own,1,'unskilled resident',2,no,Good,12/13/1996,no,0
+952,952,"Terrebonne, LA",Louisiana,0.0,24.0,'existing paid',radio/tv,3621,0.0,Unknown,2,'male single',Unknown,4,car,31,none,own,2,skilled,1,Unknown,Good,12/14/1996,Unknown,2
+953,953,"Union, LA",Louisiana,111.5,18.0,'critical/other existing credit',business,3590,14.04,unemployed,3,'male mar/wid',none,3,car,40,none,own,3,'unemp/unskilled non res',2,yes,Bad,12/15/1996,yes,2
+954,954,"Vernon, LA",Louisiana,-4965.47,36.0,'delayed previously',business,2145,47.97,4<=X<7,2,'male single',none,1,car,24,none,own,2,Other,1,no,Good,12/16/1996,no,0
+955,955,"Washington, LA",Louisiana,0.0,24.0,no credit history,Unknown,4113,0.0,Unknown,0,'female div/dep/mar',none,4,Other,28,none,rent,1,skilled,1,yes,Bad,12/17/1996,yes,2
+956,956,"Orleans, LA",Louisiana,0.0,36.0,'existing paid',furniture/equipment,10974,0.0,unemployed,0,'female div/dep/mar',none,2,car,26,none,own,2,'high qualif/self emp/mgmt',Unknown,no,Good,12/18/1996,no,1
+957,957,"Barnstable, MA",Massachusetts,-8272.23,12.0,'existing paid','new car',1893,95.08,1<=X<4,4,'female div/dep/mar',guarantor,4,'life insurance',29,none,own,0,skilled,1,yes,Good,12/19/1996,yes,0
+958,958,"Berkshire, MA",Massachusetts,-6700.86,24.0,'critical/other existing credit',radio/tv,1231,2176.54,>=7,4,'female div/dep/mar',none,4,'life insurance',57,none,rent,2,'high qualif/self emp/mgmt',1,Unknown,Good,12/20/1996,Unknown,0
+959,959,"Bristol, MA",Massachusetts,3586.3,30.0,'critical/other existing credit',radio/tv,3656,0.0,>=7,4,Unknown,none,4,'life insurance',49,stores,Other,2,'unskilled resident',1,yes,Bad,12/21/1996,yes,2
+960,960,"Essex, MA",Massachusetts,193.78,9.0,'critical/other existing credit',radio/tv,1154,1.28,>=7,2,'male single',none,4,'real estate',31,none,own,3,'unskilled resident',1,no,Good,12/22/1996,no,0
+961,961,"Hampden, MA",Massachusetts,-6792.8,28.0,'existing paid','new car',4006,29.47,Unknown,3,'male single',none,2,car,45,none,own,1,'unskilled resident',1,no,Bad,12/23/1996,no,2
+962,962,"Hampden, MA",Massachusetts,169.67,24.0,'existing paid',Unknown,3069,286.74,>=7,4,'male single',none,4,'no known property',30,Other,'for free',1,skilled,1,yes,Bad,12/24/1996,yes,2
+963,963,"Middlesex, MA",Massachusetts,0.0,6.0,no credit history,radio/tv,1740,0.0,>=7,2,'male mar/wid',none,2,'real estate',30,none,rent,2,skilled,1,yes,Good,12/25/1996,yes,0
+964,964,"Middlesex, MA",Massachusetts,192.9,21.0,'delayed previously','new car',2353,73.52,1<=X<4,1,'male div/sep',none,4,'life insurance',47,none,own,2,skilled,1,no,Good,12/26/1996,no,0
+965,965,"Norfolk, MA",Massachusetts,0.0,15.0,'existing paid','new car',3556,0.0,1<=X<4,3,'male single',none,2,'no known property',29,none,own,1,skilled,Unknown,no,Good,12/27/1996,no,2
+966,966,"Norfolk, MA",Massachusetts,0.0,24.0,'existing paid',radio/tv,2397,0.0,>=7,3,'male single',none,2,car,35,Other,own,2,skilled,1,no,Good,12/28/1996,no,0
+967,967,"Norfolk, MA",Massachusetts,0.0,6.0,'existing paid',repairs,3234,0.0,Unknown,3,'male mar/wid',none,1,'life insurance',22,Other,Other,1,'unskilled resident',1,no,Bad,12/29/1996,no,2
+968,968,"Suffolk, MA",Massachusetts,55.87,30.0,'existing paid',radio/tv,1715,0.0,1<=X<4,4,'female div/dep/mar',none,1,car,26,none,Other,1,skilled,1,Unknown,Good,12/30/1996,Unknown,0
+969,969,"Worcester, MA",Massachusetts,132.11,27.0,'critical/other existing credit',radio/tv,2520,774.26,1<=X<4,4,'male single',none,2,'life insurance',23,Other,own,2,'unskilled resident',1,yes,Good,Dec-31-1996,yes,0
+970,970,"Anne Arundel, MD",Maryland,0.0,15.0,no credit history,Unknown,3568,0.0,>=7,4,'female div/dep/mar',Unknown,0,Other,54,bank,rent,1,'high qualif/self emp/mgmt',1,Unknown,Good,1/1/1997,Unknown,2
+971,971,"Baltimore, MD",Maryland,0.0,42.0,'existing paid',radio/tv,7166,0.0,4<=X<7,2,'male mar/wid',none,4,'life insurance',29,none,rent,1,skilled,1,yes,Bad,1/2/1997,yes,1
+972,972,"Carroll, MD",Maryland,-9201.17,11.0,'critical/other existing credit','new car',3939,82.17,1<=X<4,1,'male single',none,2,'real estate',40,none,own,2,'unskilled resident',2,yes,Bad,1/3/1997,yes,2
+973,973,"Charles, MD",Maryland,0.0,15.0,'existing paid',repairs,1514,0.0,1<=X<4,0,'male single',guarantor,2,'real estate',22,Other,own,1,skilled,1,yes,Good,1/4/1997,yes,0
+974,974,"Frederick, MD",Maryland,,,,Unknown,3234,0.0,Unknown,0,Unknown,Unknown,0,Other,31,Other,Other,0,Other,Unknown,Unknown,Good,1/5/1997,Unknown,2
+975,975,"Montgomery, MD",Maryland,0.0,24.0,'existing paid','new car',7393,0.0,1<=X<4,1,'male single',none,4,'life insurance',43,none,Other,1,'unskilled resident',2,yes,Good,1/6/1997,yes,1
+976,976,"Prince George's, MD",Maryland,-3817.21,24.0,'all paid','new car',1193,7.35,unemployed,1,'female div/dep/mar','co applicant',4,'no known property',29,none,rent,2,'unemp/unskilled non res',1,Unknown,Good,1/7/1997,Unknown,0
+977,977,"Talbot, MD",Maryland,-5030.05,60.0,'existing paid',business,3234,0.0,>=7,0,'male single','co applicant',4,'no known property',31,none,rent,1,skilled,1,yes,Bad,1/8/1997,yes,2
+978,978,"Baltimore city, MD",Maryland,0.0,30.0,'critical/other existing credit',Unknown,3234,0.0,1<=X<4,0,'female div/dep/mar',none,2,car,33,none,own,1,skilled,1,Unknown,Bad,1/9/1997,Unknown,2
+979,979,"Somerset, ME",Maine,9492.3,24.0,'existing paid',radio/tv,3234,732.13,1<=X<4,3,'female div/dep/mar',none,3,Other,57,none,own,1,'unskilled resident',1,no,Good,1/10/1997,no,2
+980,980,"Berrien, MI",Michigan,161.73,6.0,'existing paid',radio/tv,753,0.0,1<=X<4,2,'female div/dep/mar',guarantor,0,'real estate',64,none,own,1,Other,1,no,Good,1/11/1997,no,0
+981,981,"Genesee, MI",Michigan,137.22,18.0,'delayed previously',business,2427,0.0,>=7,4,'male single',none,2,'life insurance',42,none,own,2,skilled,1,yes,Good,1/12/1997,yes,0
+982,982,"Huron, MI",Michigan,0.0,24.0,'delayed previously','new car',2538,0.0,>=7,4,Unknown,none,4,car,47,none,own,2,'unskilled resident',2,Unknown,Bad,1/13/1997,Unknown,0
+983,983,"Ingham, MI",Michigan,8.44,15.0,'all paid','new car',1264,119.45,1<=X<4,2,'male mar/wid',none,0,'life insurance',25,none,rent,1,skilled,1,Unknown,Good,1/14/1997,Unknown,0
+984,984,"Jackson, MI",Michigan,84.87,30.0,'critical/other existing credit',furniture/equipment,8386,1.92,4<=X<7,2,'male single',none,2,'life insurance',49,none,own,1,skilled,1,yes,Good,1/15/1997,yes,1
+985,985,"Kent, MI",Michigan,0.0,48.0,'existing paid',business,4844,0.0,unemployed,3,'male single',Unknown,2,car,33,bank,rent,1,'high qualif/self emp/mgmt',1,yes,Bad,1/16/1997,yes,2
+986,986,"Macomb, MI",Michigan,7338.22,21.0,'existing paid','new car',2923,174.71,1<=X<4,1,'female div/dep/mar',none,1,car,28,bank,own,1,'high qualif/self emp/mgmt',1,no,Good,1/17/1997,no,2
+987,987,"Macomb, MI",Michigan,-3300.97,36.0,'existing paid','used car',8229,32.32,1<=X<4,2,'male single',none,2,'life insurance',26,none,own,1,skilled,2,yes,Good,1/18/1997,yes,1
+988,988,"Macomb, MI",Michigan,0.0,24.0,'critical/other existing credit',furniture/equipment,2028,0.0,4<=X<7,2,'male single',none,2,'life insurance',30,none,own,2,'unskilled resident',1,Unknown,Good,1/19/1997,Unknown,0
+989,989,"Bernalillo, NM",New Mexico,-6188.9,15.0,'critical/other existing credit',furniture/equipment,1433,15.71,1<=X<4,4,'female div/dep/mar',none,3,'life insurance',25,none,rent,2,skilled,1,yes,Bad,1/20/1997,yes,0
+990,990,"Chaves, NM",New Mexico,3071.02,42.0,no credit history,business,6289,20.05,<1,2,'male div/sep',none,1,'life insurance',33,none,own,2,skilled,1,no,Good,1/21/1997,no,2
+991,991,"Dona Ana, NM",New Mexico,0.0,13.0,'existing paid',radio/tv,1409,0.0,unemployed,2,'female div/dep/mar',none,0,'real estate',64,none,own,1,skilled,1,yes,Bad,1/22/1997,yes,0
+992,992,"McKinley, NM",New Mexico,-5107.89,24.0,'existing paid','used car',6579,21.65,unemployed,4,'male single',Unknown,0,'no known property',29,none,'for free',1,'high qualif/self emp/mgmt',1,no,Good,1/23/1997,no,2
+993,993,"Clark, NV",Nevada,96.89,24.0,'critical/other existing credit',radio/tv,3234,29.55,>=7,4,'male single',none,2,'life insurance',48,none,own,0,'unskilled resident',1,no,Good,1/24/1997,no,2
+994,994,"Washoe, NV",Nevada,0.0,12.0,'critical/other existing credit',education,3565,0.0,<1,2,'male single',none,1,'life insurance',37,none,own,2,'unskilled resident',2,no,Good,1/25/1997,no,2
+995,995,"Erie, NY",New York,0.0,15.0,'all paid',radio/tv,1569,0.0,>=7,4,Unknown,none,4,car,34,bank,Other,1,'unskilled resident',2,no,Good,1/26/1997,no,0
+996,996,"Erie, NY",New York,0.0,18.0,'existing paid',radio/tv,1936,0.0,4<=X<7,2,'male mar/wid',none,4,car,23,none,Other,0,'unskilled resident',1,yes,Good,1/27/1997,yes,0
+997,997,"Monroe, NY",New York,-9599.81,36.0,'existing paid',furniture/equipment,3959,25.06,unemployed,0,Unknown,none,3,'life insurance',30,none,own,1,'high qualif/self emp/mgmt',Unknown,no,Bad,1/28/1997,no,2
+998,998,"Monroe, NY",New York,0.0,12.0,'existing paid','new car',2390,0.0,>=7,4,'male single',none,3,car,50,none,own,1,skilled,1,no,Good,1/29/1997,no,0
+999,999,"Nassau, NY",New York,0.0,12.0,'existing paid',furniture/equipment,1736,0.0,4<=X<7,3,Unknown,none,4,'real estate',31,none,own,1,'unskilled resident',1,no,Bad,1/30/1997,no,0
+1000,1000,"New York, NY",New York,-3296.07,30.0,'existing paid',Unknown,3857,88.42,1<=X<4,4,'male div/sep',none,4,'life insurance',40,none,own,1,'high qualif/self emp/mgmt',1,Unknown,Good,1/31/1997,Unknown,2
+1001,1001,"Butler, OH",Ohio,0.0,20.0,'existing paid',radio/tv,804,0.0,>=7,4,'male single',Unknown,4,car,38,none,own,1,skilled,1,no,Good,Feb-01-1997,no,0
+1002,1002,"Clark, OH",Ohio,-7050.13,45.0,'existing paid',radio/tv,1845,66.53,1<=X<4,4,'male single',Unknown,0,'no known property',23,none,'for free',1,skilled,Unknown,yes,Good,Feb-02-1997,yes,0
+1003,1003,"Clark, OH",Ohio,32.57,45.0,'critical/other existing credit',Unknown,4576,227.77,unemployed,3,'male single',Unknown,4,car,27,none,Other,1,skilled,1,yes,Good,Feb-03-1997,yes,2
